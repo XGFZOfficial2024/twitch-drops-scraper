@@ -3,6 +3,7 @@ import fs from "fs";
 
 (async () => {
   try {
+    console.log("Launching browser...");
     const browser = await puppeteer.launch({
       executablePath: "/usr/bin/chromium-browser",
       headless: "new",
@@ -11,31 +12,42 @@ import fs from "fs";
 
     const page = await browser.newPage();
 
+    console.log("Navigating to Twitch directory...");
     await page.goto("https://www.twitch.tv/directory/all?filter=live&dropsEnabled=true", {
       waitUntil: "domcontentloaded"
     });
 
-    // Wait an additional 5 seconds to allow React to load stream cards
-    await page.waitForTimeout(5000);
+    // A more reliable way to wait for content to load
+    console.log("Waiting for stream cards to appear...");
+    await page.waitForSelector('div.tw-tower > div[data-target="directory-page-body"] article', { timeout: 20000 });
 
+    // Optional: A brief additional wait for good measure, though waitForSelector is preferred
+    await new Promise(resolve => setTimeout(resolve, 3000));
+
+    console.log("Extracting data from the page...");
     const data = await page.evaluate(() => {
       const results = [];
-      const cards = Array.from(document.querySelectorAll('a[data-a-target="preview-card-image-link"]'));
+      // Use a more stable parent selector for the stream cards
+      const cards = Array.from(document.querySelectorAll('div.tw-tower > div[data-target="directory-page-body"] article'));
 
       for (const card of cards) {
         try {
-          const name = card.href.split("/").pop();
-          const cardDiv = card.closest('div[data-a-target="card-wrapper"]') || card.closest('div[data-a-target="preview-card"]');
-          if (!cardDiv) continue;
+          const linkElement = card.querySelector('a[data-a-target="preview-card-image-link"]');
+          if (!linkElement) continue;
 
-          const gameElem = cardDiv.querySelector('p[data-a-target="preview-card-game-link"]');
-          const viewersElem = cardDiv.querySelector('[data-a-target="preview-card-viewer-count"]');
+          const name = linkElement.href.split("/").pop();
 
-          const game = gameElem ? gameElem.textContent.trim() : "Unknown";
-          const viewers = viewersElem ? viewersElem.textContent.trim() : "0";
+          // Updated selectors for game and viewers
+          const gameElement = card.querySelector('p > a[data-a-target="preview-card-game-link"]');
+          const viewersElement = card.querySelector('div[data-a-target="preview-card-stats"] > div:first-of-type > p');
+
+          const game = gameElement ? gameElement.textContent.trim() : "Unknown";
+          const viewers = viewersElement ? viewersElement.textContent.trim() : "0";
 
           results.push({ name, game, viewers });
         } catch (e) {
+          // It's often better to log the error to see why a card might fail
+          console.error("Error processing a card:", e);
           continue;
         }
       }
@@ -43,6 +55,7 @@ import fs from "fs";
       return results;
     });
 
+    console.log("Closing browser...");
     await browser.close();
 
     fs.writeFileSync("drops.json", JSON.stringify(data, null, 2));
