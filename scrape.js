@@ -12,11 +12,11 @@ import fs from "fs";
     const page = await browser.newPage();
 
     await page.goto("https://www.twitch.tv/directory/all?filter=live&dropsEnabled=true", {
-      waitUntil: "networkidle2"
+      waitUntil: "domcontentloaded"
     });
 
-    // Wait for any stream cards to show up
-    await page.waitForSelector('[data-a-target="preview-card-image-link"]', { timeout: 15000 });
+    // Wait an additional 5 seconds to allow React to load stream cards
+    await page.waitForTimeout(5000);
 
     const data = await page.evaluate(() => {
       const results = [];
@@ -26,7 +26,6 @@ import fs from "fs";
         try {
           const name = card.href.split("/").pop();
           const cardDiv = card.closest('div[data-a-target="card-wrapper"]') || card.closest('div[data-a-target="preview-card"]');
-
           if (!cardDiv) continue;
 
           const gameElem = cardDiv.querySelector('p[data-a-target="preview-card-game-link"]');
@@ -37,7 +36,6 @@ import fs from "fs";
 
           results.push({ name, game, viewers });
         } catch (e) {
-          // Just skip this card and keep going
           continue;
         }
       }
