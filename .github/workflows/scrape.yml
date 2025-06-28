@@ -12,14 +12,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # --- NEW STEP TO INSTALL BROWSER DEPENDENCIES ---
+      # This step is now corrected for Ubuntu 24.04
       - name: Install Chromium Dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y \
           ca-certificates \
           fonts-liberation \
-          libasound2 \
+          libasound2t64 \
           libatk-bridge2.0-0 \
           libatk1.0-0 \
           libc6 \
@@ -53,7 +53,6 @@ jobs:
           lsb-release \
           wget \
           xdg-utils
-      # ----------------------------------------------------
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -66,12 +65,15 @@ jobs:
       - name: Run Scraper
         run: node scrape.js
 
-      - name: Upload screenshot on failure
+      - name: Upload screenshots on failure
         if: failure()
         uses: actions/upload-artifact@v4
         with:
-          name: error-screenshot
-          path: . # Upload the entire directory to get all screenshots
+          name: error-screenshots
+          path: |
+            render-test.png
+            twitch_initial_load.png
+            error_screenshot.png
           retention-days: 5
 
       - name: Commit JSON
