@@ -4,46 +4,43 @@ import fs from "fs";
 (async () => {
   let browser;
   try {
-    console.log("Launching browser with robust arguments...");
+    console.log("Launching browser with ALL arguments...");
     browser = await puppeteer.launch({
       executablePath: "/usr/bin/chromium-browser",
       headless: "new",
-      // --- CRITICAL NEW ARGUMENTS ---
-      // These flags are essential for running in a containerized/CI-CD environment
       args: [
-        "--no-sandbox",
-        "--disable-setuid-sandbox",
-        "--disable-infobars",
-        "--window-position=0,0",
-        "--ignore-certifcate-errors",
-        "--ignore-certifcate-errors-spki-list",
-        "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
-        // The following are crucial for preventing the white screen issue
-        "--disable-gpu", // Disables GPU hardware acceleration
-        "--disable-dev-shm-usage", // Overcomes limited resource problems
-        "--no-zygote", // Disables the zygote process for forking child processes in Linux
+        '--no-sandbox',
+        '--disable-setuid-sandbox',
+        '--disable-gpu',
+        '--disable-dev-shm-usage',
+        '--no-zygote',
+        '--single-process', // Sometimes helps in constrained environments
+        '--disable-features=IsolateOrigins,site-per-process',
+        '--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
       ],
-      // -----------------------------
     });
 
     const page = await browser.newPage();
-
-    // Set a longer default timeout for all page operations
     page.setDefaultNavigationTimeout(60000);
     page.setDefaultTimeout(60000);
 
+    // --- NEW DEBUGGING STEP ---
+    console.log("--- Starting Environment Render Test ---");
+    const simpleHtml = '<html><body><h1>Hello, World!</h1><p>This is a render test.</p></body></html>';
+    await page.setContent(simpleHtml, { waitUntil: 'domcontentloaded' });
+    await page.screenshot({ path: 'render-test.png' });
+    console.log("✅ Render test complete. Check 'render-test.png'.");
+    // ----------------------------
+
     console.log("Navigating to Twitch directory...");
-    await page.goto(
-      "https://www.twitch.tv/directory/all?filter=live&dropsEnabled=true",
-      {
-        waitUntil: "networkidle2",
-      }
-    );
+    await page.goto("https://www.twitch.tv/directory/all?filter=live&dropsEnabled=true", {
+      waitUntil: "networkidle2",
+    });
 
-    // After navigation, let's see what the page looks like *before* we wait
-    console.log("Initial page loaded. Taking a preliminary screenshot.");
-    await page.screenshot({ path: "pre-wait_screenshot.png" });
+    console.log("Taking initial screenshot of Twitch page...");
+    await page.screenshot({ path: "twitch_initial_load.png" });
 
+    // The rest of your script continues here...
     try {
       console.log("Looking for cookie consent button...");
       const cookieButtonSelector = 'button[data-a-target="consent-banner-accept"]';
@@ -64,29 +61,28 @@ import fs from "fs";
 
     console.log("Extracting data from the page...");
     const data = await page.evaluate(() => {
-      const results = [];
-      const streamArticles = document.querySelectorAll("div.Layout-relative.qa-tower-preview-card");
-
-      for (const article of streamArticles) {
-        try {
-          const linkElement = article.querySelector('a[data-a-target="preview-card-image-link"]');
-          if (!linkElement) continue;
-
-          const streamerName = linkElement.href.split("/").pop();
-          const gameElement = article.querySelector('a[data-a-target="preview-card-game-link"]');
-          const viewersElement = article.querySelector('div[data-a-target="preview-card-stats"] > div:first-of-type > p');
-
-          const game = gameElement ? gameElement.textContent.trim() : "Unknown";
-          const viewers = viewersElement ? viewersElement.textContent.trim() : "0";
-
-          if (streamerName && streamerName !== "null") {
-            results.push({ name: streamerName, game, viewers });
-          }
-        } catch (e) {
-          // This allows the loop to continue even if one card has a weird structure
+        // ... evaluate logic remains the same
+        const results = [];
+        const streamArticles = document.querySelectorAll("div.Layout-relative.qa-tower-preview-card");
+  
+        for (const article of streamArticles) {
+          try {
+            const linkElement = article.querySelector('a[data-a-target="preview-card-image-link"]');
+            if (!linkElement) continue;
+  
+            const streamerName = linkElement.href.split("/").pop();
+            const gameElement = article.querySelector('a[data-a-target="preview-card-game-link"]');
+            const viewersElement = article.querySelector('div[data-a-target="preview-card-stats"] > div:first-of-type > p');
+  
+            const game = gameElement ? gameElement.textContent.trim() : "Unknown";
+            const viewers = viewersElement ? viewersElement.textContent.trim() : "0";
+  
+            if (streamerName && streamerName !== "null") {
+              results.push({ name: streamerName, game, viewers });
+            }
+          } catch (e) {}
         }
-      }
-      return results;
+        return results;
     });
 
     if (browser) await browser.close();
@@ -95,11 +91,10 @@ import fs from "fs";
     fs.writeFileSync("drops.json", JSON.stringify(data, null, 2));
 
     if (data.length > 0) {
-      console.log(`✅ Successfully scraped ${data.length} streams with drops enabled.`);
+        console.log(`✅ Successfully scraped ${data.length} streams with drops enabled.`);
     } else {
-      console.warn("⚠️ Scraper finished, but no data was extracted. The website layout may have changed or no streams with drops are live.");
+        console.warn("⚠️ Scraper finished, but no data was extracted. The website layout may have changed or no streams with drops are live.");
     }
-
   } catch (error) {
     console.error("❌ Scraper failed:", error);
     if (browser) {
