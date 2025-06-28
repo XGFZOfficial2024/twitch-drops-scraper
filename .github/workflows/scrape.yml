@@ -6,28 +6,53 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  # I've renamed the job from "build" to "scrape" for clarity
+  scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Step 1: Use the latest version of the checkout action
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
+      # Step 2: Use the latest version of setup-node and a current Node version
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: '20'
 
+      # Step 3: Use 'npm install' to install all dependencies from package.json
       - name: Install dependencies
-        run: npm install puppeteer
+        run: npm install
 
+      # Step 4: Run the scraper script
       - name: Run Scraper
+        id: scraper # Give this step an ID so we can reference its outcome
         run: node scrape.js
 
+      # --- THIS STEP WAS MISSING ---
+      # Step 5: This step ONLY runs if the "Run Scraper" step failed
+      - name: Upload screenshot on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: error-screenshot
+          path: error_screenshot.png
+          retention-days: 5
+
+      # --- THIS STEP IS NOW CONDITIONAL ---
+      # Step 6: This step ONLY runs if the "Run Scraper" step was successful
       - name: Commit JSON
+        if: success()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add drops.json
-          git commit -m "Update drops.json"
-          git push
+          # Check if there are changes to commit before committing
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update drops.json"
+            git push
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
