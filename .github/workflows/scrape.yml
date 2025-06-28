@@ -8,6 +8,13 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
+    # --- THIS IS THE FIX ---
+    # Grant write permissions to the GITHUB_TOKEN for this job
+    permissions:
+      contents: write
+    # -----------------------
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -16,7 +23,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm' # Cache npm packages for faster installs
+          cache: 'npm'
 
       - name: Install dependencies from package.json
         run: npm install
