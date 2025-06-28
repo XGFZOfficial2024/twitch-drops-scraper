@@ -4,21 +4,29 @@ import fs from "fs";
 (async () => {
   let browser;
   try {
-    console.log("Launching browser...");
+    console.log("Launching browser with robust arguments...");
     browser = await puppeteer.launch({
       executablePath: "/usr/bin/chromium-browser",
       headless: "new",
+      // --- CRITICAL NEW ARGUMENTS ---
+      // These flags are essential for running in a containerized/CI-CD environment
       args: [
         "--no-sandbox",
         "--disable-setuid-sandbox",
-        "--window-size=1920,1080",
+        "--disable-infobars",
+        "--window-position=0,0",
+        "--ignore-certifcate-errors",
+        "--ignore-certifcate-errors-spki-list",
+        "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36",
+        // The following are crucial for preventing the white screen issue
+        "--disable-gpu", // Disables GPU hardware acceleration
+        "--disable-dev-shm-usage", // Overcomes limited resource problems
+        "--no-zygote", // Disables the zygote process for forking child processes in Linux
       ],
+      // -----------------------------
     });
 
     const page = await browser.newPage();
-    await page.setUserAgent(
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
-    );
 
     // Set a longer default timeout for all page operations
     page.setDefaultNavigationTimeout(60000);
@@ -32,10 +40,14 @@ import fs from "fs";
       }
     );
 
+    // After navigation, let's see what the page looks like *before* we wait
+    console.log("Initial page loaded. Taking a preliminary screenshot.");
+    await page.screenshot({ path: "pre-wait_screenshot.png" });
+
     try {
       console.log("Looking for cookie consent button...");
       const cookieButtonSelector = 'button[data-a-target="consent-banner-accept"]';
-      await page.waitForSelector(cookieButtonSelector, { timeout: 7000 });
+      await page.waitForSelector(cookieButtonSelector, { timeout: 7000, visible: true });
       await page.click(cookieButtonSelector);
       console.log("Cookie consent accepted.");
     } catch (e) {
@@ -43,19 +55,16 @@ import fs from "fs";
     }
 
     console.log("Waiting for stream cards container to appear...");
-    // A more stable selector for the main directory listing area
     const mainContentSelector = 'main.tw-flex-grow-1';
     await page.waitForSelector(mainContentSelector);
 
     console.log("Waiting for at least one stream card to render...");
-    // This is a more reliable final check - wait for the first card to actually show up
     const firstCardSelector = 'a[data-a-target="preview-card-image-link"]';
     await page.waitForSelector(firstCardSelector);
 
     console.log("Extracting data from the page...");
     const data = await page.evaluate(() => {
       const results = [];
-      // Select the direct parent of the links for more stability
       const streamArticles = document.querySelectorAll("div.Layout-relative.qa-tower-preview-card");
 
       for (const article of streamArticles) {
@@ -64,9 +73,7 @@ import fs from "fs";
           if (!linkElement) continue;
 
           const streamerName = linkElement.href.split("/").pop();
-
           const gameElement = article.querySelector('a[data-a-target="preview-card-game-link"]');
-          // This selector for viewers is more specific to the current layout
           const viewersElement = article.querySelector('div[data-a-target="preview-card-stats"] > div:first-of-type > p');
 
           const game = gameElement ? gameElement.textContent.trim() : "Unknown";
@@ -82,8 +89,8 @@ import fs from "fs";
       return results;
     });
 
-    await browser.close();
-    browser = null; // Clear browser variable
+    if (browser) await browser.close();
+    browser = null;
 
     fs.writeFileSync("drops.json", JSON.stringify(data, null, 2));
 
@@ -96,12 +103,10 @@ import fs from "fs";
   } catch (error) {
     console.error("❌ Scraper failed:", error);
     if (browser) {
-      // --- CRITICAL DEBUGGING STEP ---
       const page = (await browser.pages())[0];
       await page.screenshot({ path: "error_screenshot.png" });
       console.log("📸 Screenshot of the error page has been saved to 'error_screenshot.png'.");
       await browser.close();
-      // -----------------------------
     }
     process.exit(1);
   }
