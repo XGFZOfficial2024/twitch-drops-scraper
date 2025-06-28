@@ -1,108 +1,80 @@
-import puppeteer from "puppeteer";
-import fs from "fs";
+import axios from 'axios';
+import fs from 'fs';
 
-(async () => {
-  let browser;
+const CLIENT_ID = process.env.TWITCH_CLIENT_ID;
+const CLIENT_SECRET = process.env.TWITCH_CLIENT_SECRET;
+
+// The official Tag ID for "Drops Enabled"
+const DROPS_ENABLED_TAG_ID = "c2542d6d-cd10-4532-919b-3d19f30a768b";
+
+/**
+ * Gets an App Access Token from Twitch
+ */
+async function getAccessToken() {
+  console.log("Requesting Twitch API access token...");
   try {
-    console.log("Launching browser with ALL arguments...");
-    browser = await puppeteer.launch({
-      executablePath: "/usr/bin/chromium-browser",
-      headless: "new",
-      args: [
-        '--no-sandbox',
-        '--disable-setuid-sandbox',
-        '--disable-gpu',
-        '--disable-dev-shm-usage',
-        '--no-zygote',
-        '--single-process', // Sometimes helps in constrained environments
-        '--disable-features=IsolateOrigins,site-per-process',
-        '--user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
-      ],
-    });
-
-    const page = await browser.newPage();
-    page.setDefaultNavigationTimeout(60000);
-    page.setDefaultTimeout(60000);
-
-    // --- NEW DEBUGGING STEP ---
-    console.log("--- Starting Environment Render Test ---");
-    const simpleHtml = '<html><body><h1>Hello, World!</h1><p>This is a render test.</p></body></html>';
-    await page.setContent(simpleHtml, { waitUntil: 'domcontentloaded' });
-    await page.screenshot({ path: 'render-test.png' });
-    console.log("✅ Render test complete. Check 'render-test.png'.");
-    // ----------------------------
-
-    console.log("Navigating to Twitch directory...");
-    await page.goto("https://www.twitch.tv/directory/all?filter=live&dropsEnabled=true", {
-      waitUntil: "networkidle2",
-    });
-
-    console.log("Taking initial screenshot of Twitch page...");
-    await page.screenshot({ path: "twitch_initial_load.png" });
-
-    // The rest of your script continues here...
-    try {
-      console.log("Looking for cookie consent button...");
-      const cookieButtonSelector = 'button[data-a-target="consent-banner-accept"]';
-      await page.waitForSelector(cookieButtonSelector, { timeout: 7000, visible: true });
-      await page.click(cookieButtonSelector);
-      console.log("Cookie consent accepted.");
-    } catch (e) {
-      console.log("Cookie consent banner not found or failed to click, continuing...");
-    }
-
-    console.log("Waiting for stream cards container to appear...");
-    const mainContentSelector = 'main.tw-flex-grow-1';
-    await page.waitForSelector(mainContentSelector);
-
-    console.log("Waiting for at least one stream card to render...");
-    const firstCardSelector = 'a[data-a-target="preview-card-image-link"]';
-    await page.waitForSelector(firstCardSelector);
-
-    console.log("Extracting data from the page...");
-    const data = await page.evaluate(() => {
-        // ... evaluate logic remains the same
-        const results = [];
-        const streamArticles = document.querySelectorAll("div.Layout-relative.qa-tower-preview-card");
-  
-        for (const article of streamArticles) {
-          try {
-            const linkElement = article.querySelector('a[data-a-target="preview-card-image-link"]');
-            if (!linkElement) continue;
-  
-            const streamerName = linkElement.href.split("/").pop();
-            const gameElement = article.querySelector('a[data-a-target="preview-card-game-link"]');
-            const viewersElement = article.querySelector('div[data-a-target="preview-card-stats"] > div:first-of-type > p');
-  
-            const game = gameElement ? gameElement.textContent.trim() : "Unknown";
-            const viewers = viewersElement ? viewersElement.textContent.trim() : "0";
-  
-            if (streamerName && streamerName !== "null") {
-              results.push({ name: streamerName, game, viewers });
-            }
-          } catch (e) {}
-        }
-        return results;
-    });
-
-    if (browser) await browser.close();
-    browser = null;
-
-    fs.writeFileSync("drops.json", JSON.stringify(data, null, 2));
-
-    if (data.length > 0) {
-        console.log(`✅ Successfully scraped ${data.length} streams with drops enabled.`);
-    } else {
-        console.warn("⚠️ Scraper finished, but no data was extracted. The website layout may have changed or no streams with drops are live.");
-    }
+    const response = await axios.post(
+      `https://id.twitch.tv/oauth2/token?client_id=${CLIENT_ID}&client_secret=${CLIENT_SECRET}&grant_type=client_credentials`
+    );
+    console.log("✅ Access token received.");
+    return response.data.access_token;
   } catch (error) {
-    console.error("❌ Scraper failed:", error);
-    if (browser) {
-      const page = (await browser.pages())[0];
-      await page.screenshot({ path: "error_screenshot.png" });
-      console.log("📸 Screenshot of the error page has been saved to 'error_screenshot.png'.");
-      await browser.close();
-    }
+    console.error("❌ Failed to get access token:", error.response?.data || error.message);
+    throw new Error("Could not get Twitch access token.");
+  }
+}
+
+/**
+ * Gets a list of live streams with the "Drops Enabled" tag
+ */
+async function getDropsStreams(token) {
+  console.log("Fetching streams with drops enabled...");
+  try {
+    const response = await axios.get('https://api.twitch.tv/helix/streams', {
+      headers: {
+        'Client-ID': CLIENT_ID,
+        'Authorization': `Bearer ${token}`,
+      },
+      params: {
+        // We look for streams with the specific tag ID. 'first: 100' gets the max per page.
+        tag_id: DROPS_ENABLED_TAG_ID,
+        first: 100,
+      },
+    });
+
+    // The API returns a 'data' array. We format it to match our old structure.
+    const streams = response.data.data.map(stream => ({
+      name: stream.user_login,
+      game: stream.game_name,
+      viewers: stream.viewer_count.toString(),
+    }));
+    
+    console.log(`✅ Found ${streams.length} streams.`);
+    return streams;
+
+  } catch (error) {
+    console.error("❌ Failed to fetch streams:", error.response?.data || error.message);
+    throw new Error("Could not fetch streams from Twitch API.");
+  }
+}
+
+
+// --- Main Execution ---
+(async () => {
+  if (!CLIENT_ID || !CLIENT_SECRET) {
+    console.error("❌ Fatal: TWITCH_CLIENT_ID and TWITCH_CLIENT_SECRET must be set.");
+    process.exit(1);
+  }
+
+  try {
+    const accessToken = await getAccessToken();
+    const streamsData = await getDropsStreams(accessToken);
+    
+    fs.writeFileSync("drops.json", JSON.stringify(streamsData, null, 2));
+    console.log("Successfully wrote drops data to drops.json");
+
+  } catch (error) {
+    console.error("Scraper failed during execution:", error.message);
     process.exit(1);
   }
 })();
