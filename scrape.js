@@ -38,7 +38,7 @@ async function getDropsStreams(token) {
       params: {
         // We look for streams with the specific tag ID. 'first: 100' gets the max per page.
         tag_id: DROPS_ENABLED_TAG_ID,
-        first: 100,
+        first: 1000000000,
       },
     });
 
