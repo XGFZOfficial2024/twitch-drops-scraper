@@ -1,11 +1,13 @@
 {
-  "name": "twitch-drops-scraper",
+  "name": "twitch-drops-api-scraper",
   "version": "1.0.0",
+  "description": "Scrapes Twitch drops via the official API",
+  "main": "scrape.js",
   "type": "module",
   "scripts": {
     "start": "node scrape.js"
   },
   "dependencies": {
-    "puppeteer": "^22.8.2"
+    "axios": "^1.7.2"
   }
 }
