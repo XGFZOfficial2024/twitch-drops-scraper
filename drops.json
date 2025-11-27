@@ -2,62 +2,62 @@
   {
     "name": "pestily",
     "game": "Escape from Tarkov",
-    "viewers": "80601"
+    "viewers": "81563"
   },
   {
     "name": "ohnepixel",
     "game": "Counter-Strike",
-    "viewers": "61406"
+    "viewers": "56270"
   },
   {
     "name": "mokrivskyi",
     "game": "Counter-Strike",
-    "viewers": "50900"
+    "viewers": "53667"
   },
   {
     "name": "ow_esports",
     "game": "Overwatch 2",
-    "viewers": "39318"
-  },
-  {
-    "name": "starladder_cs_en",
-    "game": "Counter-Strike",
-    "viewers": "28505"
+    "viewers": "40136"
   },
   {
     "name": "sasavot",
     "game": "Just Chatting",
-    "viewers": "27769"
+    "viewers": "39092"
+  },
+  {
+    "name": "starladder_cs_en",
+    "game": "Counter-Strike",
+    "viewers": "29946"
   },
   {
     "name": "majesticmcl",
     "game": "Grand Theft Auto V",
-    "viewers": "23660"
+    "viewers": "24664"
   },
   {
     "name": "domingo",
     "game": "League of Legends",
-    "viewers": "19030"
+    "viewers": "19812"
   },
   {
     "name": "anarabdullaev",
     "game": "IRL",
-    "viewers": "16141"
+    "viewers": "16621"
   },
   {
     "name": "glorious_e",
     "game": "Escape from Tarkov",
-    "viewers": "15736"
+    "viewers": "15844"
   },
   {
     "name": "yaritaiji",
     "game": "Call of Duty: Black Ops 7",
-    "viewers": "15237"
+    "viewers": "14694"
   },
   {
     "name": "afoninje",
     "game": "Dota 2",
-    "viewers": "13724"
+    "viewers": "14002"
   },
   {
     "name": "dunduk",
@@ -65,24 +65,34 @@
     "viewers": "13629"
   },
   {
-    "name": "cr_arisakaaa",
+    "name": "fps_shaka",
     "game": "Escape from Tarkov",
-    "viewers": "12815"
-  },
-  {
-    "name": "t2x2",
-    "game": "Just Chatting",
-    "viewers": "12663"
+    "viewers": "13147"
   },
   {
     "name": "sheefgg",
     "game": "Escape from Tarkov",
-    "viewers": "12399"
+    "viewers": "12682"
   },
   {
-    "name": "fps_shaka",
+    "name": "cr_arisakaaa",
     "game": "Escape from Tarkov",
-    "viewers": "11925"
+    "viewers": "12532"
+  },
+  {
+    "name": "nowike_",
+    "game": "Just Chatting",
+    "viewers": "12451"
+  },
+  {
+    "name": "t2x2",
+    "game": "Just Chatting",
+    "viewers": "12207"
+  },
+  {
+    "name": "martinciriook",
+    "game": "Just Chatting",
+    "viewers": "12112"
   },
   {
     "name": "trymacs",
@@ -90,24 +100,19 @@
     "viewers": "11917"
   },
   {
-    "name": "martinciriook",
-    "game": "Just Chatting",
-    "viewers": "11744"
-  },
-  {
     "name": "maza4kst",
     "game": "Escape from Tarkov",
-    "viewers": "11360"
-  },
-  {
-    "name": "batora324",
-    "game": "Call of Duty: Black Ops 7",
-    "viewers": "11002"
+    "viewers": "11780"
   },
   {
     "name": "zarbex",
     "game": "Farming Simulator 25",
-    "viewers": "10743"
+    "viewers": "11150"
+  },
+  {
+    "name": "blastdota",
+    "game": "Dota 2",
+    "viewers": "10631"
   },
   {
     "name": "handofblood",
@@ -115,1204 +120,1239 @@
     "viewers": "10157"
   },
   {
-    "name": "blastdota",
-    "game": "Dota 2",
-    "viewers": "9939"
+    "name": "willerz",
+    "game": "Escape from Tarkov",
+    "viewers": "10103"
+  },
+  {
+    "name": "batora324",
+    "game": "Call of Duty: Black Ops 7",
+    "viewers": "10014"
   },
   {
     "name": "cohhcarnage",
     "game": "Total Chaos",
-    "viewers": "9069"
-  },
-  {
-    "name": "topson",
-    "game": "Dota 2",
-    "viewers": "8765"
-  },
-  {
-    "name": "willerz",
-    "game": "Escape from Tarkov",
-    "viewers": "8591"
+    "viewers": "9162"
   },
   {
     "name": "ironmouse",
     "game": "ELDEN RING",
-    "viewers": "8362"
+    "viewers": "8336"
   },
   {
-    "name": "nowike_",
-    "game": "Just Chatting",
-    "viewers": "8159"
-  },
-  {
-    "name": "recrent",
-    "game": "ARC Raiders",
-    "viewers": "8149"
-  },
-  {
-    "name": "baxbeast",
-    "game": "Escape from Tarkov",
-    "viewers": "7949"
+    "name": "topson",
+    "game": "Dota 2",
+    "viewers": "8270"
   },
   {
     "name": "ravshann",
     "game": "IRL",
-    "viewers": "7858"
+    "viewers": "8073"
+  },
+  {
+    "name": "baxbeast",
+    "game": "Escape from Tarkov",
+    "viewers": "8024"
+  },
+  {
+    "name": "recrent",
+    "game": "ARC Raiders",
+    "viewers": "7698"
   },
   {
     "name": "nickmercs",
     "game": "ARC Raiders",
-    "viewers": "7125"
-  },
-  {
-    "name": "folagorlives",
-    "game": "Special Events",
-    "viewers": "6919"
+    "viewers": "7669"
   },
   {
     "name": "letshugotv",
     "game": "IRL",
-    "viewers": "6711"
+    "viewers": "7116"
   },
   {
     "name": "pangi",
     "game": "Minecraft",
-    "viewers": "6587"
+    "viewers": "6876"
   },
   {
-    "name": "tigz",
-    "game": "Escape from Tarkov",
-    "viewers": "6186"
+    "name": "folagorlives",
+    "game": "Special Events",
+    "viewers": "6248"
   },
   {
     "name": "officialhyper",
     "game": "Counter-Strike",
-    "viewers": "6077"
+    "viewers": "6217"
   },
   {
     "name": "cdawg",
     "game": "ELDEN RING",
-    "viewers": "5955"
+    "viewers": "6029"
   },
   {
     "name": "ta1yo_tv",
     "game": "Overwatch 2",
-    "viewers": "5926"
+    "viewers": "6012"
   },
   {
-    "name": "mobilmobil",
-    "game": "FINAL FANTASY XIV ONLINE",
-    "viewers": "5691"
+    "name": "tigz",
+    "game": "Escape from Tarkov",
+    "viewers": "5928"
   },
   {
     "name": "quin69",
     "game": "Just Chatting",
-    "viewers": "5667"
+    "viewers": "5859"
   },
   {
     "name": "bbbb87",
     "game": "League of Legends",
-    "viewers": "5554"
-  },
-  {
-    "name": "s0mcs",
-    "game": "VALORANT",
-    "viewers": "5121"
+    "viewers": "5401"
   },
   {
     "name": "relog_pari_dota_ru",
     "game": "Dota 2",
-    "viewers": "5115"
+    "viewers": "5346"
   },
   {
-    "name": "nattynattlol",
-    "game": "League of Legends",
-    "viewers": "5084"
-  },
-  {
-    "name": "b_komhate",
-    "game": "Escape from Tarkov",
-    "viewers": "5023"
-  },
-  {
-    "name": "a1000281",
-    "game": "Just Chatting",
-    "viewers": "4997"
+    "name": "mobilmobil",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "5345"
   },
   {
     "name": "mrdzinold",
     "game": "Counter-Strike",
-    "viewers": "4937"
+    "viewers": "5340"
   },
   {
-    "name": "mckytv",
-    "game": "Just Chatting",
-    "viewers": "4932"
-  },
-  {
-    "name": "meiy_vl",
-    "game": "Among Us",
-    "viewers": "4920"
-  },
-  {
-    "name": "pier",
-    "game": "Fortnite",
-    "viewers": "4904"
-  },
-  {
-    "name": "roomyxx",
-    "game": "Just Chatting",
-    "viewers": "4884"
-  },
-  {
-    "name": "ow_esports_jp",
-    "game": "Overwatch 2",
-    "viewers": "4862"
-  },
-  {
-    "name": "orkpod",
-    "game": "Just Chatting",
-    "viewers": "4850"
-  },
-  {
-    "name": "leva2k",
-    "game": "Just Chatting",
-    "viewers": "4722"
-  },
-  {
-    "name": "daigothebeastv",
-    "game": "Just Chatting",
-    "viewers": "4609"
-  },
-  {
-    "name": "theburntpeanut_247",
-    "game": "Always On",
-    "viewers": "4551"
-  },
-  {
-    "name": "blackufa",
-    "game": "Hail to the Rainbow",
-    "viewers": "4516"
-  },
-  {
-    "name": "iceicell",
-    "game": "Dispatch",
-    "viewers": "4431"
-  },
-  {
-    "name": "nikolarn",
-    "game": "ARC Raiders",
-    "viewers": "4383"
-  },
-  {
-    "name": "mistermv",
-    "game": "Street Fighter 6",
-    "viewers": "4373"
-  },
-  {
-    "name": "controcalcio__",
-    "game": "Sports",
-    "viewers": "4358"
+    "name": "s0mcs",
+    "game": "VALORANT",
+    "viewers": "5235"
   },
   {
     "name": "forsen",
     "game": "Just Chatting",
-    "viewers": "4353"
+    "viewers": "5234"
   },
   {
-    "name": "fl0m",
-    "game": "Counter-Strike",
-    "viewers": "4257"
+    "name": "nikolarn",
+    "game": "ARC Raiders",
+    "viewers": "5016"
   },
   {
-    "name": "rezreel",
-    "game": "PUBG: BATTLEGROUNDS",
-    "viewers": "4249"
-  },
-  {
-    "name": "nooreax",
-    "game": "Minecraft",
-    "viewers": "4213"
-  },
-  {
-    "name": "guzu",
-    "game": "World of Warcraft",
-    "viewers": "4171"
-  },
-  {
-    "name": "enzzai",
+    "name": "orkpod",
     "game": "Just Chatting",
-    "viewers": "4143"
+    "viewers": "4996"
   },
   {
-    "name": "kspksp",
-    "game": "FINAL FANTASY XIV ONLINE",
-    "viewers": "4088"
-  },
-  {
-    "name": "dinablin",
+    "name": "mckytv",
     "game": "Just Chatting",
-    "viewers": "4088"
+    "viewers": "4986"
   },
   {
-    "name": "inkmate0",
-    "game": "Counter-Strike",
-    "viewers": "4073"
+    "name": "b_komhate",
+    "game": "Escape from Tarkov",
+    "viewers": "4927"
   },
   {
-    "name": "pelaajatcom",
-    "game": "Counter-Strike",
-    "viewers": "4069"
+    "name": "ow_esports_jp",
+    "game": "Overwatch 2",
+    "viewers": "4880"
   },
   {
-    "name": "akarindao",
-    "game": "Minecraft",
-    "viewers": "4035"
-  },
-  {
-    "name": "melharucos",
-    "game": "Escape from Duckov",
-    "viewers": "4006"
-  },
-  {
-    "name": "avice",
-    "game": "Dota 2",
-    "viewers": "3945"
-  },
-  {
-    "name": "gutitubo",
-    "game": "Rust",
-    "viewers": "3916"
-  },
-  {
-    "name": "worldofwarships",
-    "game": "World of Warships",
-    "viewers": "3874"
+    "name": "a1000281",
+    "game": "Just Chatting",
+    "viewers": "4860"
   },
   {
     "name": "alois_nl",
     "game": "League of Legends",
-    "viewers": "3872"
+    "viewers": "4786"
   },
   {
-    "name": "barbarousking",
-    "game": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-    "viewers": "3796"
+    "name": "rezreel",
+    "game": "PUBG: BATTLEGROUNDS",
+    "viewers": "4725"
   },
   {
-    "name": "casebattle_official",
-    "game": "Counter-Strike",
-    "viewers": "3676"
+    "name": "controcalcio__",
+    "game": "Sports",
+    "viewers": "4670"
   },
   {
-    "name": "enzoknol",
-    "game": "Minecraft",
-    "viewers": "3647"
+    "name": "mistermv",
+    "game": "Street Fighter 6",
+    "viewers": "4591"
   },
   {
-    "name": "kamito_jp",
+    "name": "roomyxx",
+    "game": "Just Chatting",
+    "viewers": "4535"
+  },
+  {
+    "name": "nattynattlol",
     "game": "League of Legends",
-    "viewers": "3614"
+    "viewers": "4497"
+  },
+  {
+    "name": "blackufa",
+    "game": "Hail to the Rainbow",
+    "viewers": "4467"
+  },
+  {
+    "name": "theburntpeanut_247",
+    "game": "Always On",
+    "viewers": "4455"
+  },
+  {
+    "name": "leva2k",
+    "game": "Just Chatting",
+    "viewers": "4445"
+  },
+  {
+    "name": "pier",
+    "game": "Fortnite",
+    "viewers": "4445"
+  },
+  {
+    "name": "nooreax",
+    "game": "Minecraft",
+    "viewers": "4395"
+  },
+  {
+    "name": "pelaajatcom",
+    "game": "Counter-Strike",
+    "viewers": "4351"
+  },
+  {
+    "name": "inkmate0",
+    "game": "Counter-Strike",
+    "viewers": "4332"
+  },
+  {
+    "name": "meiy_vl",
+    "game": "Among Us",
+    "viewers": "4237"
+  },
+  {
+    "name": "fl0m",
+    "game": "Counter-Strike",
+    "viewers": "4201"
+  },
+  {
+    "name": "worldofwarships",
+    "game": "World of Warships",
+    "viewers": "4193"
+  },
+  {
+    "name": "dinablin",
+    "game": "Just Chatting",
+    "viewers": "4134"
+  },
+  {
+    "name": "guzu",
+    "game": "World of Warcraft",
+    "viewers": "4110"
+  },
+  {
+    "name": "kspksp",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "4090"
+  },
+  {
+    "name": "enzzai",
+    "game": "Just Chatting",
+    "viewers": "4028"
+  },
+  {
+    "name": "melharucos",
+    "game": "Escape from Duckov",
+    "viewers": "3962"
+  },
+  {
+    "name": "akarindao",
+    "game": "Minecraft",
+    "viewers": "3942"
   },
   {
     "name": "betboom_mobile",
     "game": "Mobile Legends: Bang Bang",
-    "viewers": "3537"
+    "viewers": "3885"
   },
   {
-    "name": "gorgc",
-    "game": "Dota 2",
-    "viewers": "3481"
+    "name": "barbarousking",
+    "game": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+    "viewers": "3862"
   },
   {
-    "name": "cs2_maincast",
+    "name": "gutitubo",
+    "game": "Rust",
+    "viewers": "3815"
+  },
+  {
+    "name": "casebattle_official",
     "game": "Counter-Strike",
-    "viewers": "3452"
-  },
-  {
-    "name": "fritz_meinecke",
-    "game": "Just Chatting",
-    "viewers": "3418"
-  },
-  {
-    "name": "2twistedtv",
-    "game": "Escape from Tarkov",
-    "viewers": "3348"
-  },
-  {
-    "name": "zouram4ek",
-    "game": "Virtual Casino",
-    "viewers": "3345"
-  },
-  {
-    "name": "killin9hit",
-    "game": "Escape from Tarkov",
-    "viewers": "3331"
-  },
-  {
-    "name": "korya_mc",
-    "game": "Just Chatting",
-    "viewers": "3322"
-  },
-  {
-    "name": "esportmaniacos",
-    "game": "League of Legends",
-    "viewers": "3306"
-  },
-  {
-    "name": "kubafps",
-    "game": "VALORANT",
-    "viewers": "3299"
-  },
-  {
-    "name": "qoqsik",
-    "game": "Just Chatting",
-    "viewers": "3232"
-  },
-  {
-    "name": "croissantstriketv",
-    "game": "Counter-Strike",
-    "viewers": "3165"
-  },
-  {
-    "name": "singsing",
-    "game": "Dota 2",
-    "viewers": "3150"
-  },
-  {
-    "name": "tck10",
-    "game": "VALORANT",
-    "viewers": "3118"
-  },
-  {
-    "name": "emongg",
-    "game": "Overwatch 2",
-    "viewers": "3117"
-  },
-  {
-    "name": "jankos",
-    "game": "League of Legends",
-    "viewers": "3081"
-  },
-  {
-    "name": "froggerow",
-    "game": "Overwatch 2",
-    "viewers": "2434"
-  },
-  {
-    "name": "saudieleague_valorant",
-    "game": "VALORANT",
-    "viewers": "3055"
-  },
-  {
-    "name": "renekreher",
-    "game": "IRL",
-    "viewers": "3011"
-  },
-  {
-    "name": "hutchmf",
-    "game": "ARC Raiders",
-    "viewers": "3009"
-  },
-  {
-    "name": "dreadztv",
-    "game": "Dota 2",
-    "viewers": "3005"
-  },
-  {
-    "name": "bonjwa",
-    "game": "Nidhogg",
-    "viewers": "2999"
-  },
-  {
-    "name": "godjj",
-    "game": "INAZUMA ELEVEN: Victory Road",
-    "viewers": "2984"
-  },
-  {
-    "name": "kronate_",
-    "game": "Minecraft",
-    "viewers": "2978"
-  },
-  {
-    "name": "lagoda1337",
-    "game": "Just Chatting",
-    "viewers": "2910"
-  },
-  {
-    "name": "chloe__irl",
-    "game": "IRL",
-    "viewers": "2896"
-  },
-  {
-    "name": "ramuneshiranami",
-    "game": "League of Legends",
-    "viewers": "2865"
-  },
-  {
-    "name": "mushamaru_",
-    "game": "Escape from Tarkov",
-    "viewers": "2845"
+    "viewers": "3773"
   },
   {
     "name": "sidneyeweka",
     "game": "Just Chatting",
-    "viewers": "2797"
+    "viewers": "3772"
   },
   {
-    "name": "sequisha",
-    "game": "ARC Raiders",
-    "viewers": "2782"
+    "name": "kamito_jp",
+    "game": "League of Legends",
+    "viewers": "3748"
   },
   {
-    "name": "rasty_airsoft",
+    "name": "avice",
+    "game": "Dota 2",
+    "viewers": "3713"
+  },
+  {
+    "name": "cs2_maincast",
+    "game": "Counter-Strike",
+    "viewers": "3646"
+  },
+  {
+    "name": "2twistedtv",
     "game": "Escape from Tarkov",
-    "viewers": "2751"
+    "viewers": "3594"
   },
   {
-    "name": "terracid",
-    "game": "ARC Raiders",
-    "viewers": "2745"
+    "name": "gorgc",
+    "game": "Dota 2",
+    "viewers": "3591"
   },
   {
-    "name": "gaechkatm",
+    "name": "killin9hit",
+    "game": "Escape from Tarkov",
+    "viewers": "3576"
+  },
+  {
+    "name": "fritz_meinecke",
     "game": "Just Chatting",
-    "viewers": "2731"
+    "viewers": "3507"
   },
   {
-    "name": "akamikarubi",
-    "game": "Dragon Quest I & II HD-2D Remake",
-    "viewers": "2729"
+    "name": "enzoknol",
+    "game": "Minecraft",
+    "viewers": "3440"
   },
   {
-    "name": "kingslots10",
-    "game": "Virtual Casino",
-    "viewers": "2685"
+    "name": "hutchmf",
+    "game": "ARC Raiders",
+    "viewers": "3362"
+  },
+  {
+    "name": "kubafps",
+    "game": "VALORANT",
+    "viewers": "3310"
+  },
+  {
+    "name": "esportmaniacos",
+    "game": "League of Legends",
+    "viewers": "3297"
+  },
+  {
+    "name": "qoqsik",
+    "game": "Just Chatting",
+    "viewers": "3258"
+  },
+  {
+    "name": "singsing",
+    "game": "Dota 2",
+    "viewers": "3147"
   },
   {
     "name": "symfuhny",
     "game": "ARC Raiders",
-    "viewers": "2673"
+    "viewers": "3047"
   },
   {
-    "name": "rdulive",
-    "game": "Hearthstone",
-    "viewers": "2659"
+    "name": "akamikarubi",
+    "game": "Dragon Quest I & II HD-2D Remake",
+    "viewers": "3040"
   },
   {
-    "name": "mande",
-    "game": "Apex Legends",
-    "viewers": "2645"
-  },
-  {
-    "name": "lazvell",
-    "game": "VALORANT",
-    "viewers": "2645"
-  },
-  {
-    "name": "piratesoftware",
-    "game": "Kingdoms of the Dump",
-    "viewers": "2588"
-  },
-  {
-    "name": "ariasaki",
-    "game": "Megabonk",
-    "viewers": "2575"
-  },
-  {
-    "name": "deadlyslob",
-    "game": "Escape from Tarkov",
-    "viewers": "2546"
-  },
-  {
-    "name": "zeling",
-    "game": "Minecraft",
-    "viewers": "2539"
-  },
-  {
-    "name": "camy",
-    "game": "Call of Duty: Warzone",
-    "viewers": "2533"
-  },
-  {
-    "name": "rtparenacs",
-    "game": "Counter-Strike",
-    "viewers": "2531"
-  },
-  {
-    "name": "arteezy",
-    "game": "Dota 2",
-    "viewers": "2530"
-  },
-  {
-    "name": "dezgamez",
-    "game": "World of Tanks",
-    "viewers": "2507"
-  },
-  {
-    "name": "traytonlol",
-    "game": "League of Legends",
-    "viewers": "2473"
-  },
-  {
-    "name": "froggerow",
-    "game": "Overwatch 2",
-    "viewers": "2434"
-  },
-  {
-    "name": "gamblemaximal",
-    "game": "Slots",
-    "viewers": "2430"
-  },
-  {
-    "name": "stintik",
-    "game": "Just Chatting",
-    "viewers": "2428"
-  },
-  {
-    "name": "gssspotted",
-    "game": "League of Legends",
-    "viewers": "2425"
+    "name": "bonjwa",
+    "game": "Nidhogg",
+    "viewers": "3019"
   },
   {
     "name": "blastdotab",
     "game": "Dota 2",
-    "viewers": "2417"
+    "viewers": "3005"
   },
   {
-    "name": "auziomf",
-    "game": "EA Sports FC 26",
-    "viewers": "2414"
-  },
-  {
-    "name": "derzko69",
-    "game": "Just Chatting",
-    "viewers": "2396"
-  },
-  {
-    "name": "deme",
-    "game": "Just Chatting",
-    "viewers": "2375"
-  },
-  {
-    "name": "sleduck",
-    "game": "Just Chatting",
-    "viewers": "2368"
-  },
-  {
-    "name": "fantasista_jp",
-    "game": "ARC Raiders",
-    "viewers": "2365"
-  },
-  {
-    "name": "alohadancetv",
-    "game": "Dota 2",
-    "viewers": "2338"
-  },
-  {
-    "name": "xhalli4x",
-    "game": "Jinro Metropolis",
-    "viewers": "2336"
-  },
-  {
-    "name": "welovegames",
-    "game": "Just Chatting",
-    "viewers": "2325"
-  },
-  {
-    "name": "reventxz",
-    "game": "Teamfight Tactics",
-    "viewers": "2312"
+    "name": "croissantstriketv",
+    "game": "Counter-Strike",
+    "viewers": "3002"
   },
   {
     "name": "imperialhal__",
     "game": "Apex Legends",
-    "viewers": "2276"
+    "viewers": "2971"
   },
   {
-    "name": "nstvgames",
+    "name": "emongg",
+    "game": "Overwatch 2",
+    "viewers": "2963"
+  },
+  {
+    "name": "korya_mc",
     "game": "Just Chatting",
-    "viewers": "2273"
+    "viewers": "2941"
   },
   {
-    "name": "underground_dv",
-    "game": "Just Chatting",
-    "viewers": "2268"
-  },
-  {
-    "name": "dingding248",
+    "name": "jankos",
     "game": "League of Legends",
-    "viewers": "2245"
+    "viewers": "2929"
   },
   {
-    "name": "olyashaa",
-    "game": "Just Chatting",
-    "viewers": "2234"
+    "name": "tck10",
+    "game": "VALORANT",
+    "viewers": "2912"
   },
   {
-    "name": "ko0416",
-    "game": "FINAL FANTASY XIV ONLINE",
-    "viewers": "2209"
-  },
-  {
-    "name": "assarisyoko1",
-    "game": "Minecraft",
-    "viewers": "2194"
-  },
-  {
-    "name": "watchfultv",
-    "game": "Counter-Strike",
-    "viewers": "2193"
-  },
-  {
-    "name": "grimkujow",
-    "game": "Just Chatting",
-    "viewers": "2185"
-  },
-  {
-    "name": "madarapoe",
-    "game": "Megabonk",
-    "viewers": "2156"
-  },
-  {
-    "name": "dahmien7",
-    "game": "Escape from Tarkov",
-    "viewers": "2137"
-  },
-  {
-    "name": "aspen",
-    "game": "Overwatch 2",
-    "viewers": "2118"
-  },
-  {
-    "name": "verybadscav",
-    "game": "Escape from Tarkov",
-    "viewers": "2106"
-  },
-  {
-    "name": "itsassitv",
-    "game": "Grand Theft Auto V",
-    "viewers": "2102"
-  },
-  {
-    "name": "ilame",
+    "name": "terracid",
     "game": "ARC Raiders",
-    "viewers": "2088"
+    "viewers": "2897"
   },
   {
-    "name": "pge4",
+    "name": "froggerow",
     "game": "Overwatch 2",
-    "viewers": "2073"
+    "viewers": "2895"
   },
   {
-    "name": "tsunamijkee",
+    "name": "chloe__irl",
+    "game": "IRL",
+    "viewers": "2878"
+  },
+  {
+    "name": "iceicell",
+    "game": "Dispatch",
+    "viewers": "2846"
+  },
+  {
+    "name": "auziomf",
+    "game": "EA Sports FC 26",
+    "viewers": "2842"
+  },
+  {
+    "name": "dreadztv",
     "game": "Dota 2",
-    "viewers": "2064"
+    "viewers": "2823"
   },
   {
-    "name": "furl3x",
+    "name": "sequisha",
+    "game": "ARC Raiders",
+    "viewers": "2779"
+  },
+  {
+    "name": "mushamaru_",
     "game": "Escape from Tarkov",
-    "viewers": "2044"
+    "viewers": "2749"
+  },
+  {
+    "name": "rtparenacs",
+    "game": "Counter-Strike",
+    "viewers": "2739"
   },
   {
     "name": "relog_pari_dota_ru2",
     "game": "Dota 2",
-    "viewers": "2036"
+    "viewers": "2739"
   },
   {
-    "name": "german_intelligence",
-    "game": "World of Tanks",
-    "viewers": "2031"
-  },
-  {
-    "name": "takesipon",
-    "game": "Dead by Daylight",
-    "viewers": "2030"
-  },
-  {
-    "name": "ramee",
-    "game": "Grand Theft Auto V",
-    "viewers": "2014"
-  },
-  {
-    "name": "sirmaza",
-    "game": "VALORANT",
-    "viewers": "2007"
-  },
-  {
-    "name": "sirolopez56",
-    "game": "Sports",
-    "viewers": "1997"
-  },
-  {
-    "name": "swagg",
-    "game": "Call of Duty: Black Ops 7",
-    "viewers": "1987"
-  },
-  {
-    "name": "dhalucard",
-    "game": "Minecraft",
-    "viewers": "1980"
-  },
-  {
-    "name": "modchi23",
-    "game": "Overwatch 2",
-    "viewers": "1975"
-  },
-  {
-    "name": "toniki",
-    "game": "Overwatch 2",
-    "viewers": "1961"
-  },
-  {
-    "name": "asmongold247",
-    "game": "FINAL FANTASY XIV ONLINE",
-    "viewers": "1959"
-  },
-  {
-    "name": "knebeltv",
-    "game": "Star Citizen",
-    "viewers": "1936"
-  },
-  {
-    "name": "royalistiq",
-    "game": "Minecraft",
-    "viewers": "1915"
-  },
-  {
-    "name": "asiagodtonegg3be0",
-    "game": "League of Legends",
-    "viewers": "1892"
-  },
-  {
-    "name": "starcitizen",
-    "game": "Star Citizen",
-    "viewers": "1890"
-  },
-  {
-    "name": "sola",
-    "game": "League of Legends",
-    "viewers": "1884"
-  },
-  {
-    "name": "izakooo",
-    "game": "Counter-Strike",
-    "viewers": "1871"
-  },
-  {
-    "name": "exigent_wires",
-    "game": "Escape from Tarkov",
-    "viewers": "1862"
-  },
-  {
-    "name": "ylus",
-    "game": "Escape from Tarkov",
-    "viewers": "1849"
-  },
-  {
-    "name": "b0aty",
-    "game": "Old School RuneScape",
-    "viewers": "1849"
-  },
-  {
-    "name": "honeyxxo",
-    "game": "Escape from Tarkov",
-    "viewers": "1837"
-  },
-  {
-    "name": "kiyoon",
-    "game": "Teamfight Tactics",
-    "viewers": "1832"
-  },
-  {
-    "name": "kungentv",
-    "game": "World of Warcraft",
-    "viewers": "1802"
-  },
-  {
-    "name": "shanks_ttv",
-    "game": "VALORANT",
-    "viewers": "1797"
-  },
-  {
-    "name": "ml7support",
-    "game": "Overwatch 2",
-    "viewers": "1796"
-  },
-  {
-    "name": "lolitofdez",
-    "game": "Rust",
-    "viewers": "1793"
-  },
-  {
-    "name": "altair",
+    "name": "lagoda1337",
     "game": "Just Chatting",
-    "viewers": "1776"
+    "viewers": "2721"
   },
   {
-    "name": "knueppelpaste",
+    "name": "piratesoftware",
+    "game": "Kingdoms of the Dump",
+    "viewers": "2698"
+  },
+  {
+    "name": "deadlyslob",
     "game": "Escape from Tarkov",
-    "viewers": "1776"
+    "viewers": "2685"
   },
   {
-    "name": "guddummit",
-    "game": "Hearthstone",
-    "viewers": "1775"
+    "name": "kingslots10",
+    "game": "Virtual Casino",
+    "viewers": "2670"
   },
   {
-    "name": "rumathra",
-    "game": "Farming Simulator 25",
-    "viewers": "1771"
-  },
-  {
-    "name": "capcomfighters",
-    "game": "Street Fighter 6",
-    "viewers": "1763"
-  },
-  {
-    "name": "sachi_teraz",
-    "game": "FINAL FANTASY XIV ONLINE",
-    "viewers": "1727"
-  },
-  {
-    "name": "luzu_tv",
-    "game": "Talk Shows & Podcasts",
-    "viewers": "1724"
-  },
-  {
-    "name": "lilekoridze",
-    "game": "Chess",
-    "viewers": "1716"
-  },
-  {
-    "name": "pwgood",
-    "game": "Minecraft",
-    "viewers": "1706"
-  },
-  {
-    "name": "longmaron",
-    "game": "ARC Raiders",
-    "viewers": "1685"
-  },
-  {
-    "name": "nathanpereirao",
+    "name": "renekreher",
     "game": "IRL",
-    "viewers": "1670"
+    "viewers": "2655"
   },
   {
-    "name": "juice",
+    "name": "saudieleague_valorant",
+    "game": "VALORANT",
+    "viewers": "2627"
+  },
+  {
+    "name": "dezgamez",
+    "game": "World of Tanks",
+    "viewers": "2596"
+  },
+  {
+    "name": "rasty_airsoft",
     "game": "Escape from Tarkov",
-    "viewers": "1668"
+    "viewers": "2591"
   },
   {
-    "name": "brucegrannec",
+    "name": "zeling",
+    "game": "Minecraft",
+    "viewers": "2574"
+  },
+  {
+    "name": "gamblemaximal",
+    "game": "Slots",
+    "viewers": "2550"
+  },
+  {
+    "name": "camy",
+    "game": "Call of Duty: Warzone",
+    "viewers": "2524"
+  },
+  {
+    "name": "deme",
     "game": "Just Chatting",
-    "viewers": "1668"
+    "viewers": "2520"
   },
   {
-    "name": "mee_shell",
-    "game": "Art",
-    "viewers": "1643"
-  },
-  {
-    "name": "sweety_k1tten",
-    "game": "Casino Simulator",
-    "viewers": "1635"
-  },
-  {
-    "name": "gearbaby1010",
-    "game": "Teamfight Tactics",
-    "viewers": "1624"
-  },
-  {
-    "name": "vika_karter",
+    "name": "derzko69",
     "game": "Just Chatting",
-    "viewers": "1609"
+    "viewers": "2516"
   },
   {
-    "name": "heroes_hub",
-    "game": "Heroes of Might and Magic III: The Restoration of Erathia",
-    "viewers": "1599"
+    "name": "mande",
+    "game": "Apex Legends",
+    "viewers": "2509"
+  },
+  {
+    "name": "godjj",
+    "game": "INAZUMA ELEVEN: Victory Road",
+    "viewers": "2507"
+  },
+  {
+    "name": "pge4",
+    "game": "Overwatch 2",
+    "viewers": "2502"
+  },
+  {
+    "name": "rdulive",
+    "game": "Hearthstone",
+    "viewers": "2501"
+  },
+  {
+    "name": "stintik",
+    "game": "Just Chatting",
+    "viewers": "2499"
+  },
+  {
+    "name": "arteezy",
+    "game": "Dota 2",
+    "viewers": "2491"
+  },
+  {
+    "name": "sleduck",
+    "game": "Just Chatting",
+    "viewers": "2460"
+  },
+  {
+    "name": "traytonlol",
+    "game": "League of Legends",
+    "viewers": "2450"
+  },
+  {
+    "name": "gssspotted",
+    "game": "League of Legends",
+    "viewers": "2430"
+  },
+  {
+    "name": "watchfultv",
+    "game": "Counter-Strike",
+    "viewers": "2425"
   },
   {
     "name": "ziweixuu",
     "game": "Just Chatting",
-    "viewers": "1592"
+    "viewers": "2401"
   },
   {
-    "name": "repaz",
-    "game": "ARC Raiders",
-    "viewers": "1573"
-  },
-  {
-    "name": "real_bazzi",
-    "game": "Slots",
-    "viewers": "1564"
-  },
-  {
-    "name": "sheviiioficial",
-    "game": "Just Chatting",
-    "viewers": "1552"
-  },
-  {
-    "name": "commanderx",
-    "game": "Overwatch 2",
-    "viewers": "1541"
-  },
-  {
-    "name": "lychee",
-    "game": "Just Chatting",
-    "viewers": "1540"
-  },
-  {
-    "name": "dota2_maincast",
+    "name": "alohadancetv",
     "game": "Dota 2",
-    "viewers": "1534"
+    "viewers": "2401"
   },
   {
-    "name": "bagginstv",
-    "game": "Where Winds Meet",
-    "viewers": "1532"
+    "name": "underground_dv",
+    "game": "Just Chatting",
+    "viewers": "2389"
   },
   {
-    "name": "makar_fun",
+    "name": "b0aty",
+    "game": "Old School RuneScape",
+    "viewers": "2375"
+  },
+  {
+    "name": "welovegames",
+    "game": "Just Chatting",
+    "viewers": "2359"
+  },
+  {
+    "name": "nstvgames",
+    "game": "Just Chatting",
+    "viewers": "2310"
+  },
+  {
+    "name": "gaechkatm",
+    "game": "Just Chatting",
+    "viewers": "2279"
+  },
+  {
+    "name": "fantasista_jp",
     "game": "ARC Raiders",
-    "viewers": "1523"
+    "viewers": "2269"
   },
   {
-    "name": "slayproxx",
-    "game": "Of Ash and Steel",
-    "viewers": "1520"
+    "name": "ramuneshiranami",
+    "game": "League of Legends",
+    "viewers": "2266"
   },
   {
-    "name": "xisuma",
+    "name": "grimkujow",
+    "game": "Just Chatting",
+    "viewers": "2263"
+  },
+  {
+    "name": "xhalli4x",
+    "game": "Jinro Metropolis",
+    "viewers": "2239"
+  },
+  {
+    "name": "itsassitv",
+    "game": "Grand Theft Auto V",
+    "viewers": "2237"
+  },
+  {
+    "name": "starcitizen",
+    "game": "Star Citizen",
+    "viewers": "2219"
+  },
+  {
+    "name": "dingding248",
+    "game": "League of Legends",
+    "viewers": "2218"
+  },
+  {
+    "name": "aspen",
+    "game": "Overwatch 2",
+    "viewers": "2189"
+  },
+  {
+    "name": "tsunamijkee",
+    "game": "Dota 2",
+    "viewers": "2186"
+  },
+  {
+    "name": "ramee",
+    "game": "Grand Theft Auto V",
+    "viewers": "2184"
+  },
+  {
+    "name": "sirolopez56",
+    "game": "Sports",
+    "viewers": "2151"
+  },
+  {
+    "name": "ko0416",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "2141"
+  },
+  {
+    "name": "lazvell",
+    "game": "VALORANT",
+    "viewers": "2140"
+  },
+  {
+    "name": "reventxz",
+    "game": "Teamfight Tactics",
+    "viewers": "2134"
+  },
+  {
+    "name": "furl3x",
+    "game": "Escape from Tarkov",
+    "viewers": "2128"
+  },
+  {
+    "name": "dahmien7",
+    "game": "Escape from Tarkov",
+    "viewers": "2120"
+  },
+  {
+    "name": "shanks_ttv",
+    "game": "VALORANT",
+    "viewers": "2113"
+  },
+  {
+    "name": "verybadscav",
+    "game": "Escape from Tarkov",
+    "viewers": "2100"
+  },
+  {
+    "name": "knebeltv",
+    "game": "Star Citizen",
+    "viewers": "2090"
+  },
+  {
+    "name": "ilame",
+    "game": "ARC Raiders",
+    "viewers": "2065"
+  },
+  {
+    "name": "royalistiq",
     "game": "Minecraft",
-    "viewers": "1515"
+    "viewers": "2051"
   },
   {
-    "name": "nicewigg",
-    "game": "Apex Legends",
-    "viewers": "1505"
+    "name": "nathanpereirao",
+    "game": "IRL",
+    "viewers": "2033"
   },
   {
-    "name": "scurrows",
-    "game": "Slots",
-    "viewers": "1501"
+    "name": "german_intelligence",
+    "game": "World of Tanks",
+    "viewers": "2026"
   },
   {
-    "name": "peter",
+    "name": "madarapoe",
     "game": "Megabonk",
-    "viewers": "1492"
+    "viewers": "2010"
+  },
+  {
+    "name": "modchi23",
+    "game": "Overwatch 2",
+    "viewers": "2007"
+  },
+  {
+    "name": "sirmaza",
+    "game": "VALORANT",
+    "viewers": "2005"
+  },
+  {
+    "name": "toniki",
+    "game": "Overwatch 2",
+    "viewers": "1988"
+  },
+  {
+    "name": "sola",
+    "game": "League of Legends",
+    "viewers": "1986"
+  },
+  {
+    "name": "lolitofdez",
+    "game": "Rust",
+    "viewers": "1983"
+  },
+  {
+    "name": "ariasaki",
+    "game": "Megabonk",
+    "viewers": "1976"
+  },
+  {
+    "name": "dhalucard",
+    "game": "Minecraft",
+    "viewers": "1959"
+  },
+  {
+    "name": "asmongold247",
+    "game": "IRL",
+    "viewers": "1936"
+  },
+  {
+    "name": "heroes_hub",
+    "game": "Heroes of Might and Magic III: The Restoration of Erathia",
+    "viewers": "1928"
+  },
+  {
+    "name": "kiyoon",
+    "game": "Teamfight Tactics",
+    "viewers": "1924"
+  },
+  {
+    "name": "takesipon",
+    "game": "Dead by Daylight",
+    "viewers": "1922"
+  },
+  {
+    "name": "guddummit",
+    "game": "Hearthstone",
+    "viewers": "1914"
+  },
+  {
+    "name": "olyashaa",
+    "game": "BloodRayne 2: Terminal Cut",
+    "viewers": "1911"
+  },
+  {
+    "name": "altair",
+    "game": "Just Chatting",
+    "viewers": "1896"
+  },
+  {
+    "name": "kungentv",
+    "game": "World of Warcraft",
+    "viewers": "1875"
+  },
+  {
+    "name": "exigent_wires",
+    "game": "Escape from Tarkov",
+    "viewers": "1863"
+  },
+  {
+    "name": "izakooo",
+    "game": "Counter-Strike",
+    "viewers": "1861"
+  },
+  {
+    "name": "capcomfighters",
+    "game": "Street Fighter 6",
+    "viewers": "1857"
+  },
+  {
+    "name": "central_committee",
+    "game": "Just Chatting",
+    "viewers": "1844"
+  },
+  {
+    "name": "ml7support",
+    "game": "Overwatch 2",
+    "viewers": "1843"
+  },
+  {
+    "name": "revenant",
+    "game": "Just Chatting",
+    "viewers": "1838"
   },
   {
     "name": "n3utr4lsf",
     "game": "Shakes and Fidget",
-    "viewers": "1490"
+    "viewers": "1837"
   },
   {
-    "name": "zombey",
-    "game": "ARC Raiders",
-    "viewers": "1490"
+    "name": "honeyxxo",
+    "game": "Escape from Tarkov",
+    "viewers": "1830"
   },
   {
-    "name": "skyrroztv",
+    "name": "asiagodtonegg3be0",
+    "game": "League of Legends",
+    "viewers": "1801"
+  },
+  {
+    "name": "nicewigg",
+    "game": "Apex Legends",
+    "viewers": "1793"
+  },
+  {
+    "name": "swagg",
     "game": "Call of Duty: Black Ops 7",
-    "viewers": "1486"
+    "viewers": "1784"
   },
   {
-    "name": "bean",
-    "game": "Slots",
-    "viewers": "1484"
+    "name": "dota2_maincast",
+    "game": "Dota 2",
+    "viewers": "1781"
   },
   {
-    "name": "iyouxin",
-    "game": "World of Tanks",
-    "viewers": "1480"
+    "name": "rumathra",
+    "game": "Farming Simulator 25",
+    "viewers": "1772"
   },
   {
-    "name": "evilkingmlbb",
-    "game": "Magic Chess: Go Go",
-    "viewers": "1477"
+    "name": "sachi_teraz",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "1766"
   },
   {
-    "name": "cineillojuan",
-    "game": "Always On",
-    "viewers": "1475"
-  },
-  {
-    "name": "reudigruediger",
-    "game": "Dead by Daylight",
-    "viewers": "1466"
-  },
-  {
-    "name": "xxxthefocusxxx",
+    "name": "donkaaklijn",
     "game": "Minecraft",
-    "viewers": "1449"
+    "viewers": "1756"
   },
   {
-    "name": "naguura",
-    "game": "IRL",
-    "viewers": "1439"
+    "name": "pwgood",
+    "game": "Minecraft",
+    "viewers": "1756"
   },
   {
-    "name": "hugoauperchoir",
+    "name": "juice",
+    "game": "Escape from Tarkov",
+    "viewers": "1748"
+  },
+  {
+    "name": "luzu_tv",
+    "game": "Talk Shows & Podcasts",
+    "viewers": "1733"
+  },
+  {
+    "name": "ylus",
+    "game": "Escape from Tarkov",
+    "viewers": "1726"
+  },
+  {
+    "name": "commanderx",
+    "game": "Overwatch 2",
+    "viewers": "1713"
+  },
+  {
+    "name": "sweety_k1tten",
+    "game": "Casino Simulator",
+    "viewers": "1706"
+  },
+  {
+    "name": "gearbaby1010",
+    "game": "Teamfight Tactics",
+    "viewers": "1692"
+  },
+  {
+    "name": "unter_merk",
+    "game": "Megabonk",
+    "viewers": "1680"
+  },
+  {
+    "name": "brucegrannec",
     "game": "Just Chatting",
-    "viewers": "1439"
+    "viewers": "1679"
   },
   {
-    "name": "jenazad",
-    "game": "Chaos Zero Nightmare",
-    "viewers": "1430"
-  },
-  {
-    "name": "yoloiiiooo",
-    "game": "Just Chatting",
-    "viewers": "1425"
-  },
-  {
-    "name": "jokerdtv",
-    "game": "Old School RuneScape",
-    "viewers": "1424"
-  },
-  {
-    "name": "amakipururu",
-    "game": "INAZUMA ELEVEN: Victory Road",
-    "viewers": "1416"
-  },
-  {
-    "name": "empyriangaming",
-    "game": "Path of Exile",
-    "viewers": "1409"
+    "name": "knueppelpaste",
+    "game": "Escape from Tarkov",
+    "viewers": "1670"
   },
   {
     "name": "bawkbasoup",
     "game": "Resident Evil 2",
-    "viewers": "1399"
+    "viewers": "1666"
   },
   {
-    "name": "mago2dgod",
-    "game": "Shadowverse: Worlds Beyond",
-    "viewers": "1398"
-  },
-  {
-    "name": "bouclezz",
-    "game": "Slots",
-    "viewers": "1394"
-  },
-  {
-    "name": "vicens",
-    "game": "Fortnite",
-    "viewers": "1390"
-  },
-  {
-    "name": "dmitry_bale",
-    "game": "Escape from Tarkov",
-    "viewers": "1383"
-  },
-  {
-    "name": "kasanofff",
-    "game": "Just Chatting",
-    "viewers": "1382"
-  },
-  {
-    "name": "dakotaz",
-    "game": "Fortnite",
-    "viewers": "1377"
-  },
-  {
-    "name": "anniefuchsia",
-    "game": "Where Winds Meet",
-    "viewers": "1364"
-  },
-  {
-    "name": "sanninshow_3ns",
+    "name": "longmaron",
     "game": "ARC Raiders",
-    "viewers": "1353"
+    "viewers": "1665"
+  },
+  {
+    "name": "real_bazzi",
+    "game": "Slots",
+    "viewers": "1627"
   },
   {
     "name": "lru_rose",
     "game": "Counter-Strike",
-    "viewers": "1351"
+    "viewers": "1627"
   },
   {
-    "name": "emilyywang",
-    "game": "Teamfight Tactics",
-    "viewers": "1323"
-  },
-  {
-    "name": "itsuki_ianvs",
+    "name": "vika_karter",
     "game": "Just Chatting",
-    "viewers": "1318"
+    "viewers": "1622"
   },
   {
-    "name": "astatoro",
+    "name": "xisuma",
+    "game": "Minecraft",
+    "viewers": "1619"
+  },
+  {
+    "name": "repaz",
     "game": "ARC Raiders",
-    "viewers": "1310"
+    "viewers": "1606"
   },
   {
-    "name": "knut",
+    "name": "xxxthefocusxxx",
+    "game": "Minecraft",
+    "viewers": "1603"
+  },
+  {
+    "name": "bagginstv",
+    "game": "Where Winds Meet",
+    "viewers": "1599"
+  },
+  {
+    "name": "skyrroztv",
+    "game": "Call of Duty: Black Ops 7",
+    "viewers": "1593"
+  },
+  {
+    "name": "bean",
+    "game": "Slots",
+    "viewers": "1581"
+  },
+  {
+    "name": "cineillojuan",
+    "game": "Always On",
+    "viewers": "1561"
+  },
+  {
+    "name": "sheviiioficial",
     "game": "Just Chatting",
-    "viewers": "1308"
+    "viewers": "1555"
   },
   {
-    "name": "anthonydaytv",
-    "game": "EA Sports FC 26",
-    "viewers": "1302"
+    "name": "customstories",
+    "game": "Just Chatting",
+    "viewers": "1549"
+  },
+  {
+    "name": "silvername",
+    "game": "Hearthstone",
+    "viewers": "1541"
+  },
+  {
+    "name": "m0xyy",
+    "game": "Marvel Rivals",
+    "viewers": "1526"
+  },
+  {
+    "name": "lychee",
+    "game": "Just Chatting",
+    "viewers": "1519"
+  },
+  {
+    "name": "slayproxx",
+    "game": "A.I.L.A",
+    "viewers": "1511"
+  },
+  {
+    "name": "mee_shell",
+    "game": "Art",
+    "viewers": "1507"
+  },
+  {
+    "name": "zombey",
+    "game": "ARC Raiders",
+    "viewers": "1507"
+  },
+  {
+    "name": "reudigruediger",
+    "game": "Dead by Daylight",
+    "viewers": "1497"
+  },
+  {
+    "name": "scurrows",
+    "game": "Slots",
+    "viewers": "1474"
+  },
+  {
+    "name": "peter",
+    "game": "Megabonk",
+    "viewers": "1472"
+  },
+  {
+    "name": "yoloiiiooo",
+    "game": "Just Chatting",
+    "viewers": "1460"
+  },
+  {
+    "name": "evilkingmlbb",
+    "game": "Magic Chess: Go Go",
+    "viewers": "1452"
   },
   {
     "name": "starwraith",
     "game": "ARC Raiders",
-    "viewers": "1300"
+    "viewers": "1445"
   },
   {
-    "name": "gtimetv",
-    "game": "Farming Simulator 25",
-    "viewers": "1295"
+    "name": "jokerdtv",
+    "game": "Old School RuneScape",
+    "viewers": "1444"
+  },
+  {
+    "name": "empyriangaming",
+    "game": "Path of Exile",
+    "viewers": "1443"
+  },
+  {
+    "name": "naguura",
+    "game": "IRL",
+    "viewers": "1435"
+  },
+  {
+    "name": "dmitry_bale",
+    "game": "Escape from Tarkov",
+    "viewers": "1432"
+  },
+  {
+    "name": "1lizardx",
+    "game": "Slot Racers",
+    "viewers": "1425"
+  },
+  {
+    "name": "jenazad",
+    "game": "Phantasy Star Online 2 New Genesis",
+    "viewers": "1422"
   },
   {
     "name": "jaarathan",
     "game": "",
-    "viewers": "1294"
+    "viewers": "1414"
   },
   {
-    "name": "gabsmolders",
-    "game": "A.I.L.A",
-    "viewers": "1291"
-  },
-  {
-    "name": "muhanjan",
+    "name": "knut",
     "game": "Just Chatting",
-    "viewers": "1287"
+    "viewers": "1410"
   },
   {
-    "name": "tru3ta1ent",
-    "game": "Dead by Daylight",
-    "viewers": "1284"
+    "name": "anniefuchsia",
+    "game": "Where Winds Meet",
+    "viewers": "1402"
+  },
+  {
+    "name": "menostrece",
+    "game": "GeoGuessr",
+    "viewers": "1400"
+  },
+  {
+    "name": "bouclezz",
+    "game": "Slots",
+    "viewers": "1392"
+  },
+  {
+    "name": "mago2dgod",
+    "game": "Shadowverse: Worlds Beyond",
+    "viewers": "1386"
+  },
+  {
+    "name": "iyouxin",
+    "game": "World of Tanks",
+    "viewers": "1385"
+  },
+  {
+    "name": "kasanofff",
+    "game": "Just Chatting",
+    "viewers": "1368"
+  },
+  {
+    "name": "makar_fun",
+    "game": "ARC Raiders",
+    "viewers": "1354"
+  },
+  {
+    "name": "emilyywang",
+    "game": "Teamfight Tactics",
+    "viewers": "1352"
+  },
+  {
+    "name": "koji",
+    "game": "Just Chatting",
+    "viewers": "1347"
+  },
+  {
+    "name": "amakipururu",
+    "game": "INAZUMA ELEVEN: Victory Road",
+    "viewers": "1344"
+  },
+  {
+    "name": "mouzakrobat",
+    "game": "World of Tanks",
+    "viewers": "1334"
   },
   {
     "name": "oldschoolrs_q2",
     "game": "Old School RuneScape",
-    "viewers": "1282"
+    "viewers": "1312"
   },
   {
-    "name": "robert87000",
-    "game": "EA Sports FC 26",
-    "viewers": "1278"
+    "name": "therunningmanz",
+    "game": "DayZ",
+    "viewers": "1312"
   },
   {
     "name": "playermakertv",
     "game": "Slots",
-    "viewers": "1276"
+    "viewers": "1312"
+  },
+  {
+    "name": "sadicaz",
+    "game": "Albion Online",
+    "viewers": "1311"
+  },
+  {
+    "name": "astatoro",
+    "game": "ARC Raiders",
+    "viewers": "1308"
+  },
+  {
+    "name": "gabsmolders",
+    "game": "A.I.L.A",
+    "viewers": "1305"
+  },
+  {
+    "name": "trilluxe",
+    "game": "Counter-Strike",
+    "viewers": "1304"
+  },
+  {
+    "name": "mikeylesss",
+    "game": "Grand Theft Auto V",
+    "viewers": "1303"
+  },
+  {
+    "name": "naowh",
+    "game": "World of Warcraft",
+    "viewers": "1303"
   },
   {
     "name": "anujbost",
     "game": "Just Chatting",
-    "viewers": "1264"
+    "viewers": "1297"
+  },
+  {
+    "name": "wingo",
+    "game": "Trackmania",
+    "viewers": "1288"
+  },
+  {
+    "name": "vorzu",
+    "game": "Among Us",
+    "viewers": "1285"
+  },
+  {
+    "name": "poko",
+    "game": "Overwatch 2",
+    "viewers": "1282"
+  },
+  {
+    "name": "overpow",
+    "game": "League of Legends",
+    "viewers": "1281"
+  },
+  {
+    "name": "vicens",
+    "game": "Fortnite",
+    "viewers": "1279"
+  },
+  {
+    "name": "anthonydaytv",
+    "game": "EA Sports FC 26",
+    "viewers": "1273"
+  },
+  {
+    "name": "sanninshow_3ns",
+    "game": "ARC Raiders",
+    "viewers": "1272"
+  },
+  {
+    "name": "cyrustwo",
+    "game": "Grand Theft Auto V",
+    "viewers": "1265"
   },
   {
     "name": "joshseki",
     "game": "VALORANT",
-    "viewers": "1262"
+    "viewers": "1263"
   },
   {
     "name": "gronkhtv",
@@ -1320,309 +1360,294 @@
     "viewers": "1259"
   },
   {
-    "name": "alon34s",
-    "game": "Escape from Tarkov",
-    "viewers": "1249"
+    "name": "dakotaz",
+    "game": "Fortnite",
+    "viewers": "1257"
   },
   {
-    "name": "poko",
-    "game": "Overwatch 2",
-    "viewers": "1244"
+    "name": "tru3ta1ent",
+    "game": "Dead by Daylight",
+    "viewers": "1254"
   },
   {
-    "name": "sadicaz",
-    "game": "Albion Online",
-    "viewers": "1244"
+    "name": "itsuki_ianvs",
+    "game": "Just Chatting",
+    "viewers": "1253"
   },
   {
-    "name": "m0xyy",
-    "game": "Marvel Rivals",
-    "viewers": "1244"
+    "name": "muhanjan",
+    "game": "Just Chatting",
+    "viewers": "1246"
   },
   {
-    "name": "wingo",
-    "game": "Trackmania",
-    "viewers": "1241"
-  },
-  {
-    "name": "dunkorslam",
-    "game": "Noita",
-    "viewers": "1235"
-  },
-  {
-    "name": "rakin",
-    "game": "ARC Raiders",
-    "viewers": "1234"
-  },
-  {
-    "name": "scribbleloops",
-    "game": "Albion Online",
-    "viewers": "1231"
-  },
-  {
-    "name": "mmorpg",
-    "game": "Old School RuneScape",
-    "viewers": "1231"
-  },
-  {
-    "name": "naowh",
-    "game": "World of Warcraft",
-    "viewers": "1228"
-  },
-  {
-    "name": "krl_stream",
-    "game": "Counter-Strike",
-    "viewers": "1220"
+    "name": "hugoauperchoir",
+    "game": "Just Chatting",
+    "viewers": "1243"
   },
   {
     "name": "huahed",
     "game": "Grand Theft Auto V",
-    "viewers": "1207"
+    "viewers": "1240"
   },
   {
-    "name": "vorzu",
-    "game": "Among Us",
-    "viewers": "1202"
+    "name": "alon34s",
+    "game": "Escape from Tarkov",
+    "viewers": "1237"
   },
   {
-    "name": "luzu",
-    "game": "Minecraft",
-    "viewers": "1197"
+    "name": "rakin",
+    "game": "ARC Raiders",
+    "viewers": "1229"
   },
   {
-    "name": "casinodaddy",
-    "game": "Slots",
-    "viewers": "1192"
-  },
-  {
-    "name": "trilluxe",
-    "game": "Counter-Strike",
-    "viewers": "1192"
-  },
-  {
-    "name": "palsteron",
-    "game": "Just Chatting",
-    "viewers": "1190"
-  },
-  {
-    "name": "fyrexxx",
-    "game": "Night Club Simulator",
-    "viewers": "1182"
+    "name": "mmorpg",
+    "game": "Old School RuneScape",
+    "viewers": "1228"
   },
   {
     "name": "unter",
     "game": "Overwatch 2",
-    "viewers": "1179"
+    "viewers": "1224"
   },
   {
-    "name": "koji",
-    "game": "Just Chatting",
-    "viewers": "1178"
-  },
-  {
-    "name": "overpow",
-    "game": "League of Legends",
-    "viewers": "1170"
+    "name": "dunkorslam",
+    "game": "Noita",
+    "viewers": "1221"
   },
   {
     "name": "dyarikku",
     "game": "Art",
-    "viewers": "1168"
+    "viewers": "1221"
   },
   {
-    "name": "cyrustwo",
-    "game": "Grand Theft Auto V",
-    "viewers": "1141"
-  },
-  {
-    "name": "minoru04160",
-    "game": "Just Chatting",
-    "viewers": "1138"
-  },
-  {
-    "name": "threadguy_iive",
-    "game": "Crypto",
-    "viewers": "1137"
-  },
-  {
-    "name": "sterzik",
-    "game": "Christmas Story",
-    "viewers": "1133"
-  },
-  {
-    "name": "bonusdegamestesterslot24",
-    "game": "Slots",
-    "viewers": "1126"
-  },
-  {
-    "name": "gewinnegamebonuslotde",
-    "game": "Slots",
-    "viewers": "1125"
-  },
-  {
-    "name": "shuteye_orange",
-    "game": "Just Chatting",
-    "viewers": "1124"
-  },
-  {
-    "name": "earendelxdfp",
-    "game": "UNO",
-    "viewers": "1123"
-  },
-  {
-    "name": "akaonikou1207",
-    "game": "Kingdom Come: Deliverance II",
-    "viewers": "1119"
-  },
-  {
-    "name": "bonusgamesgermonteslots",
-    "game": "Slots",
-    "viewers": "1119"
-  },
-  {
-    "name": "slate",
-    "game": "Dead by Daylight",
-    "viewers": "1119"
-  },
-  {
-    "name": "therunningmanz",
-    "game": "DayZ",
-    "viewers": "1117"
-  },
-  {
-    "name": "nosiiree",
-    "game": "ROBLOX",
-    "viewers": "1116"
-  },
-  {
-    "name": "kannachan524",
-    "game": "Apex Legends",
-    "viewers": "1107"
-  },
-  {
-    "name": "abdulhd",
-    "game": "Grand Theft Auto V",
-    "viewers": "1105"
-  },
-  {
-    "name": "moauba",
-    "game": "EA Sports FC 26",
-    "viewers": "1102"
-  },
-  {
-    "name": "bonustestergame24",
-    "game": "Slots",
-    "viewers": "1100"
-  },
-  {
-    "name": "octane",
-    "game": "Call of Duty: Black Ops 7",
-    "viewers": "1096"
-  },
-  {
-    "name": "central_committee",
-    "game": "Just Chatting",
-    "viewers": "1093"
-  },
-  {
-    "name": "aioi_ai",
-    "game": "Escape from Tarkov",
-    "viewers": "1093"
-  },
-  {
-    "name": "thedegenpumpgroup",
-    "game": "Crypto",
-    "viewers": "1089"
-  },
-  {
-    "name": "mouzakrobat",
-    "game": "World of Tanks",
-    "viewers": "1087"
-  },
-  {
-    "name": "towelliee",
-    "game": "World of Warcraft",
-    "viewers": "1083"
-  },
-  {
-    "name": "drakensang",
-    "game": "Drakensang Online",
-    "viewers": "1082"
-  },
-  {
-    "name": "nisqyy",
-    "game": "Street Fighter 6",
-    "viewers": "1078"
-  },
-  {
-    "name": "farfa",
-    "game": "Yu-Gi-Oh! Master Duel",
-    "viewers": "1076"
-  },
-  {
-    "name": "deturokgamesbonus",
-    "game": "Slots",
-    "viewers": "1076"
-  },
-  {
-    "name": "elbokeron",
-    "game": "Just Chatting",
-    "viewers": "1072"
-  },
-  {
-    "name": "skylordzoey",
-    "game": "ELDEN RING",
-    "viewers": "1070"
-  },
-  {
-    "name": "fefegg",
-    "game": "Overwatch 2",
-    "viewers": "1069"
-  },
-  {
-    "name": "gaules",
+    "name": "krl_stream",
     "game": "Counter-Strike",
-    "viewers": "1068"
+    "viewers": "1218"
   },
   {
-    "name": "yoshinama222",
-    "game": "Street Fighter 6",
-    "viewers": "1064"
-  },
-  {
-    "name": "pandorelol",
-    "game": "League of Legends",
-    "viewers": "1062"
-  },
-  {
-    "name": "lizz",
-    "game": "Uncharted 4: A Thief's End",
-    "viewers": "1061"
-  },
-  {
-    "name": "igorghk",
-    "game": "Just Chatting",
-    "viewers": "1061"
-  },
-  {
-    "name": "mikeylesss",
-    "game": "Grand Theft Auto V",
-    "viewers": "1056"
+    "name": "robert87000",
+    "game": "EA Sports FC 26",
+    "viewers": "1215"
   },
   {
     "name": "axel_tv",
     "game": "Escape from Tarkov",
-    "viewers": "1051"
+    "viewers": "1207"
+  },
+  {
+    "name": "luzu",
+    "game": "Minecraft",
+    "viewers": "1198"
+  },
+  {
+    "name": "aioi_ai",
+    "game": "Escape from Tarkov",
+    "viewers": "1176"
+  },
+  {
+    "name": "palsteron",
+    "game": "Just Chatting",
+    "viewers": "1174"
+  },
+  {
+    "name": "bluesr",
+    "game": "Hollow Knight: Silksong",
+    "viewers": "1160"
+  },
+  {
+    "name": "kannachan524",
+    "game": "Apex Legends",
+    "viewers": "1150"
+  },
+  {
+    "name": "threadguy_iive",
+    "game": "Crypto",
+    "viewers": "1148"
+  },
+  {
+    "name": "yoshinama222",
+    "game": "Street Fighter 6",
+    "viewers": "1148"
+  },
+  {
+    "name": "towelliee",
+    "game": "World of Warcraft",
+    "viewers": "1134"
+  },
+  {
+    "name": "drakensang",
+    "game": "Drakensang Online",
+    "viewers": "1133"
+  },
+  {
+    "name": "casinodaddy",
+    "game": "Slots",
+    "viewers": "1129"
+  },
+  {
+    "name": "knightlight",
+    "game": "Dead by Daylight",
+    "viewers": "1129"
+  },
+  {
+    "name": "fefegg",
+    "game": "Overwatch 2",
+    "viewers": "1128"
+  },
+  {
+    "name": "esport1tv",
+    "game": "Counter-Strike",
+    "viewers": "1127"
+  },
+  {
+    "name": "nosiiree",
+    "game": "ROBLOX",
+    "viewers": "1122"
+  },
+  {
+    "name": "deturokgamesbonus",
+    "game": "Slots",
+    "viewers": "1120"
+  },
+  {
+    "name": "skylordzoey",
+    "game": "ELDEN RING",
+    "viewers": "1118"
+  },
+  {
+    "name": "gtimetv",
+    "game": "Farming Simulator 25",
+    "viewers": "1111"
+  },
+  {
+    "name": "shuteye_orange",
+    "game": "Just Chatting",
+    "viewers": "1107"
+  },
+  {
+    "name": "tfblade",
+    "game": "League of Legends",
+    "viewers": "1106"
+  },
+  {
+    "name": "bonusgamesgermonteslots",
+    "game": "Slots",
+    "viewers": "1106"
+  },
+  {
+    "name": "abdulhd",
+    "game": "Grand Theft Auto V",
+    "viewers": "1106"
+  },
+  {
+    "name": "bonusdegamestesterslot24",
+    "game": "Slots",
+    "viewers": "1106"
+  },
+  {
+    "name": "bonustestergame24",
+    "game": "Slots",
+    "viewers": "1103"
+  },
+  {
+    "name": "sterzik",
+    "game": "Christmas Story",
+    "viewers": "1101"
+  },
+  {
+    "name": "slate",
+    "game": "Dead by Daylight",
+    "viewers": "1097"
+  },
+  {
+    "name": "minoru04160",
+    "game": "Just Chatting",
+    "viewers": "1096"
+  },
+  {
+    "name": "scribbleloops",
+    "game": "Albion Online",
+    "viewers": "1096"
+  },
+  {
+    "name": "aryssa614",
+    "game": "Just Chatting",
+    "viewers": "1094"
+  },
+  {
+    "name": "nisqyy",
+    "game": "Street Fighter 6",
+    "viewers": "1094"
+  },
+  {
+    "name": "lizz",
+    "game": "Uncharted 4: A Thief's End",
+    "viewers": "1091"
+  },
+  {
+    "name": "staiy",
+    "game": "Just Chatting",
+    "viewers": "1090"
+  },
+  {
+    "name": "akaonikou1207",
+    "game": "Kingdom Come: Deliverance II",
+    "viewers": "1087"
+  },
+  {
+    "name": "gewinnegamebonuslotde",
+    "game": "Slots",
+    "viewers": "1084"
+  },
+  {
+    "name": "bonusgamesslotstesterde24",
+    "game": "Slots",
+    "viewers": "1081"
+  },
+  {
+    "name": "thedegenpumpgroup",
+    "game": "Crypto",
+    "viewers": "1075"
+  },
+  {
+    "name": "moauba",
+    "game": "EA Sports FC 26",
+    "viewers": "1072"
+  },
+  {
+    "name": "earendelxdfp",
+    "game": "UNO",
+    "viewers": "1072"
   },
   {
     "name": "ssanolive",
     "game": "Trackmania",
-    "viewers": "1051"
+    "viewers": "1072"
+  },
+  {
+    "name": "shootingmoon",
+    "game": "Escape from Tarkov",
+    "viewers": "1067"
   },
   {
     "name": "mulder",
     "game": "Dead by Daylight",
-    "viewers": "1045"
+    "viewers": "1063"
+  },
+  {
+    "name": "igorghk",
+    "game": "Just Chatting",
+    "viewers": "1056"
+  },
+  {
+    "name": "utbh_oficial",
+    "game": "Just Chatting",
+    "viewers": "1049"
+  },
+  {
+    "name": "pandorelol",
+    "game": "League of Legends",
+    "viewers": "1048"
   },
   {
     "name": "segall",
@@ -1630,424 +1655,409 @@
     "viewers": "1044"
   },
   {
-    "name": "esport1tv",
-    "game": "Counter-Strike",
-    "viewers": "1042"
-  },
-  {
-    "name": "dorozea",
-    "game": "Counter-Strike",
-    "viewers": "1041"
-  },
-  {
-    "name": "back2warcraft",
-    "game": "Warcraft III",
-    "viewers": "1039"
-  },
-  {
-    "name": "aryssa614",
+    "name": "mugretnug",
     "game": "Just Chatting",
-    "viewers": "1037"
+    "viewers": "1043"
   },
   {
-    "name": "knightlight",
-    "game": "Dead by Daylight",
-    "viewers": "1036"
-  },
-  {
-    "name": "jinnaaii",
-    "game": "Black Desert",
+    "name": "farfa",
+    "game": "Yu-Gi-Oh! Master Duel",
     "viewers": "1028"
-  },
-  {
-    "name": "deadp47_",
-    "game": "Battlefield 6",
-    "viewers": "1018"
-  },
-  {
-    "name": "shootingmoon",
-    "game": "Escape from Tarkov",
-    "viewers": "1016"
-  },
-  {
-    "name": "menostrece",
-    "game": "GeoGuessr",
-    "viewers": "1015"
-  },
-  {
-    "name": "awfdota",
-    "game": "Dota 2",
-    "viewers": "1010"
-  },
-  {
-    "name": "radika1fa",
-    "game": "Dota 2",
-    "viewers": "1010"
-  },
-  {
-    "name": "boraslegend",
-    "game": "EA Sports FC 26",
-    "viewers": "1009"
-  },
-  {
-    "name": "nein1203",
-    "game": "Just Chatting",
-    "viewers": "1007"
-  },
-  {
-    "name": "choppersakurada",
-    "game": "Grand Theft Auto V",
-    "viewers": "1005"
-  },
-  {
-    "name": "danucd",
-    "game": "PUBG: BATTLEGROUNDS",
-    "viewers": "1002"
-  },
-  {
-    "name": "titiseadmin",
-    "game": "Grand Theft Auto V",
-    "viewers": "997"
   },
   {
     "name": "praden",
     "game": "Singularity",
-    "viewers": "990"
-  },
-  {
-    "name": "slrabbit99",
-    "game": "Just Chatting",
-    "viewers": "986"
-  },
-  {
-    "name": "schrodingerlee",
-    "game": "League of Legends",
-    "viewers": "985"
-  },
-  {
-    "name": "thatfriendlyguy",
-    "game": "Escape from Tarkov",
-    "viewers": "984"
-  },
-  {
-    "name": "playoverwatch",
-    "game": "Overwatch 2",
-    "viewers": "984"
-  },
-  {
-    "name": "matoco",
-    "game": "Grand Theft Auto V",
-    "viewers": "981"
-  },
-  {
-    "name": "mugretnug",
-    "game": "Just Chatting",
-    "viewers": "978"
-  },
-  {
-    "name": "bobross",
-    "game": "Art",
-    "viewers": "976"
-  },
-  {
-    "name": "gruz",
-    "game": "ARC Raiders",
-    "viewers": "970"
-  },
-  {
-    "name": "kiruma_ch",
-    "game": "ARC Raiders",
-    "viewers": "968"
-  },
-  {
-    "name": "matsuri_hs",
-    "game": "Hearthstone",
-    "viewers": "967"
-  },
-  {
-    "name": "txao",
-    "game": "Overwatch 2",
-    "viewers": "966"
-  },
-  {
-    "name": "kragiee",
-    "game": "Marvel Rivals",
-    "viewers": "962"
-  },
-  {
-    "name": "hyper2374",
-    "game": "Wuthering Waves",
-    "viewers": "958"
-  },
-  {
-    "name": "rmncs",
-    "game": "Counter-Strike",
-    "viewers": "957"
-  },
-  {
-    "name": "sotrudnick",
-    "game": "Grand Theft Auto V",
-    "viewers": "954"
+    "viewers": "1026"
   },
   {
     "name": "saltemike",
     "game": "Star Citizen",
-    "viewers": "949"
+    "viewers": "1022"
   },
   {
-    "name": "k1m6a",
-    "game": "Crypto",
-    "viewers": "945"
-  },
-  {
-    "name": "ssssshaoooo",
-    "game": "Apex Legends",
-    "viewers": "944"
-  },
-  {
-    "name": "alfedov",
-    "game": "Minecraft",
-    "viewers": "941"
-  },
-  {
-    "name": "paoloidolo",
-    "game": "League of Legends",
-    "viewers": "939"
-  },
-  {
-    "name": "tfblade",
-    "game": "League of Legends",
-    "viewers": "933"
-  },
-  {
-    "name": "s7ormytv",
-    "game": "Battlefield REDSEC",
-    "viewers": "929"
-  },
-  {
-    "name": "meicha",
-    "game": "Minecraft",
-    "viewers": "927"
-  },
-  {
-    "name": "bogur",
-    "game": "Marvel Rivals",
-    "viewers": "920"
-  },
-  {
-    "name": "renyan",
-    "game": "Counter-Strike",
-    "viewers": "919"
-  },
-  {
-    "name": "utbh_oficial",
-    "game": "Just Chatting",
-    "viewers": "918"
-  },
-  {
-    "name": "revenant",
-    "game": "Just Chatting",
-    "viewers": "916"
-  },
-  {
-    "name": "icyfragmaster",
-    "game": "Off The Grid",
-    "viewers": "913"
-  },
-  {
-    "name": "scssoftware",
-    "game": "Euro Truck Simulator 2",
-    "viewers": "910"
-  },
-  {
-    "name": "punkdagod",
-    "game": "Street Fighter 6",
-    "viewers": "905"
-  },
-  {
-    "name": "meuyou1",
-    "game": "Just Chatting",
-    "viewers": "904"
-  },
-  {
-    "name": "butter870519",
-    "game": "Just Chatting",
-    "viewers": "897"
-  },
-  {
-    "name": "iskall85",
-    "game": "Minecraft",
-    "viewers": "894"
-  },
-  {
-    "name": "tortedelini",
-    "game": "ARC Raiders",
-    "viewers": "886"
-  },
-  {
-    "name": "maplewood_tv",
-    "game": "ARC Raiders",
-    "viewers": "876"
-  },
-  {
-    "name": "punkill",
-    "game": "Call of Duty: Black Ops 7",
-    "viewers": "872"
-  },
-  {
-    "name": "gnu_live",
-    "game": "OMORI",
-    "viewers": "869"
-  },
-  {
-    "name": "un33d",
-    "game": "Teamfight Tactics",
-    "viewers": "869"
-  },
-  {
-    "name": "sweetily",
-    "game": "Where Winds Meet",
-    "viewers": "865"
-  },
-  {
-    "name": "fantacalcio",
-    "game": "Sports",
-    "viewers": "858"
-  },
-  {
-    "name": "vader",
-    "game": "Just Chatting",
-    "viewers": "856"
-  },
-  {
-    "name": "mistercop",
-    "game": "Path of Exile",
-    "viewers": "853"
-  },
-  {
-    "name": "yungfeldsalat",
-    "game": "Just Chatting",
-    "viewers": "853"
-  },
-  {
-    "name": "vsevkusno",
-    "game": "Just Chatting",
-    "viewers": "850"
-  },
-  {
-    "name": "laeppa",
-    "game": "Escape from Tarkov",
-    "viewers": "849"
-  },
-  {
-    "name": "skuuii",
-    "game": "Escape from Tarkov",
-    "viewers": "848"
+    "name": "playoverwatch",
+    "game": "Overwatch 2",
+    "viewers": "1019"
   },
   {
     "name": "viibiin",
     "game": "Escape from Tarkov",
-    "viewers": "845"
+    "viewers": "1015"
   },
   {
-    "name": "moopritedd",
+    "name": "boraslegend",
+    "game": "EA Sports FC 26",
+    "viewers": "1014"
+  },
+  {
+    "name": "jinnaaii",
+    "game": "Black Desert",
+    "viewers": "1013"
+  },
+  {
+    "name": "bobross",
+    "game": "Art",
+    "viewers": "1008"
+  },
+  {
+    "name": "txao",
+    "game": "Overwatch 2",
+    "viewers": "1004"
+  },
+  {
+    "name": "choppersakurada",
     "game": "Grand Theft Auto V",
-    "viewers": "842"
+    "viewers": "1004"
   },
   {
-    "name": "agorafutbol",
-    "game": "Sports",
-    "viewers": "842"
-  },
-  {
-    "name": "bladeito",
+    "name": "gaules",
     "game": "Counter-Strike",
-    "viewers": "842"
+    "viewers": "1004"
   },
   {
-    "name": "annacramling",
-    "game": "Trackmania",
-    "viewers": "842"
+    "name": "back2warcraft",
+    "game": "Warcraft III",
+    "viewers": "1003"
   },
   {
-    "name": "lebaby0v0",
-    "game": "FINAL FANTASY XIV ONLINE",
-    "viewers": "836"
+    "name": "dorozea",
+    "game": "Counter-Strike",
+    "viewers": "1000"
   },
   {
-    "name": "axesay7",
-    "game": "Genshin Impact",
-    "viewers": "835"
+    "name": "bogur",
+    "game": "Marvel Rivals",
+    "viewers": "988"
   },
   {
-    "name": "pizfn",
-    "game": "Escape from Tarkov",
-    "viewers": "831"
+    "name": "schrodingerlee",
+    "game": "League of Legends",
+    "viewers": "988"
   },
   {
-    "name": "ellvi",
+    "name": "slrabbit99",
     "game": "Just Chatting",
-    "viewers": "830"
+    "viewers": "984"
   },
   {
-    "name": "lost",
-    "game": "ARC Raiders",
-    "viewers": "830"
+    "name": "matsuri_hs",
+    "game": "Hearthstone",
+    "viewers": "982"
   },
   {
-    "name": "leducktft",
-    "game": "Teamfight Tactics",
-    "viewers": "830"
-  },
-  {
-    "name": "bigdaddy",
+    "name": "radika1fa",
     "game": "Dota 2",
-    "viewers": "830"
+    "viewers": "978"
+  },
+  {
+    "name": "matoco",
+    "game": "Grand Theft Auto V",
+    "viewers": "978"
+  },
+  {
+    "name": "uzorrr",
+    "game": "Delta Force",
+    "viewers": "973"
+  },
+  {
+    "name": "scssoftware",
+    "game": "Euro Truck Simulator 2",
+    "viewers": "973"
+  },
+  {
+    "name": "alveussanctuary",
+    "game": "Animals, Aquariums, and Zoos",
+    "viewers": "973"
+  },
+  {
+    "name": "titiseadmin",
+    "game": "Grand Theft Auto V",
+    "viewers": "967"
+  },
+  {
+    "name": "danucd",
+    "game": "PUBG: BATTLEGROUNDS",
+    "viewers": "967"
+  },
+  {
+    "name": "sotrudnick",
+    "game": "Grand Theft Auto V",
+    "viewers": "963"
+  },
+  {
+    "name": "gruz",
+    "game": "ARC Raiders",
+    "viewers": "961"
+  },
+  {
+    "name": "rmncs",
+    "game": "Counter-Strike",
+    "viewers": "958"
+  },
+  {
+    "name": "kragiee",
+    "game": "Marvel Rivals",
+    "viewers": "950"
+  },
+  {
+    "name": "punkdagod",
+    "game": "Street Fighter 6",
+    "viewers": "943"
+  },
+  {
+    "name": "s7ormytv",
+    "game": "Battlefield REDSEC",
+    "viewers": "940"
+  },
+  {
+    "name": "k1m6a",
+    "game": "Crypto",
+    "viewers": "939"
   },
   {
     "name": "giantwaffle",
     "game": "Just Chatting",
-    "viewers": "828"
+    "viewers": "935"
   },
   {
-    "name": "dosia_csgo",
+    "name": "iskall85",
+    "game": "Minecraft",
+    "viewers": "929"
+  },
+  {
+    "name": "deadp47_",
+    "game": "Battlefield 6",
+    "viewers": "920"
+  },
+  {
+    "name": "rosedoodle",
+    "game": "Art",
+    "viewers": "919"
+  },
+  {
+    "name": "meicha",
+    "game": "Minecraft",
+    "viewers": "919"
+  },
+  {
+    "name": "alfedov",
+    "game": "Minecraft",
+    "viewers": "914"
+  },
+  {
+    "name": "fuxelbau",
     "game": "ARC Raiders",
-    "viewers": "821"
+    "viewers": "913"
+  },
+  {
+    "name": "kiruma_ch",
+    "game": "ARC Raiders",
+    "viewers": "907"
+  },
+  {
+    "name": "hyper2374",
+    "game": "Wuthering Waves",
+    "viewers": "904"
+  },
+  {
+    "name": "w0n23",
+    "game": "Albion Online",
+    "viewers": "903"
+  },
+  {
+    "name": "thatfriendlyguy",
+    "game": "Escape from Tarkov",
+    "viewers": "894"
+  },
+  {
+    "name": "paoloidolo",
+    "game": "League of Legends",
+    "viewers": "892"
+  },
+  {
+    "name": "bladeito",
+    "game": "Counter-Strike",
+    "viewers": "892"
+  },
+  {
+    "name": "mistercop",
+    "game": "Path of Exile",
+    "viewers": "891"
+  },
+  {
+    "name": "laeppa",
+    "game": "Escape from Tarkov",
+    "viewers": "883"
+  },
+  {
+    "name": "vader",
+    "game": "Just Chatting",
+    "viewers": "882"
+  },
+  {
+    "name": "aussie_drongo",
+    "game": "Age of Empires IV",
+    "viewers": "879"
+  },
+  {
+    "name": "un33d",
+    "game": "Teamfight Tactics",
+    "viewers": "873"
+  },
+  {
+    "name": "heideltraut",
+    "game": "Grand Theft Auto V",
+    "viewers": "871"
+  },
+  {
+    "name": "leducktft",
+    "game": "Teamfight Tactics",
+    "viewers": "870"
+  },
+  {
+    "name": "kaise",
+    "game": "Just Chatting",
+    "viewers": "870"
   },
   {
     "name": "esportstudion",
     "game": "Counter-Strike",
-    "viewers": "821"
+    "viewers": "870"
   },
   {
-    "name": "taaaao",
+    "name": "redcs",
+    "game": "Counter-Strike",
+    "viewers": "864"
+  },
+  {
+    "name": "yungfeldsalat",
+    "game": "Just Chatting",
+    "viewers": "864"
+  },
+  {
+    "name": "meuyou1",
+    "game": "Just Chatting",
+    "viewers": "859"
+  },
+  {
+    "name": "ellvi",
+    "game": "Just Chatting",
+    "viewers": "857"
+  },
+  {
+    "name": "randombrucetv",
+    "game": "League of Legends",
+    "viewers": "851"
+  },
+  {
+    "name": "lebaby0v0",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "847"
+  },
+  {
+    "name": "sweetily",
+    "game": "Where Winds Meet",
+    "viewers": "846"
+  },
+  {
+    "name": "3xa_lol",
+    "game": "League of Legends",
+    "viewers": "846"
+  },
+  {
+    "name": "gnu_live",
+    "game": "OMORI",
+    "viewers": "844"
+  },
+  {
+    "name": "amur_game",
+    "game": "Escape from Tarkov",
+    "viewers": "843"
+  },
+  {
+    "name": "ssssshaoooo",
     "game": "Apex Legends",
-    "viewers": "820"
+    "viewers": "842"
   },
   {
     "name": "kin0zall",
     "game": "Just Chatting",
+    "viewers": "838"
+  },
+  {
+    "name": "butter870519",
+    "game": "Just Chatting",
+    "viewers": "837"
+  },
+  {
+    "name": "annacramling",
+    "game": "Trackmania",
+    "viewers": "837"
+  },
+  {
+    "name": "punkill",
+    "game": "Call of Duty: Black Ops 7",
+    "viewers": "833"
+  },
+  {
+    "name": "luxxurypain",
+    "game": "Off The Grid",
+    "viewers": "832"
+  },
+  {
+    "name": "oscarage",
+    "game": "Grand Theft Auto V",
+    "viewers": "828"
+  },
+  {
+    "name": "reikira_",
+    "game": "ASMR",
+    "viewers": "826"
+  },
+  {
+    "name": "powerofevil",
+    "game": "League of Legends",
+    "viewers": "825"
+  },
+  {
+    "name": "kennzy",
+    "game": "League of Legends",
+    "viewers": "822"
+  },
+  {
+    "name": "lost",
+    "game": "ARC Raiders",
+    "viewers": "821"
+  },
+  {
+    "name": "headleyy",
+    "game": "Escape from Tarkov",
     "viewers": "818"
   },
   {
     "name": "ginomachino",
     "game": "ELDEN RING",
-    "viewers": "808"
+    "viewers": "816"
   },
   {
-    "name": "oscarage",
-    "game": "Grand Theft Auto V",
-    "viewers": "807"
+    "name": "guzzeiira",
+    "game": "Virtual Casino",
+    "viewers": "816"
   },
   {
-    "name": "evangelion0",
-    "game": "Lost Ark",
-    "viewers": "807"
+    "name": "kingbendrick",
+    "game": "Vintage Story",
+    "viewers": "811"
   },
   {
-    "name": "kennzy",
-    "game": "League of Legends",
-    "viewers": "806"
+    "name": "maplewood_tv",
+    "game": "ARC Raiders",
+    "viewers": "810"
+  },
+  {
+    "name": "agorafutbol",
+    "game": "Sports",
+    "viewers": "809"
   },
   {
     "name": "mastertay",
@@ -2055,44 +2065,24 @@
     "viewers": "805"
   },
   {
-    "name": "ggomeszin",
-    "game": "Virtual Casino",
-    "viewers": "804"
-  },
-  {
-    "name": "rosedoodle",
-    "game": "Art",
-    "viewers": "803"
-  },
-  {
-    "name": "moman",
-    "game": "Escape from Tarkov",
-    "viewers": "803"
-  },
-  {
-    "name": "reikira_",
-    "game": "ASMR",
-    "viewers": "801"
-  },
-  {
     "name": "woulou",
     "game": "League of Legends",
-    "viewers": "800"
+    "viewers": "798"
   },
   {
-    "name": "powerofevil",
-    "game": "League of Legends",
-    "viewers": "797"
-  },
-  {
-    "name": "headleyy",
-    "game": "Escape from Tarkov",
-    "viewers": "795"
-  },
-  {
-    "name": "yukkkkiouo",
-    "game": "FINAL FANTASY XIV ONLINE",
+    "name": "vsevkusno",
+    "game": "I'm Pregnant at 16",
     "viewers": "793"
+  },
+  {
+    "name": "axesay7",
+    "game": "Genshin Impact",
+    "viewers": "793"
+  },
+  {
+    "name": "alle",
+    "game": "Escape from Tarkov",
+    "viewers": "792"
   },
   {
     "name": "blackmatrixishere",
@@ -2100,969 +2090,1049 @@
     "viewers": "790"
   },
   {
-    "name": "3xa_lol",
-    "game": "League of Legends",
-    "viewers": "787"
-  },
-  {
-    "name": "fuxelbau",
-    "game": "ARC Raiders",
-    "viewers": "787"
-  },
-  {
-    "name": "kingbendrick",
-    "game": "Vintage Story",
-    "viewers": "786"
-  },
-  {
-    "name": "ilmasseo",
-    "game": "Just Chatting",
-    "viewers": "785"
-  },
-  {
-    "name": "agendafreetv",
-    "game": "Just Chatting",
-    "viewers": "784"
-  },
-  {
-    "name": "redcs",
-    "game": "Counter-Strike",
-    "viewers": "782"
-  },
-  {
-    "name": "gremloe",
-    "game": "Just Chatting",
-    "viewers": "782"
-  },
-  {
-    "name": "kolu_pen",
-    "game": "VALORANT",
-    "viewers": "780"
-  },
-  {
-    "name": "w0n23",
-    "game": "Albion Online",
-    "viewers": "777"
+    "name": "m141319n",
+    "game": "PUBG: BATTLEGROUNDS",
+    "viewers": "788"
   },
   {
     "name": "obalestrin",
     "game": "Just Chatting",
-    "viewers": "773"
+    "viewers": "788"
   },
   {
-    "name": "cringer",
-    "game": "RimWorld",
-    "viewers": "772"
-  },
-  {
-    "name": "mrpokke",
-    "game": "Honkai: Star Rail",
-    "viewers": "770"
-  },
-  {
-    "name": "mironminmax",
-    "game": "Genshin Impact",
-    "viewers": "770"
-  },
-  {
-    "name": "alveussanctuary",
-    "game": "Animals, Aquariums, and Zoos",
-    "viewers": "770"
-  },
-  {
-    "name": "heideltraut",
-    "game": "Grand Theft Auto V",
-    "viewers": "768"
-  },
-  {
-    "name": "amur_game",
-    "game": "Escape from Tarkov",
-    "viewers": "768"
-  },
-  {
-    "name": "lexiav",
-    "game": "Heroes of Might and Magic III: The Restoration of Erathia",
-    "viewers": "767"
-  },
-  {
-    "name": "general_hs_",
+    "name": "patrizio_official",
     "game": "Just Chatting",
-    "viewers": "766"
+    "viewers": "788"
   },
   {
-    "name": "dino_xx",
-    "game": "Old School RuneScape",
-    "viewers": "766"
+    "name": "moman",
+    "game": "Escape from Tarkov",
+    "viewers": "787"
   },
   {
-    "name": "guzzeiira",
-    "game": "Virtual Casino",
-    "viewers": "764"
+    "name": "icyfragmaster",
+    "game": "Off The Grid",
+    "viewers": "785"
+  },
+  {
+    "name": "fantacalcio",
+    "game": "Sports",
+    "viewers": "784"
+  },
+  {
+    "name": "dosia_csgo",
+    "game": "ARC Raiders",
+    "viewers": "783"
+  },
+  {
+    "name": "yukkkkiouo",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "782"
   },
   {
     "name": "teepee",
     "game": "ARC Raiders",
-    "viewers": "764"
-  },
-  {
-    "name": "ceros127",
-    "game": "2XKO",
-    "viewers": "761"
-  },
-  {
-    "name": "aleaument",
-    "game": "Just Chatting",
-    "viewers": "759"
-  },
-  {
-    "name": "bonkol",
-    "game": "Battlefield 6",
-    "viewers": "749"
-  },
-  {
-    "name": "koyuki_teraz",
-    "game": "Minecraft",
-    "viewers": "747"
-  },
-  {
-    "name": "m141319n",
-    "game": "PUBG: BATTLEGROUNDS",
-    "viewers": "744"
-  },
-  {
-    "name": "andrewxprince",
-    "game": "Off The Grid",
-    "viewers": "743"
-  },
-  {
-    "name": "luxxurypain",
-    "game": "Off The Grid",
-    "viewers": "742"
-  },
-  {
-    "name": "aussie_drongo",
-    "game": "Age of Empires IV",
-    "viewers": "739"
-  },
-  {
-    "name": "diables",
-    "game": "Just Chatting",
-    "viewers": "739"
-  },
-  {
-    "name": "melina",
-    "game": "Just Chatting",
-    "viewers": "739"
-  },
-  {
-    "name": "solaryhs",
-    "game": "Hearthstone",
-    "viewers": "737"
-  },
-  {
-    "name": "mylonzete",
-    "game": "League of Legends",
-    "viewers": "735"
-  },
-  {
-    "name": "biggogamin",
-    "game": "NBA 2K26",
-    "viewers": "735"
-  },
-  {
-    "name": "ciri",
-    "game": "Rose and Cross",
-    "viewers": "733"
-  },
-  {
-    "name": "ns_art",
-    "game": "Dota 2",
-    "viewers": "733"
-  },
-  {
-    "name": "lizotika",
-    "game": "World of Warcraft",
-    "viewers": "732"
-  },
-  {
-    "name": "jaskol95",
-    "game": "Clair Obscur: Expedition 33",
-    "viewers": "731"
-  },
-  {
-    "name": "ravanha69",
-    "game": "Virtual Casino",
-    "viewers": "726"
-  },
-  {
-    "name": "jongie",
-    "game": "FINAL FANTASY XIV ONLINE",
-    "viewers": "723"
-  },
-  {
-    "name": "cristobalgazquez",
-    "game": "Just Chatting",
-    "viewers": "720"
-  },
-  {
-    "name": "streamerhouse",
-    "game": "Where Winds Meet",
-    "viewers": "716"
+    "viewers": "780"
   },
   {
     "name": "gebauermarc",
     "game": "Just Chatting",
-    "viewers": "715"
+    "viewers": "773"
   },
   {
     "name": "klupatwins",
     "game": "Just Chatting",
-    "viewers": "713"
+    "viewers": "769"
   },
   {
-    "name": "browjey",
-    "game": "Just Chatting",
-    "viewers": "711"
+    "name": "bonkol",
+    "game": "Battlefield 6",
+    "viewers": "762"
   },
   {
-    "name": "vivi0z1",
-    "game": "League of Legends",
-    "viewers": "710"
+    "name": "cringer",
+    "game": "RimWorld",
+    "viewers": "761"
   },
   {
-    "name": "minuself",
-    "game": "IRL",
-    "viewers": "710"
-  },
-  {
-    "name": "kettuncyukyuhei",
-    "game": "ARC Raiders",
-    "viewers": "705"
-  },
-  {
-    "name": "ggbb528",
-    "game": "League of Legends",
-    "viewers": "702"
-  },
-  {
-    "name": "zonixxcs",
-    "game": "Counter-Strike",
-    "viewers": "701"
-  },
-  {
-    "name": "attrix",
-    "game": "Just Chatting",
-    "viewers": "699"
-  },
-  {
-    "name": "unclebjorn",
-    "game": "WUCHANG: Fallen Feathers",
-    "viewers": "699"
-  },
-  {
-    "name": "felikah",
+    "name": "puddingb00m",
     "game": "Minecraft",
-    "viewers": "694"
+    "viewers": "758"
   },
   {
-    "name": "randombrucetv",
-    "game": "League of Legends",
-    "viewers": "694"
-  },
-  {
-    "name": "chigre",
-    "game": "EA Sports FC 26",
-    "viewers": "693"
-  },
-  {
-    "name": "unter_merk",
-    "game": "Megabonk",
-    "viewers": "692"
-  },
-  {
-    "name": "fifakillvizualz",
-    "game": "Call of Duty: Black Ops 7",
-    "viewers": "691"
-  },
-  {
-    "name": "esb_dota2",
-    "game": "Dota 2",
-    "viewers": "691"
-  },
-  {
-    "name": "xpazzoo",
-    "game": "EA Sports FC 26",
-    "viewers": "691"
-  },
-  {
-    "name": "sruser11",
-    "game": "Virtual Casino",
-    "viewers": "688"
-  },
-  {
-    "name": "realkraftyy",
-    "game": "Escape from Tarkov",
-    "viewers": "687"
-  },
-  {
-    "name": "alle",
-    "game": "Escape from Tarkov",
-    "viewers": "686"
-  },
-  {
-    "name": "aleksandr_rostovskii",
-    "game": "Dota 2",
-    "viewers": "684"
-  },
-  {
-    "name": "krapycoco",
-    "game": "VALORANT",
-    "viewers": "681"
-  },
-  {
-    "name": "lakelzth",
-    "game": "Dota 2",
-    "viewers": "681"
-  },
-  {
-    "name": "kinozver",
-    "game": "Just Chatting",
-    "viewers": "681"
-  },
-  {
-    "name": "lulavlr",
-    "game": "VALORANT",
-    "viewers": "681"
-  },
-  {
-    "name": "outc1der",
-    "game": "Escape from Tarkov",
-    "viewers": "678"
-  },
-  {
-    "name": "notjoeykaotyk",
-    "game": "Nioh 2",
-    "viewers": "677"
-  },
-  {
-    "name": "turunpug",
-    "game": "Just Chatting",
-    "viewers": "677"
-  },
-  {
-    "name": "qtzynderella",
-    "game": "Just Chatting",
-    "viewers": "675"
-  },
-  {
-    "name": "morrog",
+    "name": "tortedelini",
     "game": "ARC Raiders",
-    "viewers": "674"
+    "viewers": "755"
   },
   {
-    "name": "obsidiantime",
-    "game": "Risk of Rain 2",
-    "viewers": "670"
+    "name": "dino_xx",
+    "game": "Old School RuneScape",
+    "viewers": "754"
   },
   {
-    "name": "swid",
-    "game": "Escape from Tarkov",
-    "viewers": "670"
+    "name": "lexiav",
+    "game": "Heroes of Might and Magic III: The Restoration of Erathia",
+    "viewers": "753"
   },
   {
-    "name": "warn",
-    "game": "Overwatch 2",
-    "viewers": "670"
+    "name": "solaryhs",
+    "game": "Hearthstone",
+    "viewers": "752"
   },
   {
     "name": "poyeunha",
     "game": "Grand Theft Auto V",
-    "viewers": "670"
+    "viewers": "751"
   },
   {
-    "name": "cowsep",
-    "game": "League of Legends",
-    "viewers": "667"
+    "name": "mironminmax",
+    "game": "Genshin Impact",
+    "viewers": "748"
+  },
+  {
+    "name": "bigdaddy",
+    "game": "Dota 2",
+    "viewers": "748"
+  },
+  {
+    "name": "ravanha69",
+    "game": "Virtual Casino",
+    "viewers": "747"
+  },
+  {
+    "name": "lizotika",
+    "game": "World of Warcraft",
+    "viewers": "747"
   },
   {
     "name": "bida",
     "game": "Counter-Strike",
-    "viewers": "665"
+    "viewers": "746"
   },
   {
-    "name": "jvzin7",
-    "game": "Virtual Casino",
-    "viewers": "664"
+    "name": "ilmasseo",
+    "game": "Just Chatting",
+    "viewers": "746"
   },
   {
-    "name": "nannitwitch",
-    "game": "Hearthstone",
-    "viewers": "663"
+    "name": "general_hs_",
+    "game": "Just Chatting",
+    "viewers": "745"
   },
   {
-    "name": "mrgibbon",
-    "game": "ARC Raiders",
-    "viewers": "661"
+    "name": "biggogamin",
+    "game": "NBA 2K26",
+    "viewers": "745"
   },
   {
-    "name": "didishkatv",
-    "game": "Arena Breakout: Infinite",
-    "viewers": "660"
+    "name": "browjey",
+    "game": "Just Chatting",
+    "viewers": "743"
   },
   {
-    "name": "bigdaddygmann",
-    "game": "Call of Duty: Warzone",
-    "viewers": "660"
+    "name": "diables",
+    "game": "Just Chatting",
+    "viewers": "738"
+  },
+  {
+    "name": "ns_art",
+    "game": "Dota 2",
+    "viewers": "735"
+  },
+  {
+    "name": "mylonzete",
+    "game": "League of Legends",
+    "viewers": "732"
+  },
+  {
+    "name": "gremloe",
+    "game": "Just Chatting",
+    "viewers": "732"
+  },
+  {
+    "name": "ciri",
+    "game": "Rose and Cross",
+    "viewers": "731"
+  },
+  {
+    "name": "ceros127",
+    "game": "2XKO",
+    "viewers": "731"
+  },
+  {
+    "name": "drlupo",
+    "game": "Escape from Tarkov",
+    "viewers": "730"
+  },
+  {
+    "name": "moopritedd",
+    "game": "Grand Theft Auto V",
+    "viewers": "729"
+  },
+  {
+    "name": "zonixxcs",
+    "game": "Counter-Strike",
+    "viewers": "728"
+  },
+  {
+    "name": "ggbb528",
+    "game": "League of Legends",
+    "viewers": "726"
   },
   {
     "name": "mero",
     "game": "Fortnite",
-    "viewers": "660"
+    "viewers": "726"
   },
   {
-    "name": "botkz",
+    "name": "mrpokke",
+    "game": "Honkai: Star Rail",
+    "viewers": "725"
+  },
+  {
+    "name": "krapycoco",
+    "game": "VALORANT",
+    "viewers": "724"
+  },
+  {
+    "name": "cristobalgazquez",
     "game": "Just Chatting",
-    "viewers": "658"
+    "viewers": "724"
+  },
+  {
+    "name": "unclebjorn",
+    "game": "WUCHANG: Fallen Feathers",
+    "viewers": "724"
+  },
+  {
+    "name": "jaskol95",
+    "game": "Clair Obscur: Expedition 33",
+    "viewers": "724"
+  },
+  {
+    "name": "chigre",
+    "game": "EA Sports FC 26",
+    "viewers": "721"
+  },
+  {
+    "name": "melina",
+    "game": "Just Chatting",
+    "viewers": "719"
+  },
+  {
+    "name": "jongie",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "716"
+  },
+  {
+    "name": "warn",
+    "game": "Overwatch 2",
+    "viewers": "714"
   },
   {
     "name": "olgaenvivo",
     "game": "Talk Shows & Podcasts",
-    "viewers": "657"
+    "viewers": "712"
   },
   {
-    "name": "dinossindgeil",
-    "game": "Dark Souls: Remastered",
-    "viewers": "656"
-  },
-  {
-    "name": "kandyland",
+    "name": "nieuczesana",
     "game": "Just Chatting",
-    "viewers": "652"
+    "viewers": "708"
   },
   {
-    "name": "998rrr",
-    "game": "Minecraft",
-    "viewers": "651"
+    "name": "lulavlr",
+    "game": "VALORANT",
+    "viewers": "708"
   },
   {
-    "name": "tanukininja",
-    "game": "Teamfight Tactics",
-    "viewers": "651"
-  },
-  {
-    "name": "zetyou2",
-    "game": "Minecraft",
-    "viewers": "651"
-  },
-  {
-    "name": "fiolochka",
+    "name": "outc1der",
     "game": "Escape from Tarkov",
-    "viewers": "650"
+    "viewers": "706"
   },
   {
-    "name": "nielnieh345",
-    "game": "INAZUMA ELEVEN: Victory Road",
-    "viewers": "649"
-  },
-  {
-    "name": "meltstera",
-    "game": "Apex Legends",
-    "viewers": "649"
-  },
-  {
-    "name": "justketh",
-    "game": "Just Chatting",
-    "viewers": "644"
-  },
-  {
-    "name": "carritoskami",
-    "game": "Slots",
-    "viewers": "643"
-  },
-  {
-    "name": "gagik",
-    "game": "Just Chatting",
-    "viewers": "642"
-  },
-  {
-    "name": "sebo",
-    "game": "Farming Simulator 25",
-    "viewers": "638"
-  },
-  {
-    "name": "pun1shers_tv",
-    "game": "League of Legends",
-    "viewers": "638"
-  },
-  {
-    "name": "thespudhunter",
-    "game": "ARC Raiders",
-    "viewers": "633"
-  },
-  {
-    "name": "gobgg",
-    "game": "Project Zomboid",
-    "viewers": "632"
-  },
-  {
-    "name": "dd87878",
-    "game": "Escape from Tarkov",
-    "viewers": "632"
-  },
-  {
-    "name": "opphorx",
-    "game": "Minecraft",
-    "viewers": "629"
-  },
-  {
-    "name": "by_mandero",
-    "game": "Black Russia",
-    "viewers": "625"
-  },
-  {
-    "name": "wizer02",
-    "game": "Mobile Legends: Bang Bang",
-    "viewers": "620"
-  },
-  {
-    "name": "holdenatorsho",
-    "game": "Talk Shows & Podcasts",
-    "viewers": "619"
-  },
-  {
-    "name": "mikami_kon",
-    "game": "ARC Raiders",
-    "viewers": "619"
-  },
-  {
-    "name": "raidergo",
-    "game": "League of Legends",
-    "viewers": "618"
-  },
-  {
-    "name": "dexbonus",
-    "game": "Hollow Knight: Silksong",
-    "viewers": "617"
-  },
-  {
-    "name": "salmmus",
-    "game": "ARC Raiders",
-    "viewers": "617"
-  },
-  {
-    "name": "bzzisperfect",
-    "game": "Dota 2",
-    "viewers": "616"
-  },
-  {
-    "name": "sarahtoninx9",
-    "game": "League of Legends",
-    "viewers": "614"
-  },
-  {
-    "name": "2aaaaaaa2",
-    "game": "Grand Theft Auto V",
-    "viewers": "612"
-  },
-  {
-    "name": "lamhua",
-    "game": "Just Chatting",
-    "viewers": "612"
-  },
-  {
-    "name": "zec4w",
-    "game": "Counter-Strike",
-    "viewers": "610"
-  },
-  {
-    "name": "fr3ddy",
-    "game": "World of Tanks",
-    "viewers": "610"
-  },
-  {
-    "name": "doctorbenjy",
-    "game": "Football Manager 26",
-    "viewers": "608"
-  },
-  {
-    "name": "zhotan_",
+    "name": "nannitwitch",
     "game": "Hearthstone",
-    "viewers": "608"
+    "viewers": "705"
   },
   {
-    "name": "v1nkub",
-    "game": "ARC Raiders",
-    "viewers": "607"
+    "name": "minuself",
+    "game": "IRL",
+    "viewers": "705"
   },
   {
-    "name": "veni",
+    "name": "tifowmeth",
+    "game": "Virtual Casino",
+    "viewers": "704"
+  },
+  {
+    "name": "turunpug",
+    "game": "Just Chatting",
+    "viewers": "701"
+  },
+  {
+    "name": "esb_dota2",
+    "game": "Dota 2",
+    "viewers": "695"
+  },
+  {
+    "name": "kinozver",
+    "game": "Just Chatting",
+    "viewers": "694"
+  },
+  {
+    "name": "alexisshv",
+    "game": "Just Chatting",
+    "viewers": "693"
+  },
+  {
+    "name": "vivi0z1",
+    "game": "League of Legends",
+    "viewers": "692"
+  },
+  {
+    "name": "aleaument",
+    "game": "Just Chatting",
+    "viewers": "691"
+  },
+  {
+    "name": "koyuki_teraz",
     "game": "Minecraft",
-    "viewers": "605"
-  },
-  {
-    "name": "reidboyy",
-    "game": "Call of Duty: Black Ops 7",
-    "viewers": "604"
-  },
-  {
-    "name": "ant1ka",
-    "game": "Grand Theft Auto V",
-    "viewers": "603"
-  },
-  {
-    "name": "zyfraraider",
-    "game": "Albion Online",
-    "viewers": "602"
-  },
-  {
-    "name": "isthisrealvr",
-    "game": "VRChat",
-    "viewers": "600"
-  },
-  {
-    "name": "crelly",
-    "game": "I'm Only Sleeping",
-    "viewers": "599"
-  },
-  {
-    "name": "dethseiya",
-    "game": "VALORANT",
-    "viewers": "598"
-  },
-  {
-    "name": "rainbrain",
-    "game": "Teamfight Tactics",
-    "viewers": "596"
-  },
-  {
-    "name": "mnikolow1",
-    "game": "Just Chatting",
-    "viewers": "594"
-  },
-  {
-    "name": "airiesummer",
-    "game": "Red Dead Redemption II",
-    "viewers": "593"
-  },
-  {
-    "name": "mrrapolas",
-    "game": "Black Desert",
-    "viewers": "593"
-  },
-  {
-    "name": "seoi1016",
-    "game": "Just Chatting",
-    "viewers": "592"
-  },
-  {
-    "name": "cyganzor",
-    "game": "World of Tanks",
-    "viewers": "592"
-  },
-  {
-    "name": "nils",
-    "game": "ARC Raiders",
-    "viewers": "591"
-  },
-  {
-    "name": "der_typ_ist_anders",
-    "game": "Just Chatting",
-    "viewers": "590"
-  },
-  {
-    "name": "valyoko",
-    "game": "Just Chatting",
-    "viewers": "590"
-  },
-  {
-    "name": "wehoopinx",
-    "game": "IRL",
-    "viewers": "589"
-  },
-  {
-    "name": "dayra1se",
-    "game": "Escape from Tarkov",
-    "viewers": "588"
-  },
-  {
-    "name": "verena",
-    "game": "IRL",
-    "viewers": "586"
-  },
-  {
-    "name": "klein_skadi",
-    "game": "ARC Raiders",
-    "viewers": "586"
-  },
-  {
-    "name": "pkchorrao",
-    "game": "Counter-Strike",
-    "viewers": "585"
-  },
-  {
-    "name": "sweetcampercs",
-    "game": "Escape from Tarkov",
-    "viewers": "584"
-  },
-  {
-    "name": "paloylive",
-    "game": "Slots",
-    "viewers": "583"
-  },
-  {
-    "name": "spammiej",
-    "game": "Trackmania",
-    "viewers": "581"
-  },
-  {
-    "name": "mabelend",
-    "game": "Just Chatting",
-    "viewers": "579"
-  },
-  {
-    "name": "pwnage",
-    "game": "Rise Online",
-    "viewers": "576"
-  },
-  {
-    "name": "denkabooru",
-    "game": "Just Chatting",
-    "viewers": "576"
-  },
-  {
-    "name": "clutch_fii",
-    "game": "VALORANT",
-    "viewers": "575"
-  },
-  {
-    "name": "corgicam",
-    "game": "Just Chatting",
-    "viewers": "572"
-  },
-  {
-    "name": "kaleevision",
-    "game": "Just Chatting",
-    "viewers": "572"
+    "viewers": "691"
   },
   {
     "name": "ralisco",
     "game": "Arena Breakout: Infinite",
-    "viewers": "571"
+    "viewers": "689"
   },
   {
-    "name": "flauschigtv",
-    "game": "RV There Yet?",
-    "viewers": "570"
+    "name": "fr3ddy",
+    "game": "World of Tanks",
+    "viewers": "688"
   },
   {
-    "name": "mst3k",
-    "game": "Always On",
-    "viewers": "569"
+    "name": "noraexplorer",
+    "game": "Just Chatting",
+    "viewers": "688"
   },
   {
-    "name": "oonolive",
-    "game": "World of Warcraft",
-    "viewers": "569"
-  },
-  {
-    "name": "d4v41vlr",
-    "game": "VALORANT",
-    "viewers": "568"
-  },
-  {
-    "name": "lilah",
-    "game": "ASMR",
-    "viewers": "568"
-  },
-  {
-    "name": "obsess3",
+    "name": "taaaao",
     "game": "League of Legends",
-    "viewers": "567"
+    "viewers": "687"
   },
   {
-    "name": "adcshiiro",
+    "name": "bigdaddygmann",
+    "game": "Call of Duty: Warzone",
+    "viewers": "687"
+  },
+  {
+    "name": "sarahtoninx9",
     "game": "League of Legends",
-    "viewers": "567"
+    "viewers": "683"
   },
   {
-    "name": "cocaoo_",
-    "game": "Escape from Tarkov",
-    "viewers": "565"
+    "name": "xpazzoo",
+    "game": "EA Sports FC 26",
+    "viewers": "683"
   },
   {
-    "name": "send0o",
-    "game": "League of Legends",
-    "viewers": "560"
+    "name": "sruser11",
+    "game": "Virtual Casino",
+    "viewers": "682"
   },
   {
-    "name": "nniru",
+    "name": "kettuncyukyuhei",
     "game": "ARC Raiders",
-    "viewers": "560"
-  },
-  {
-    "name": "pandarina",
-    "game": "Just Chatting",
-    "viewers": "559"
-  },
-  {
-    "name": "roadhouse",
-    "game": "The Rise of the Golden Idol",
-    "viewers": "559"
-  },
-  {
-    "name": "dasoku_aniki",
-    "game": "Apex Legends",
-    "viewers": "558"
-  },
-  {
-    "name": "nicistemmler",
-    "game": "Farming Simulator 25",
-    "viewers": "557"
-  },
-  {
-    "name": "lhcloudy27",
-    "game": "Overwatch 2",
-    "viewers": "556"
-  },
-  {
-    "name": "loltiesel",
-    "game": "Just Chatting",
-    "viewers": "555"
-  },
-  {
-    "name": "hannn0501_",
-    "game": "Just Chatting",
-    "viewers": "554"
-  },
-  {
-    "name": "sgtgrafoyni",
-    "game": "Just Chatting",
-    "viewers": "553"
-  },
-  {
-    "name": "wedwedd",
-    "game": "Solo Leveling: ARISE OVERDRIVE",
-    "viewers": "553"
-  },
-  {
-    "name": "zethiann",
-    "game": "Black Desert",
-    "viewers": "553"
-  },
-  {
-    "name": "impakt",
-    "game": "ARC Raiders",
-    "viewers": "552"
-  },
-  {
-    "name": "stopgameru",
-    "game": "Stellar Blade",
-    "viewers": "551"
-  },
-  {
-    "name": "anyarich",
-    "game": "Grand Theft Auto V",
-    "viewers": "551"
-  },
-  {
-    "name": "zigueira",
-    "game": "ARC Raiders",
-    "viewers": "548"
-  },
-  {
-    "name": "mitsuki_mitsuu",
-    "game": "ARK: Survival Ascended",
-    "viewers": "547"
-  },
-  {
-    "name": "impatiya",
-    "game": "Escape from Tarkov",
-    "viewers": "546"
-  },
-  {
-    "name": "apollolol",
-    "game": "Just Chatting",
-    "viewers": "545"
-  },
-  {
-    "name": "mowky",
-    "game": "Just Chatting",
-    "viewers": "544"
-  },
-  {
-    "name": "timofey",
-    "game": "S.W.I.N.E. HD Remaster",
-    "viewers": "542"
-  },
-  {
-    "name": "silvinit_t",
-    "game": "Just Chatting",
-    "viewers": "542"
-  },
-  {
-    "name": "mmgeneral",
-    "game": "Just Chatting",
-    "viewers": "542"
-  },
-  {
-    "name": "dota2_maincast2",
-    "game": "Dota 2",
-    "viewers": "542"
-  },
-  {
-    "name": "retake",
-    "game": "Counter-Strike",
-    "viewers": "541"
+    "viewers": "681"
   },
   {
     "name": "spear_shot",
     "game": "League of Legends",
-    "viewers": "536"
+    "viewers": "680"
+  },
+  {
+    "name": "fifakillvizualz",
+    "game": "Call of Duty: Black Ops 7",
+    "viewers": "678"
+  },
+  {
+    "name": "realkraftyy",
+    "game": "Escape from Tarkov",
+    "viewers": "677"
+  },
+  {
+    "name": "gagik",
+    "game": "Just Chatting",
+    "viewers": "674"
+  },
+  {
+    "name": "lakelzth",
+    "game": "Dota 2",
+    "viewers": "671"
+  },
+  {
+    "name": "kandyland",
+    "game": "Just Chatting",
+    "viewers": "671"
+  },
+  {
+    "name": "andrewxprince",
+    "game": "Off The Grid",
+    "viewers": "668"
+  },
+  {
+    "name": "mrgibbon",
+    "game": "ARC Raiders",
+    "viewers": "668"
+  },
+  {
+    "name": "ggomeszin",
+    "game": "Virtual Casino",
+    "viewers": "668"
+  },
+  {
+    "name": "streamerhouse",
+    "game": "Where Winds Meet",
+    "viewers": "665"
+  },
+  {
+    "name": "didishkatv",
+    "game": "Arena Breakout: Infinite",
+    "viewers": "664"
+  },
+  {
+    "name": "felikah",
+    "game": "Minecraft",
+    "viewers": "662"
+  },
+  {
+    "name": "attrix",
+    "game": "Just Chatting",
+    "viewers": "662"
+  },
+  {
+    "name": "kolu_pen",
+    "game": "VALORANT",
+    "viewers": "661"
+  },
+  {
+    "name": "swid",
+    "game": "Escape from Tarkov",
+    "viewers": "661"
+  },
+  {
+    "name": "notjoeykaotyk",
+    "game": "Nioh 2",
+    "viewers": "657"
+  },
+  {
+    "name": "isthisrealvr",
+    "game": "VRChat",
+    "viewers": "657"
+  },
+  {
+    "name": "998rrr",
+    "game": "Minecraft",
+    "viewers": "655"
+  },
+  {
+    "name": "zetyou2",
+    "game": "Minecraft",
+    "viewers": "655"
+  },
+  {
+    "name": "by_mandero",
+    "game": "Black Russia",
+    "viewers": "654"
+  },
+  {
+    "name": "dexbonus",
+    "game": "Hollow Knight: Silksong",
+    "viewers": "653"
+  },
+  {
+    "name": "justketh",
+    "game": "Just Chatting",
+    "viewers": "652"
+  },
+  {
+    "name": "czechcloud",
+    "game": "Special Events",
+    "viewers": "649"
+  },
+  {
+    "name": "fiolochka",
+    "game": "Escape from Tarkov",
+    "viewers": "648"
+  },
+  {
+    "name": "obsidiantime",
+    "game": "Risk of Rain 2",
+    "viewers": "648"
+  },
+  {
+    "name": "mvpproject",
+    "game": "Aion 2",
+    "viewers": "648"
+  },
+  {
+    "name": "mst3k",
+    "game": "Always On",
+    "viewers": "646"
+  },
+  {
+    "name": "rainbrain",
+    "game": "Teamfight Tactics",
+    "viewers": "645"
+  },
+  {
+    "name": "raidergo",
+    "game": "League of Legends",
+    "viewers": "643"
+  },
+  {
+    "name": "dota2_maincast2",
+    "game": "Dota 2",
+    "viewers": "640"
+  },
+  {
+    "name": "nils",
+    "game": "ARC Raiders",
+    "viewers": "639"
+  },
+  {
+    "name": "bzzisperfect",
+    "game": "Dota 2",
+    "viewers": "638"
+  },
+  {
+    "name": "reidboyy",
+    "game": "Call of Duty: Black Ops 7",
+    "viewers": "633"
+  },
+  {
+    "name": "carritoskami",
+    "game": "Slots",
+    "viewers": "630"
+  },
+  {
+    "name": "cyganzor",
+    "game": "World of Tanks",
+    "viewers": "630"
+  },
+  {
+    "name": "tanukininja",
+    "game": "Teamfight Tactics",
+    "viewers": "629"
+  },
+  {
+    "name": "boxyfresh",
+    "game": "ARC Raiders",
+    "viewers": "629"
+  },
+  {
+    "name": "sweetcampercs",
+    "game": "Escape from Tarkov",
+    "viewers": "628"
+  },
+  {
+    "name": "dd87878",
+    "game": "Escape from Tarkov",
+    "viewers": "628"
+  },
+  {
+    "name": "pandarina",
+    "game": "Just Chatting",
+    "viewers": "625"
+  },
+  {
+    "name": "2aaaaaaa2",
+    "game": "Grand Theft Auto V",
+    "viewers": "623"
+  },
+  {
+    "name": "pun1shers_tv",
+    "game": "League of Legends",
+    "viewers": "622"
+  },
+  {
+    "name": "opphorx",
+    "game": "Minecraft",
+    "viewers": "621"
+  },
+  {
+    "name": "paloylive",
+    "game": "Slots",
+    "viewers": "621"
+  },
+  {
+    "name": "jvzin7",
+    "game": "Virtual Casino",
+    "viewers": "621"
+  },
+  {
+    "name": "doctorbenjy",
+    "game": "Football Manager 26",
+    "viewers": "621"
+  },
+  {
+    "name": "thespudhunter",
+    "game": "ARC Raiders",
+    "viewers": "617"
+  },
+  {
+    "name": "d4v41vlr",
+    "game": "VALORANT",
+    "viewers": "616"
+  },
+  {
+    "name": "lamhua",
+    "game": "Just Chatting",
+    "viewers": "616"
+  },
+  {
+    "name": "aleksandr_rostovskii",
+    "game": "Dota 2",
+    "viewers": "615"
+  },
+  {
+    "name": "cowsep",
+    "game": "League of Legends",
+    "viewers": "614"
+  },
+  {
+    "name": "morrog",
+    "game": "ARC Raiders",
+    "viewers": "613"
+  },
+  {
+    "name": "gobgg",
+    "game": "Project Zomboid",
+    "viewers": "613"
+  },
+  {
+    "name": "holdenatorsho",
+    "game": "Talk Shows & Podcasts",
+    "viewers": "613"
+  },
+  {
+    "name": "lilah",
+    "game": "ASMR",
+    "viewers": "612"
+  },
+  {
+    "name": "botkz",
+    "game": "Just Chatting",
+    "viewers": "612"
+  },
+  {
+    "name": "nooor",
+    "game": "Grand Theft Auto V",
+    "viewers": "611"
+  },
+  {
+    "name": "loltiesel",
+    "game": "Just Chatting",
+    "viewers": "608"
+  },
+  {
+    "name": "wehoopinx",
+    "game": "IRL",
+    "viewers": "608"
+  },
+  {
+    "name": "veni",
+    "game": "Minecraft",
+    "viewers": "606"
+  },
+  {
+    "name": "mnikolow1",
+    "game": "Just Chatting",
+    "viewers": "605"
+  },
+  {
+    "name": "retake",
+    "game": "Counter-Strike",
+    "viewers": "604"
+  },
+  {
+    "name": "alvarostorm",
+    "game": "League of Legends",
+    "viewers": "604"
+  },
+  {
+    "name": "dayra1se",
+    "game": "Escape from Tarkov",
+    "viewers": "602"
+  },
+  {
+    "name": "sebo",
+    "game": "Farming Simulator 25",
+    "viewers": "602"
+  },
+  {
+    "name": "crelly",
+    "game": "I'm Only Sleeping",
+    "viewers": "601"
+  },
+  {
+    "name": "zyfraraider",
+    "game": "Albion Online",
+    "viewers": "601"
+  },
+  {
+    "name": "mrrapolas",
+    "game": "Black Desert",
+    "viewers": "600"
+  },
+  {
+    "name": "kaleevision",
+    "game": "Just Chatting",
+    "viewers": "597"
+  },
+  {
+    "name": "nielnieh345",
+    "game": "INAZUMA ELEVEN: Victory Road",
+    "viewers": "596"
+  },
+  {
+    "name": "airiesummer",
+    "game": "Red Dead Redemption II",
+    "viewers": "594"
+  },
+  {
+    "name": "stopgameru",
+    "game": "Stellar Blade",
+    "viewers": "594"
+  },
+  {
+    "name": "verena",
+    "game": "IRL",
+    "viewers": "594"
+  },
+  {
+    "name": "spammiej",
+    "game": "Trackmania",
+    "viewers": "592"
+  },
+  {
+    "name": "valyoko",
+    "game": "Just Chatting",
+    "viewers": "584"
+  },
+  {
+    "name": "sgtgrafoyni",
+    "game": "Just Chatting",
+    "viewers": "584"
+  },
+  {
+    "name": "flauschigtv",
+    "game": "RV There Yet?",
+    "viewers": "583"
+  },
+  {
+    "name": "zhotan_",
+    "game": "Hearthstone",
+    "viewers": "583"
+  },
+  {
+    "name": "davo",
+    "game": "Just Chatting",
+    "viewers": "581"
+  },
+  {
+    "name": "9impulse",
+    "game": "Apex Legends",
+    "viewers": "578"
+  },
+  {
+    "name": "seoi1016",
+    "game": "Just Chatting",
+    "viewers": "578"
+  },
+  {
+    "name": "adcshiiro",
+    "game": "League of Legends",
+    "viewers": "578"
+  },
+  {
+    "name": "albino",
+    "game": "I Wanna Be The Guy Remastered",
+    "viewers": "576"
+  },
+  {
+    "name": "mowky",
+    "game": "Just Chatting",
+    "viewers": "575"
+  },
+  {
+    "name": "oonolive",
+    "game": "World of Warcraft",
+    "viewers": "575"
+  },
+  {
+    "name": "dinossindgeil",
+    "game": "Dark Souls: Remastered",
+    "viewers": "575"
+  },
+  {
+    "name": "meltstera",
+    "game": "Apex Legends",
+    "viewers": "575"
+  },
+  {
+    "name": "dethseiya",
+    "game": "VALORANT",
+    "viewers": "574"
   },
   {
     "name": "kuyanicwxc",
     "game": "Dota 2",
-    "viewers": "536"
-  },
-  {
-    "name": "the_real_fer",
-    "game": "Counter-Strike",
-    "viewers": "535"
-  },
-  {
-    "name": "lizagrimm",
-    "game": "Tavern Keeper",
-    "viewers": "535"
-  },
-  {
-    "name": "makeouthill",
-    "game": "Fortnite",
-    "viewers": "534"
-  },
-  {
-    "name": "bakeezy",
-    "game": "Escape from Tarkov",
-    "viewers": "534"
-  },
-  {
-    "name": "shirahiko",
-    "game": "Just Chatting",
-    "viewers": "534"
-  },
-  {
-    "name": "ferretsoftware",
-    "game": "Animals, Aquariums, and Zoos",
-    "viewers": "533"
-  },
-  {
-    "name": "kannazukilubee",
-    "game": "FINAL FANTASY XIV ONLINE",
-    "viewers": "531"
+    "viewers": "574"
   },
   {
     "name": "lukedalelive",
     "game": "The Last of Us Part I",
+    "viewers": "571"
+  },
+  {
+    "name": "v1nkub",
+    "game": "ARC Raiders",
+    "viewers": "571"
+  },
+  {
+    "name": "salmmus",
+    "game": "ARC Raiders",
+    "viewers": "571"
+  },
+  {
+    "name": "zec4w",
+    "game": "Counter-Strike",
+    "viewers": "570"
+  },
+  {
+    "name": "ant1ka",
+    "game": "Grand Theft Auto V",
+    "viewers": "569"
+  },
+  {
+    "name": "thekller",
+    "game": "Dead by Daylight",
+    "viewers": "567"
+  },
+  {
+    "name": "pizfn",
+    "game": "Escape from Tarkov",
+    "viewers": "567"
+  },
+  {
+    "name": "cooldee__",
+    "game": "Escape from Tarkov",
+    "viewers": "567"
+  },
+  {
+    "name": "clutch_fii",
+    "game": "VALORANT",
+    "viewers": "566"
+  },
+  {
+    "name": "elojoninja",
+    "game": "League of Legends",
+    "viewers": "566"
+  },
+  {
+    "name": "nniru",
+    "game": "ARC Raiders",
+    "viewers": "566"
+  },
+  {
+    "name": "cocaoo_",
+    "game": "Escape from Tarkov",
+    "viewers": "564"
+  },
+  {
+    "name": "redemption",
+    "game": "Pokémon Emerald Version",
+    "viewers": "563"
+  },
+  {
+    "name": "apollolol",
+    "game": "Just Chatting",
+    "viewers": "563"
+  },
+  {
+    "name": "the_real_fer",
+    "game": "Counter-Strike",
+    "viewers": "562"
+  },
+  {
+    "name": "impakt",
+    "game": "ARC Raiders",
+    "viewers": "562"
+  },
+  {
+    "name": "corgicam",
+    "game": "Just Chatting",
+    "viewers": "562"
+  },
+  {
+    "name": "denkabooru",
+    "game": "Just Chatting",
+    "viewers": "558"
+  },
+  {
+    "name": "impatiya",
+    "game": "Escape from Tarkov",
+    "viewers": "558"
+  },
+  {
+    "name": "obsess3",
+    "game": "League of Legends",
+    "viewers": "555"
+  },
+  {
+    "name": "shirahiko",
+    "game": "Just Chatting",
+    "viewers": "553"
+  },
+  {
+    "name": "roadhouse",
+    "game": "The Rise of the Golden Idol",
+    "viewers": "553"
+  },
+  {
+    "name": "pkchorrao",
+    "game": "Counter-Strike",
+    "viewers": "552"
+  },
+  {
+    "name": "edopeh",
+    "game": "Anno 117: Pax Romana",
+    "viewers": "552"
+  },
+  {
+    "name": "der_typ_ist_anders",
+    "game": "Just Chatting",
+    "viewers": "551"
+  },
+  {
+    "name": "buichka",
+    "game": "Grand Theft Auto V",
+    "viewers": "548"
+  },
+  {
+    "name": "maimaittv",
+    "game": "Just Chatting",
+    "viewers": "545"
+  },
+  {
+    "name": "mmgeneral",
+    "game": "Just Chatting",
+    "viewers": "544"
+  },
+  {
+    "name": "apathy",
+    "game": "Call of Duty: Black Ops 7",
+    "viewers": "543"
+  },
+  {
+    "name": "zethiann",
+    "game": "Black Desert",
+    "viewers": "543"
+  },
+  {
+    "name": "fairypeak",
+    "game": "Rocket League",
+    "viewers": "541"
+  },
+  {
+    "name": "ellietheempress",
+    "game": "Just Chatting",
+    "viewers": "541"
+  },
+  {
+    "name": "linca",
+    "game": "Just Chatting",
+    "viewers": "540"
+  },
+  {
+    "name": "ferretsoftware",
+    "game": "Animals, Aquariums, and Zoos",
+    "viewers": "539"
+  },
+  {
+    "name": "lirik_247",
+    "game": "Always On",
+    "viewers": "538"
+  },
+  {
+    "name": "ereek",
+    "game": "Grand Theft Auto V",
+    "viewers": "536"
+  },
+  {
+    "name": "driftyhustle",
+    "game": "ARC Raiders",
+    "viewers": "536"
+  },
+  {
+    "name": "k_i_r_a",
+    "game": "Megabonk",
+    "viewers": "535"
+  },
+  {
+    "name": "straminskiy",
+    "game": "Dota 2",
+    "viewers": "534"
+  },
+  {
+    "name": "wolfeei",
+    "game": "Minecraft",
+    "viewers": "534"
+  },
+  {
+    "name": "kannazukilubee",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "533"
+  },
+  {
+    "name": "timofey",
+    "game": "S.W.I.N.E. HD Remaster",
+    "viewers": "532"
+  },
+  {
+    "name": "lizagrimm",
+    "game": "Tavern Keeper",
+    "viewers": "531"
+  },
+  {
+    "name": "goes",
+    "game": "Escape from Tarkov",
+    "viewers": "531"
+  },
+  {
+    "name": "dasoku_aniki",
+    "game": "Apex Legends",
     "viewers": "529"
+  },
+  {
+    "name": "tamae_",
+    "game": "Just Chatting",
+    "viewers": "529"
+  },
+  {
+    "name": "tijoe",
+    "game": "Risk of Rain 2",
+    "viewers": "529"
+  },
+  {
+    "name": "arkvenger_tv",
+    "game": "Star Citizen",
+    "viewers": "528"
+  },
+  {
+    "name": "anyarich",
+    "game": "Grand Theft Auto V",
+    "viewers": "528"
   },
   {
     "name": "saintone",
@@ -3070,553 +3140,498 @@
     "viewers": "528"
   },
   {
-    "name": "vovikqq",
-    "game": "Dota 2",
+    "name": "nicistemmler",
+    "game": "Farming Simulator 25",
+    "viewers": "527"
+  },
+  {
+    "name": "hannn0501_",
+    "game": "Just Chatting",
     "viewers": "526"
+  },
+  {
+    "name": "kaos_angel",
+    "game": "League of Legends",
+    "viewers": "526"
+  },
+  {
+    "name": "pinkdonutx",
+    "game": "Just Chatting",
+    "viewers": "525"
+  },
+  {
+    "name": "evrialgaming",
+    "game": "Aion 2",
+    "viewers": "524"
+  },
+  {
+    "name": "klein_skadi",
+    "game": "ARC Raiders",
+    "viewers": "524"
   },
   {
     "name": "thedivisiongame",
     "game": "Tom Clancy's The Division: Resurgence",
-    "viewers": "526"
-  },
-  {
-    "name": "krathing789",
-    "game": "",
-    "viewers": "525"
-  },
-  {
-    "name": "lirik_247",
-    "game": "Always On",
-    "viewers": "524"
-  },
-  {
-    "name": "goes",
-    "game": "Escape from Tarkov",
-    "viewers": "524"
-  },
-  {
-    "name": "redemption",
-    "game": "Pokémon Emerald Version",
-    "viewers": "523"
-  },
-  {
-    "name": "kamiyu666",
-    "game": "Games + Demos",
-    "viewers": "522"
-  },
-  {
-    "name": "twoangrygamerstv",
-    "game": "Ready or Not",
     "viewers": "521"
   },
   {
-    "name": "thepadlo",
-    "game": "Just Chatting",
-    "viewers": "521"
-  },
-  {
-    "name": "dinomitetwins",
-    "game": "IRL",
-    "viewers": "521"
-  },
-  {
-    "name": "k_i_r_a",
-    "game": "Megabonk",
+    "name": "zephyruwu",
+    "game": "ASMR",
     "viewers": "520"
   },
   {
-    "name": "apathy",
-    "game": "Call of Duty: Black Ops 7",
-    "viewers": "519"
-  },
-  {
-    "name": "tijoe",
-    "game": "Risk of Rain 2",
+    "name": "silvinit_t",
+    "game": "Just Chatting",
     "viewers": "519"
   },
   {
     "name": "wincenz0oo",
     "game": "Knight Online",
-    "viewers": "518"
+    "viewers": "519"
   },
   {
-    "name": "buichka",
-    "game": "Grand Theft Auto V",
+    "name": "shibuya_kaho",
+    "game": "Just Chatting",
     "viewers": "517"
   },
   {
-    "name": "davo",
+    "name": "diamondprox_lol",
     "game": "Just Chatting",
+    "viewers": "517"
+  },
+  {
+    "name": "kamiyu666",
+    "game": "Games + Demos",
+    "viewers": "516"
+  },
+  {
+    "name": "mitsuki_mitsuu",
+    "game": "ARK: Survival Ascended",
     "viewers": "515"
-  },
-  {
-    "name": "arkvenger_tv",
-    "game": "Star Citizen",
-    "viewers": "515"
-  },
-  {
-    "name": "wolfeei",
-    "game": "Minecraft",
-    "viewers": "514"
-  },
-  {
-    "name": "straminskiy",
-    "game": "Dota 2",
-    "viewers": "513"
-  },
-  {
-    "name": "raythis",
-    "game": "World of Warcraft",
-    "viewers": "512"
-  },
-  {
-    "name": "gonsabellla",
-    "game": "IRL",
-    "viewers": "511"
-  },
-  {
-    "name": "mtoshii",
-    "game": "Kirby Air Riders",
-    "viewers": "511"
-  },
-  {
-    "name": "sh0tnik",
-    "game": "Mir Tankov",
-    "viewers": "510"
-  },
-  {
-    "name": "yeo_ul",
-    "game": "Just Chatting",
-    "viewers": "510"
-  },
-  {
-    "name": "reality",
-    "game": "Counter-Strike",
-    "viewers": "509"
   },
   {
     "name": "hunterfamq",
     "game": "Grand Theft Auto V",
+    "viewers": "514"
+  },
+  {
+    "name": "jongmaleen",
+    "game": "Grand Theft Auto V",
+    "viewers": "513"
+  },
+  {
+    "name": "stylerz",
+    "game": "Call of Duty: Black Ops 7",
+    "viewers": "513"
+  },
+  {
+    "name": "goldenjet_",
+    "game": "Grand Theft Auto V",
+    "viewers": "511"
+  },
+  {
+    "name": "doseofcoffee",
+    "game": "Hearthstone",
+    "viewers": "509"
+  },
+  {
+    "name": "jujalag",
+    "game": "Stardew Valley",
     "viewers": "508"
   },
   {
-    "name": "rdcwaitingroom_",
+    "name": "reality",
+    "game": "Counter-Strike",
+    "viewers": "507"
+  },
+  {
+    "name": "svetasollarr",
     "game": "Just Chatting",
     "viewers": "505"
   },
   {
-    "name": "ereek",
+    "name": "pwnage",
+    "game": "Rise Online",
+    "viewers": "504"
+  },
+  {
+    "name": "vovikqq",
     "game": "Dota 2",
-    "viewers": "504"
-  },
-  {
-    "name": "maimaittv",
-    "game": "Just Chatting",
-    "viewers": "504"
-  },
-  {
-    "name": "tranquillotv",
-    "game": "Counter-Strike",
-    "viewers": "504"
-  },
-  {
-    "name": "czechcloud",
-    "game": "Special Events",
-    "viewers": "504"
-  },
-  {
-    "name": "jimpanse",
-    "game": "Escape from Tarkov",
     "viewers": "503"
   },
   {
-    "name": "zephyruwu",
-    "game": "ASMR",
-    "viewers": "503"
-  },
-  {
-    "name": "geppe",
-    "game": "Grand Theft Auto V",
+    "name": "tttcheekyttt",
+    "game": "Apex Legends",
     "viewers": "502"
   },
   {
     "name": "xterotex",
     "game": "Escape from Tarkov",
-    "viewers": "502"
+    "viewers": "501"
   },
   {
-    "name": "elvemage59",
-    "game": "Epic Seven",
-    "viewers": "500"
-  },
-  {
-    "name": "hamedloco",
-    "game": "Hello Neighbor",
-    "viewers": "500"
-  },
-  {
-    "name": "diamondprox_lol",
-    "game": "Just Chatting",
-    "viewers": "500"
-  },
-  {
-    "name": "arl1ng",
-    "game": "777 Casino",
-    "viewers": "500"
-  },
-  {
-    "name": "doseofcoffee",
-    "game": "Hearthstone",
-    "viewers": "499"
-  },
-  {
-    "name": "noraexplorer",
-    "game": "Just Chatting",
-    "viewers": "498"
-  },
-  {
-    "name": "evrialgaming",
-    "game": "Aion 2",
-    "viewers": "497"
-  },
-  {
-    "name": "stylerz",
-    "game": "Call of Duty: Black Ops 7",
-    "viewers": "497"
-  },
-  {
-    "name": "kochevnik",
-    "game": "Politics",
-    "viewers": "496"
-  },
-  {
-    "name": "reqvam",
-    "game": "Hearthstone",
-    "viewers": "496"
-  },
-  {
-    "name": "skycrab",
-    "game": "Minecraft",
-    "viewers": "495"
-  },
-  {
-    "name": "kaos_angel",
-    "game": "League of Legends",
-    "viewers": "495"
-  },
-  {
-    "name": "gravesen_1",
-    "game": "EA Sports FC 26",
-    "viewers": "494"
-  },
-  {
-    "name": "ellietheempress",
-    "game": "Just Chatting",
-    "viewers": "494"
-  },
-  {
-    "name": "svetasollarr",
-    "game": "Just Chatting",
-    "viewers": "494"
-  },
-  {
-    "name": "linca",
-    "game": "Just Chatting",
-    "viewers": "493"
-  },
-  {
-    "name": "bluesr",
-    "game": "Hollow Knight: Silksong",
-    "viewers": "493"
-  },
-  {
-    "name": "jongmaleen",
-    "game": "Grand Theft Auto V",
-    "viewers": "492"
-  },
-  {
-    "name": "pinkdonutx",
-    "game": "Just Chatting",
-    "viewers": "492"
-  },
-  {
-    "name": "denywhymad",
-    "game": "Black Russia",
-    "viewers": "491"
-  },
-  {
-    "name": "alepre98",
-    "game": "Just Chatting",
-    "viewers": "490"
-  },
-  {
-    "name": "rprx",
-    "game": "ARC Raiders",
-    "viewers": "488"
-  },
-  {
-    "name": "9impulse",
-    "game": "Apex Legends",
-    "viewers": "488"
-  },
-  {
-    "name": "lesin",
-    "game": "Counter-Strike",
-    "viewers": "488"
-  },
-  {
-    "name": "fluffozin",
-    "game": "Virtual Casino",
-    "viewers": "487"
-  },
-  {
-    "name": "margenalez",
-    "game": "Black Russia",
-    "viewers": "487"
-  },
-  {
-    "name": "xx_sho_xx",
-    "game": "Black Russia",
-    "viewers": "486"
-  },
-  {
-    "name": "kawa1sheep",
-    "game": "Just Chatting",
-    "viewers": "485"
-  },
-  {
-    "name": "driftyhustle",
-    "game": "ARC Raiders",
-    "viewers": "485"
-  },
-  {
-    "name": "nedogonpolya",
-    "game": "Grand Theft Auto V",
-    "viewers": "482"
-  },
-  {
-    "name": "vrauixo",
-    "game": "Counter-Strike",
-    "viewers": "482"
-  },
-  {
-    "name": "itspatlive",
-    "game": "IRL",
-    "viewers": "482"
-  },
-  {
-    "name": "sansuay_ch",
-    "game": "Grand Theft Auto V",
-    "viewers": "482"
-  },
-  {
-    "name": "bottegaboi_",
-    "game": "Grand Theft Auto V",
-    "viewers": "480"
-  },
-  {
-    "name": "edopeh",
-    "game": "Anno 117: Pax Romana",
-    "viewers": "479"
-  },
-  {
-    "name": "annademetriou",
-    "game": "Dispatch",
-    "viewers": "478"
-  },
-  {
-    "name": "zmok",
-    "game": "World of Warcraft",
-    "viewers": "478"
-  },
-  {
-    "name": "cabolo",
-    "game": "Soulframe",
-    "viewers": "478"
-  },
-  {
-    "name": "carebearch",
-    "game": "Grand Theft Auto V",
-    "viewers": "478"
-  },
-  {
-    "name": "beyaz",
-    "game": "VALORANT",
-    "viewers": "475"
-  },
-  {
-    "name": "boxyfresh",
-    "game": "ARC Raiders",
-    "viewers": "472"
-  },
-  {
-    "name": "whyandr3w",
-    "game": "Marvel Rivals",
-    "viewers": "472"
-  },
-  {
-    "name": "thekller",
-    "game": "Dead by Daylight",
-    "viewers": "470"
-  },
-  {
-    "name": "spuzie",
-    "game": "Teamfight Tactics",
-    "viewers": "470"
-  },
-  {
-    "name": "heystan",
-    "game": "IRL",
-    "viewers": "469"
-  },
-  {
-    "name": "s3kox",
-    "game": "Rust",
-    "viewers": "469"
-  },
-  {
-    "name": "cooldee__",
+    "name": "jimpanse",
     "game": "Escape from Tarkov",
-    "viewers": "468"
-  },
-  {
-    "name": "ogrodnoy",
-    "game": "Just Chatting",
-    "viewers": "468"
-  },
-  {
-    "name": "nieuczesana",
-    "game": "Just Chatting",
-    "viewers": "467"
-  },
-  {
-    "name": "7yovo",
-    "game": "Just Chatting",
-    "viewers": "466"
-  },
-  {
-    "name": "pilavpowa",
-    "game": "Warcraft III",
-    "viewers": "466"
-  },
-  {
-    "name": "attach",
-    "game": "Call of Duty: Black Ops 7",
-    "viewers": "466"
-  },
-  {
-    "name": "jay3",
-    "game": "I'm Only Sleeping",
-    "viewers": "465"
-  },
-  {
-    "name": "dilettantka",
-    "game": "Just Chatting",
-    "viewers": "464"
-  },
-  {
-    "name": "proersiin",
-    "game": "ARC Raiders",
-    "viewers": "461"
-  },
-  {
-    "name": "hotbeatstv",
-    "game": "DJs",
-    "viewers": "461"
+    "viewers": "498"
   },
   {
     "name": "thewhelps",
     "game": "Aion 2",
-    "viewers": "460"
+    "viewers": "498"
   },
   {
-    "name": "fairypeak",
-    "game": "Rocket League",
-    "viewers": "459"
+    "name": "send0o",
+    "game": "League of Legends",
+    "viewers": "498"
   },
   {
-    "name": "uni03_",
-    "game": "Escape from Tarkov",
-    "viewers": "458"
+    "name": "mtoshii",
+    "game": "Kirby Air Riders",
+    "viewers": "498"
   },
   {
-    "name": "godota2bets",
-    "game": "Dota 2",
-    "viewers": "458"
+    "name": "wizer02",
+    "game": "Mobile Legends: Bang Bang",
+    "viewers": "495"
   },
   {
-    "name": "goldenjet_",
+    "name": "thepadlo",
+    "game": "Just Chatting",
+    "viewers": "494"
+  },
+  {
+    "name": "gravesen_1",
+    "game": "EA Sports FC 26",
+    "viewers": "492"
+  },
+  {
+    "name": "alexnoviaoff",
     "game": "Grand Theft Auto V",
-    "viewers": "457"
+    "viewers": "492"
   },
   {
-    "name": "sinerias",
-    "game": "League of Legends",
-    "viewers": "456"
+    "name": "fluffozin",
+    "game": "Virtual Casino",
+    "viewers": "491"
   },
   {
-    "name": "alvarostorm",
-    "game": "League of Legends",
-    "viewers": "455"
+    "name": "reqvam",
+    "game": "Hearthstone",
+    "viewers": "491"
   },
   {
-    "name": "niniste",
-    "game": "IRL",
-    "viewers": "454"
+    "name": "bakeezy",
+    "game": "Escape from Tarkov",
+    "viewers": "490"
   },
   {
-    "name": "sankt",
-    "game": "Albion Online",
-    "viewers": "453"
+    "name": "tranquillotv",
+    "game": "Counter-Strike",
+    "viewers": "489"
   },
   {
-    "name": "anaaja",
-    "game": "IRL",
-    "viewers": "452"
+    "name": "makeouthill",
+    "game": "Fortnite",
+    "viewers": "488"
   },
   {
-    "name": "tttcheekyttt",
-    "game": "Apex Legends",
-    "viewers": "452"
+    "name": "wedwedd",
+    "game": "Solo Leveling: ARISE OVERDRIVE",
+    "viewers": "488"
   },
   {
-    "name": "curly",
-    "game": "Dispatch",
-    "viewers": "451"
+    "name": "kochevnik",
+    "game": "Politics",
+    "viewers": "487"
   },
   {
-    "name": "froob",
-    "game": "Deadly Premonition 2: A Blessing in Disguise",
-    "viewers": "451"
+    "name": "apply",
+    "game": "Overwatch 2",
+    "viewers": "486"
+  },
+  {
+    "name": "qtzynderella",
+    "game": "Just Chatting",
+    "viewers": "486"
+  },
+  {
+    "name": "twoangrygamerstv",
+    "game": "Ready or Not",
+    "viewers": "486"
+  },
+  {
+    "name": "arl1ng",
+    "game": "777 Casino",
+    "viewers": "485"
+  },
+  {
+    "name": "tommathan",
+    "game": "Overwatch 2",
+    "viewers": "485"
   },
   {
     "name": "xopxsam",
     "game": "Clash Royale",
-    "viewers": "451"
+    "viewers": "480"
   },
   {
-    "name": "shibuya_kaho",
+    "name": "annademetriou",
+    "game": "Dispatch",
+    "viewers": "479"
+  },
+  {
+    "name": "niniste",
+    "game": "IRL",
+    "viewers": "479"
+  },
+  {
+    "name": "pilavpowa",
+    "game": "Warcraft III",
+    "viewers": "479"
+  },
+  {
+    "name": "rdcwaitingroom_",
     "game": "Just Chatting",
-    "viewers": "450"
+    "viewers": "479"
   },
   {
-    "name": "neth3",
+    "name": "coreano",
+    "game": "Rust",
+    "viewers": "478"
+  },
+  {
+    "name": "xx_sho_xx",
+    "game": "Black Russia",
+    "viewers": "478"
+  },
+  {
+    "name": "freezecz",
+    "game": "League of Legends",
+    "viewers": "477"
+  },
+  {
+    "name": "geppe",
+    "game": "Grand Theft Auto V",
+    "viewers": "476"
+  },
+  {
+    "name": "attach",
+    "game": "Call of Duty: Black Ops 7",
+    "viewers": "476"
+  },
+  {
+    "name": "xpetu",
+    "game": "League of Legends",
+    "viewers": "474"
+  },
+  {
+    "name": "curly",
+    "game": "Dispatch",
+    "viewers": "474"
+  },
+  {
+    "name": "s3kox",
+    "game": "Rust",
+    "viewers": "474"
+  },
+  {
+    "name": "margenalez",
+    "game": "Black Russia",
+    "viewers": "473"
+  },
+  {
+    "name": "bottegaboi_",
+    "game": "Grand Theft Auto V",
+    "viewers": "473"
+  },
+  {
+    "name": "sips_",
+    "game": "Escape from Tarkov",
+    "viewers": "471"
+  },
+  {
+    "name": "null1k",
+    "game": "Escape from Tarkov",
+    "viewers": "471"
+  },
+  {
+    "name": "cacho01",
+    "game": "EA Sports FC 26",
+    "viewers": "470"
+  },
+  {
+    "name": "elvemage59",
+    "game": "Epic Seven",
+    "viewers": "469"
+  },
+  {
+    "name": "mikami_kon",
+    "game": "ARC Raiders",
+    "viewers": "469"
+  },
+  {
+    "name": "kawa1sheep",
     "game": "Just Chatting",
-    "viewers": "449"
+    "viewers": "468"
   },
   {
-    "name": "lebwa_bb",
-    "game": "Mir Tankov",
-    "viewers": "448"
+    "name": "heystan",
+    "game": "IRL",
+    "viewers": "468"
   },
   {
-    "name": "massroon",
-    "game": "Tibia",
-    "viewers": "447"
+    "name": "whyandr3w",
+    "game": "Marvel Rivals",
+    "viewers": "468"
+  },
+  {
+    "name": "cabolo",
+    "game": "Soulframe",
+    "viewers": "467"
+  },
+  {
+    "name": "velcuz",
+    "game": "Just Chatting",
+    "viewers": "467"
+  },
+  {
+    "name": "nedogonpolya",
+    "game": "Grand Theft Auto V",
+    "viewers": "465"
+  },
+  {
+    "name": "dilettantka",
+    "game": "Machinarium",
+    "viewers": "464"
   },
   {
     "name": "dennsen86",
     "game": "Magic: The Gathering",
+    "viewers": "463"
+  },
+  {
+    "name": "taksebeyarik",
+    "game": "Just Chatting",
+    "viewers": "460"
+  },
+  {
+    "name": "kemist_c10h15n",
+    "game": "Demon's Souls",
+    "viewers": "459"
+  },
+  {
+    "name": "anaaja",
+    "game": "IRL",
+    "viewers": "459"
+  },
+  {
+    "name": "low4n",
+    "game": "ARC Raiders",
+    "viewers": "458"
+  },
+  {
+    "name": "vrauixo",
+    "game": "Counter-Strike",
+    "viewers": "456"
+  },
+  {
+    "name": "get_right",
+    "game": "Counter-Strike",
+    "viewers": "456"
+  },
+  {
+    "name": "venenox7",
+    "game": "Virtual Casino",
+    "viewers": "454"
+  },
+  {
+    "name": "denywhymad",
+    "game": "Black Russia",
+    "viewers": "453"
+  },
+  {
+    "name": "neth3",
+    "game": "Just Chatting",
+    "viewers": "452"
+  },
+  {
+    "name": "godota2bets",
+    "game": "Dota 2",
+    "viewers": "451"
+  },
+  {
+    "name": "sankt",
+    "game": "Albion Online",
+    "viewers": "450"
+  },
+  {
+    "name": "lilekoridze",
+    "game": "Chess",
+    "viewers": "450"
+  },
+  {
+    "name": "sh0tnik",
+    "game": "Mir Tankov",
+    "viewers": "449"
+  },
+  {
+    "name": "katastroff",
+    "game": "Just Chatting",
+    "viewers": "449"
+  },
+  {
+    "name": "ogrodnoy",
+    "game": "Counter-Strike",
+    "viewers": "448"
+  },
+  {
+    "name": "lebwa_bb",
+    "game": "Mir Tankov",
+    "viewers": "447"
+  },
+  {
+    "name": "itspatlive",
+    "game": "IRL",
+    "viewers": "447"
+  },
+  {
+    "name": "uni03_",
+    "game": "Escape from Tarkov",
+    "viewers": "447"
+  },
+  {
+    "name": "sansuay_ch",
+    "game": "Grand Theft Auto V",
+    "viewers": "447"
+  },
+  {
+    "name": "miss_chalice",
+    "game": " SEKIRO: SHADOWS DIE TWICE",
+    "viewers": "447"
+  },
+  {
+    "name": "crouching_tuna",
+    "game": "Path of Exile",
+    "viewers": "446"
+  },
+  {
+    "name": "hamedloco",
+    "game": "Hello Neighbor",
+    "viewers": "445"
+  },
+  {
+    "name": "humility",
+    "game": "WAKFU",
+    "viewers": "444"
+  },
+  {
+    "name": "skycrab",
+    "game": "Minecraft",
+    "viewers": "444"
+  },
+  {
+    "name": "lhcloudy27",
+    "game": "Overwatch 2",
     "viewers": "444"
   },
   {
@@ -3625,8 +3640,13 @@
     "viewers": "442"
   },
   {
-    "name": "nnarcos",
-    "game": "Escape from Tarkov",
+    "name": "dinomitetwins",
+    "game": "IRL",
+    "viewers": "441"
+  },
+  {
+    "name": "lesin",
+    "game": "Counter-Strike",
     "viewers": "441"
   },
   {
@@ -3635,613 +3655,643 @@
     "viewers": "441"
   },
   {
-    "name": "hasi",
+    "name": "eisteelepeach_1",
     "game": "IRL",
     "viewers": "440"
   },
   {
-    "name": "elojoninja",
-    "game": "League of Legends",
-    "viewers": "439"
-  },
-  {
-    "name": "drlupo",
-    "game": "Escape from Tarkov",
-    "viewers": "438"
-  },
-  {
-    "name": "rodenasink",
-    "game": "Winter Burrow",
-    "viewers": "437"
-  },
-  {
-    "name": "miss_chalice",
-    "game": " SEKIRO: SHADOWS DIE TWICE",
-    "viewers": "436"
-  },
-  {
-    "name": "lewisaoe",
-    "game": "Age of Empires II",
-    "viewers": "435"
-  },
-  {
-    "name": "xpetu",
-    "game": "League of Legends",
-    "viewers": "435"
-  },
-  {
     "name": "rifftrax",
     "game": "Always On",
-    "viewers": "435"
-  },
-  {
-    "name": "kevinitss",
-    "game": "Just Chatting",
-    "viewers": "435"
-  },
-  {
-    "name": "dannykoopa",
-    "game": "ARC Raiders",
-    "viewers": "433"
-  },
-  {
-    "name": "sindics",
-    "game": "Counter-Strike",
-    "viewers": "433"
-  },
-  {
-    "name": "maskedwolf",
-    "game": "ARC Raiders",
-    "viewers": "432"
-  },
-  {
-    "name": "get_right",
-    "game": "Counter-Strike",
-    "viewers": "431"
-  },
-  {
-    "name": "kemist_c10h15n",
-    "game": "Demon's Souls",
-    "viewers": "431"
-  },
-  {
-    "name": "tamae_",
-    "game": "Just Chatting",
-    "viewers": "431"
-  },
-  {
-    "name": "cucu0015",
-    "game": "Night Club Simulator",
-    "viewers": "430"
-  },
-  {
-    "name": "amaui0915",
-    "game": "Overwatch 2",
-    "viewers": "429"
-  },
-  {
-    "name": "pasdebol_tft",
-    "game": "Teamfight Tactics",
-    "viewers": "429"
-  },
-  {
-    "name": "tommathan",
-    "game": "Overwatch 2",
-    "viewers": "429"
-  },
-  {
-    "name": "eisteelepeach_1",
-    "game": "IRL",
-    "viewers": "428"
-  },
-  {
-    "name": "dankol83",
-    "game": "Just Chatting",
-    "viewers": "426"
-  },
-  {
-    "name": "qwinkiii",
-    "game": "Dota 2",
-    "viewers": "426"
-  },
-  {
-    "name": "phyzikk",
-    "game": "Battlefield REDSEC",
-    "viewers": "426"
-  },
-  {
-    "name": "fatezdys",
-    "game": "Grand Theft Auto V",
-    "viewers": "425"
-  },
-  {
-    "name": "mike4h",
-    "game": "Grand Theft Auto V",
-    "viewers": "424"
-  },
-  {
-    "name": "low4n",
-    "game": "ARC Raiders",
-    "viewers": "424"
-  },
-  {
-    "name": "apply",
-    "game": "Overwatch 2",
-    "viewers": "423"
-  },
-  {
-    "name": "tingting57",
-    "game": "ASMR",
-    "viewers": "423"
-  },
-  {
-    "name": "ampeterby7",
-    "game": "Clash Royale",
-    "viewers": "423"
-  },
-  {
-    "name": "linaaarr",
-    "game": "DJs",
-    "viewers": "422"
-  },
-  {
-    "name": "leissik",
-    "game": "Delta Force",
-    "viewers": "421"
-  },
-  {
-    "name": "azrael",
-    "game": "Grand Theft Auto V",
-    "viewers": "421"
-  },
-  {
-    "name": "null1k",
-    "game": "Escape from Tarkov",
-    "viewers": "420"
-  },
-  {
-    "name": "z60411",
-    "game": "FINAL FANTASY XIV ONLINE",
-    "viewers": "419"
-  },
-  {
-    "name": "sturmwaffel",
-    "game": "Food & Drink",
-    "viewers": "419"
+    "viewers": "439"
   },
   {
     "name": "k13tv",
     "game": "Dota 2",
-    "viewers": "419"
+    "viewers": "439"
   },
   {
-    "name": "ekatze007",
-    "game": "Just Chatting",
-    "viewers": "419"
+    "name": "jay3",
+    "game": "I'm Only Sleeping",
+    "viewers": "438"
   },
   {
-    "name": "yunicorn19",
-    "game": "Just Chatting",
-    "viewers": "418"
+    "name": "leissik",
+    "game": "Delta Force",
+    "viewers": "437"
   },
   {
-    "name": "einz",
-    "game": "IRL",
-    "viewers": "415"
-  },
-  {
-    "name": "nohchooo",
+    "name": "fatezdys",
     "game": "Grand Theft Auto V",
-    "viewers": "415"
+    "viewers": "437"
   },
   {
-    "name": "kingsobe",
-    "game": "League of Legends",
-    "viewers": "414"
+    "name": "nnarcos",
+    "game": "Escape from Tarkov",
+    "viewers": "436"
   },
   {
-    "name": "g4nng",
-    "game": "World of Warships",
-    "viewers": "413"
+    "name": "massroon",
+    "game": "Tibia",
+    "viewers": "436"
+  },
+  {
+    "name": "linaaarr",
+    "game": "DJs",
+    "viewers": "436"
+  },
+  {
+    "name": "froob",
+    "game": "Deadly Premonition 2: A Blessing in Disguise",
+    "viewers": "435"
+  },
+  {
+    "name": "amaui0915",
+    "game": "Overwatch 2",
+    "viewers": "432"
+  },
+  {
+    "name": "proersiin",
+    "game": "ARC Raiders",
+    "viewers": "432"
+  },
+  {
+    "name": "dankol83",
+    "game": "Just Chatting",
+    "viewers": "431"
+  },
+  {
+    "name": "rprx",
+    "game": "ARC Raiders",
+    "viewers": "431"
   },
   {
     "name": "nugiyen",
     "game": "Path of Exile 2",
-    "viewers": "412"
+    "viewers": "429"
   },
   {
-    "name": "waayz1n",
-    "game": "Virtual Casino",
-    "viewers": "411"
+    "name": "ampeterby7",
+    "game": "Clash Royale",
+    "viewers": "428"
   },
   {
-    "name": "furgoth",
-    "game": "Total War: WARHAMMER III",
-    "viewers": "411"
+    "name": "sturmwaffel",
+    "game": "Food & Drink",
+    "viewers": "427"
   },
   {
-    "name": "yume",
-    "game": "Strange Antiquities",
-    "viewers": "411"
+    "name": "g4nng",
+    "game": "World of Warships",
+    "viewers": "426"
   },
   {
-    "name": "geolivegg",
-    "game": "Where Winds Meet",
-    "viewers": "411"
-  },
-  {
-    "name": "patoalbion",
-    "game": "Albion Online",
-    "viewers": "411"
-  },
-  {
-    "name": "taidaaaa_",
-    "game": "Apex Legends",
-    "viewers": "410"
-  },
-  {
-    "name": "missdietchaos",
-    "game": "Escape from Tarkov",
-    "viewers": "409"
-  },
-  {
-    "name": "amor_ed",
-    "game": "Dota 2",
-    "viewers": "409"
-  },
-  {
-    "name": "riirex",
-    "game": "ELDEN RING",
-    "viewers": "408"
-  },
-  {
-    "name": "dasnerth",
-    "game": "VALORANT",
-    "viewers": "408"
-  },
-  {
-    "name": "crouching_tuna",
-    "game": "Path of Exile",
-    "viewers": "407"
-  },
-  {
-    "name": "coreano",
-    "game": "Rust",
-    "viewers": "407"
-  },
-  {
-    "name": "torro",
-    "game": "ARC Raiders",
-    "viewers": "406"
-  },
-  {
-    "name": "ow_pepper",
-    "game": "ARK: Survival Ascended",
-    "viewers": "405"
-  },
-  {
-    "name": "kyriocifer",
-    "game": "Just Chatting",
-    "viewers": "404"
-  },
-  {
-    "name": "caedye_fps",
-    "game": "Among Us 3D: VR",
-    "viewers": "402"
-  },
-  {
-    "name": "humility",
-    "game": "WAKFU",
-    "viewers": "402"
-  },
-  {
-    "name": "romainjacques_",
-    "game": "Fear & Hunger 2: Termina",
-    "viewers": "401"
-  },
-  {
-    "name": "detdert",
-    "game": "League of Legends",
-    "viewers": "401"
-  },
-  {
-    "name": "kutcherlol",
+    "name": "zmok",
     "game": "World of Warcraft",
-    "viewers": "401"
+    "viewers": "425"
   },
   {
-    "name": "kettletoro",
-    "game": "Zenless Zone Zero",
-    "viewers": "399"
+    "name": "pasdebol_tft",
+    "game": "Teamfight Tactics",
+    "viewers": "424"
   },
   {
-    "name": "taksebeyarik",
+    "name": "7yovo",
     "game": "Just Chatting",
-    "viewers": "398"
-  },
-  {
-    "name": "kant0211",
-    "game": "VALORANT",
-    "viewers": "397"
+    "viewers": "424"
   },
   {
     "name": "titavion",
     "game": "Metroid Prime 2: Echoes",
-    "viewers": "396"
+    "viewers": "423"
   },
   {
-    "name": "katastroff",
-    "game": "Just Chatting",
-    "viewers": "396"
+    "name": "bullseye",
+    "game": "Escape from Tarkov",
+    "viewers": "423"
   },
   {
-    "name": "garbazan",
-    "game": "Grand Theft Auto V",
-    "viewers": "395"
+    "name": "furgoth",
+    "game": "Total War: WARHAMMER III",
+    "viewers": "421"
   },
   {
     "name": "elnueveenvivo",
     "game": "",
-    "viewers": "395"
+    "viewers": "420"
   },
   {
-    "name": "frozencrystal",
-    "game": "Honkai: Star Rail",
-    "viewers": "394"
+    "name": "patoalbion",
+    "game": "Albion Online",
+    "viewers": "418"
   },
   {
-    "name": "flip_switch",
-    "game": "Project Zomboid",
-    "viewers": "392"
-  },
-  {
-    "name": "zondalol",
-    "game": "Escape from Tarkov",
-    "viewers": "392"
-  },
-  {
-    "name": "lycrys_tg",
-    "game": "Virtual Casino",
-    "viewers": "391"
-  },
-  {
-    "name": "shurkou",
-    "game": "Teamfight Tactics",
-    "viewers": "391"
-  },
-  {
-    "name": "billybella_",
-    "game": "Just Chatting",
-    "viewers": "390"
-  },
-  {
-    "name": "batemanl9",
+    "name": "detdert",
     "game": "League of Legends",
-    "viewers": "390"
+    "viewers": "417"
+  },
+  {
+    "name": "mike4h",
+    "game": "Grand Theft Auto V",
+    "viewers": "416"
+  },
+  {
+    "name": "marinelord",
+    "game": "Age of Empires IV",
+    "viewers": "415"
+  },
+  {
+    "name": "kutcherlol",
+    "game": "World of Warcraft",
+    "viewers": "415"
+  },
+  {
+    "name": "phyzikk",
+    "game": "Battlefield REDSEC",
+    "viewers": "415"
+  },
+  {
+    "name": "missdietchaos",
+    "game": "Escape from Tarkov",
+    "viewers": "414"
+  },
+  {
+    "name": "hiro_llol",
+    "game": "League of Legends",
+    "viewers": "414"
+  },
+  {
+    "name": "summerseachels",
+    "game": "Albion Online",
+    "viewers": "413"
+  },
+  {
+    "name": "riirex",
+    "game": "ELDEN RING",
+    "viewers": "413"
   },
   {
     "name": "g_birb",
     "game": "Dead by Daylight",
-    "viewers": "389"
+    "viewers": "412"
   },
   {
-    "name": "canalquickie",
+    "name": "deemonrider",
+    "game": "Pokémon Community Game",
+    "viewers": "412"
+  },
+  {
+    "name": "billybella_",
     "game": "Just Chatting",
-    "viewers": "389"
+    "viewers": "411"
+  },
+  {
+    "name": "tingting57",
+    "game": "ASMR",
+    "viewers": "411"
+  },
+  {
+    "name": "qwinkiii",
+    "game": "Dota 2",
+    "viewers": "411"
+  },
+  {
+    "name": "kingsobe",
+    "game": "League of Legends",
+    "viewers": "411"
+  },
+  {
+    "name": "kevinitss",
+    "game": "Just Chatting",
+    "viewers": "410"
+  },
+  {
+    "name": "satoasmr",
+    "game": "ASMR",
+    "viewers": "410"
+  },
+  {
+    "name": "hasi",
+    "game": "IRL",
+    "viewers": "410"
+  },
+  {
+    "name": "hotbeatstv",
+    "game": "DJs",
+    "viewers": "410"
   },
   {
     "name": "qsnake",
     "game": "Dota 2",
+    "viewers": "409"
+  },
+  {
+    "name": "ackerman_cs",
+    "game": "Black Russia",
+    "viewers": "409"
+  },
+  {
+    "name": "kyriocifer",
+    "game": "Just Chatting",
+    "viewers": "409"
+  },
+  {
+    "name": "kettletoro",
+    "game": "Zenless Zone Zero",
+    "viewers": "408"
+  },
+  {
+    "name": "qchaan_9",
+    "game": "Just Chatting",
+    "viewers": "407"
+  },
+  {
+    "name": "yume",
+    "game": "Strange Antiquities",
+    "viewers": "407"
+  },
+  {
+    "name": "opus_magnum",
+    "game": "Mount & Blade II: Bannerlord",
+    "viewers": "407"
+  },
+  {
+    "name": "z60411",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "406"
+  },
+  {
+    "name": "caedye_fps",
+    "game": "Among Us 3D: VR",
+    "viewers": "405"
+  },
+  {
+    "name": "xixauxas",
+    "game": "League of Legends",
+    "viewers": "405"
+  },
+  {
+    "name": "torro",
+    "game": "ARC Raiders",
+    "viewers": "404"
+  },
+  {
+    "name": "albiononline",
+    "game": "Albion Online",
+    "viewers": "403"
+  },
+  {
+    "name": "gonsabellla",
+    "game": "IRL",
+    "viewers": "400"
+  },
+  {
+    "name": "dannykoopa",
+    "game": "ARC Raiders",
+    "viewers": "400"
+  },
+  {
+    "name": "krayn_live",
+    "game": "Soulframe",
+    "viewers": "399"
+  },
+  {
+    "name": "canalquickie",
+    "game": "Just Chatting",
+    "viewers": "398"
+  },
+  {
+    "name": "mirageeputo_",
+    "game": "Le Mans Ultimate",
+    "viewers": "398"
+  },
+  {
+    "name": "lostkittn",
+    "game": "Just Chatting",
+    "viewers": "398"
+  },
+  {
+    "name": "romainjacques_",
+    "game": "Fear & Hunger 2: Termina",
+    "viewers": "397"
+  },
+  {
+    "name": "anaismrn",
+    "game": "Just Chatting",
+    "viewers": "397"
+  },
+  {
+    "name": "brobbenlive",
+    "game": "Overwatch 2",
+    "viewers": "397"
+  },
+  {
+    "name": "maskedwolf",
+    "game": "ARC Raiders",
+    "viewers": "397"
+  },
+  {
+    "name": "riqqeloff",
+    "game": "Rust",
+    "viewers": "395"
+  },
+  {
+    "name": "kant0211",
+    "game": "VALORANT",
+    "viewers": "395"
+  },
+  {
+    "name": "batemanl9",
+    "game": "League of Legends",
+    "viewers": "395"
+  },
+  {
+    "name": "rogolan81",
+    "game": "Clair Obscur: Expedition 33",
+    "viewers": "393"
+  },
+  {
+    "name": "chachayourvmom",
+    "game": "Just Chatting",
+    "viewers": "393"
+  },
+  {
+    "name": "merretje",
+    "game": "Minecraft",
+    "viewers": "393"
+  },
+  {
+    "name": "bakedjake",
+    "game": "Arena Breakout: Infinite",
+    "viewers": "391"
+  },
+  {
+    "name": "mmegacs",
+    "game": "Virtual Casino",
+    "viewers": "390"
+  },
+  {
+    "name": "rexlent90",
+    "game": "Where Winds Meet",
+    "viewers": "389"
+  },
+  {
+    "name": "yunicorn19",
+    "game": "Just Chatting",
+    "viewers": "388"
+  },
+  {
+    "name": "yeo_ul",
+    "game": "Just Chatting",
+    "viewers": "388"
+  },
+  {
+    "name": "waayz1n",
+    "game": "Virtual Casino",
+    "viewers": "388"
+  },
+  {
+    "name": "qakasha",
+    "game": "Just Chatting",
     "viewers": "387"
   },
   {
     "name": "punchodd",
     "game": "INAZUMA ELEVEN: Victory Road",
-    "viewers": "387"
+    "viewers": "386"
   },
   {
-    "name": "anaismrn",
+    "name": "sinerias",
+    "game": "League of Legends",
+    "viewers": "386"
+  },
+  {
+    "name": "ow_pepper",
+    "game": "ARK: Survival Ascended",
+    "viewers": "386"
+  },
+  {
+    "name": "l0k0hgaming",
     "game": "Just Chatting",
-    "viewers": "387"
-  },
-  {
-    "name": "deemonrider",
-    "game": "Pokémon Community Game",
     "viewers": "385"
   },
   {
-    "name": "kurisu",
-    "game": "Just Chatting",
+    "name": "zondalol",
+    "game": "Escape from Tarkov",
+    "viewers": "385"
+  },
+  {
+    "name": "frozencrystal",
+    "game": "Honkai: Star Rail",
     "viewers": "384"
   },
   {
-    "name": "sansars_",
-    "game": "Escape from Tarkov",
+    "name": "taidaaaa_",
+    "game": "Apex Legends",
     "viewers": "384"
   },
   {
-    "name": "piro0520",
-    "game": "PUBG: BATTLEGROUNDS",
-    "viewers": "383"
-  },
-  {
-    "name": "buggy",
-    "game": "Arena Breakout: Infinite",
-    "viewers": "383"
-  },
-  {
-    "name": "qakasha",
-    "game": "Just Chatting",
-    "viewers": "381"
-  },
-  {
-    "name": "rexlent90",
-    "game": "Where Winds Meet",
-    "viewers": "378"
-  },
-  {
-    "name": "youka666",
-    "game": "Counter-Strike",
-    "viewers": "378"
-  },
-  {
-    "name": "jonk",
-    "game": "Escape from Tarkov",
-    "viewers": "378"
-  },
-  {
-    "name": "meatyhook",
-    "game": "They Are Billions",
-    "viewers": "377"
-  },
-  {
-    "name": "9qoq",
-    "game": "Delta Force",
-    "viewers": "375"
-  },
-  {
-    "name": "rogolan81",
-    "game": "Clair Obscur: Expedition 33",
-    "viewers": "374"
-  },
-  {
-    "name": "albiononline",
-    "game": "Albion Online",
-    "viewers": "374"
-  },
-  {
-    "name": "hyliandescent",
-    "game": "Food & Drink",
-    "viewers": "373"
-  },
-  {
-    "name": "inneshx",
-    "game": "ARC Raiders",
-    "viewers": "373"
-  },
-  {
-    "name": "lumituber",
-    "game": "Just Chatting",
-    "viewers": "372"
-  },
-  {
-    "name": "mmegacs",
-    "game": "Virtual Casino",
-    "viewers": "370"
-  },
-  {
-    "name": "xixauxas",
-    "game": "League of Legends",
-    "viewers": "370"
-  },
-  {
-    "name": "alexnoviaoff",
-    "game": "Grand Theft Auto V",
-    "viewers": "370"
-  },
-  {
-    "name": "gagod",
-    "game": "Battlefield REDSEC",
-    "viewers": "368"
-  },
-  {
-    "name": "brobbenlive",
-    "game": "Overwatch 2",
-    "viewers": "368"
-  },
-  {
-    "name": "alexisshv",
-    "game": "Just Chatting",
-    "viewers": "368"
-  },
-  {
-    "name": "kick_freak",
-    "game": "Heroes of Might and Magic III: The Restoration of Erathia",
-    "viewers": "367"
-  },
-  {
-    "name": "ortis",
-    "game": "ARC Raiders",
-    "viewers": "367"
-  },
-  {
-    "name": "givinglifetop",
+    "name": "lontartv",
     "game": "World of Warcraft",
-    "viewers": "367"
+    "viewers": "383"
   },
   {
-    "name": "opus_magnum",
-    "game": "Mount & Blade II: Bannerlord",
-    "viewers": "367"
-  },
-  {
-    "name": "luxiegames",
-    "game": "Just Chatting",
-    "viewers": "365"
-  },
-  {
-    "name": "tikhonfair",
-    "game": "Arena Breakout: Infinite",
-    "viewers": "365"
+    "name": "geolivegg",
+    "game": "Where Winds Meet",
+    "viewers": "383"
   },
   {
     "name": "divi",
     "game": "Just Chatting",
-    "viewers": "365"
+    "viewers": "383"
   },
   {
-    "name": "flamuu",
+    "name": "nitrao",
+    "game": "Overwatch 2",
+    "viewers": "382"
+  },
+  {
+    "name": "lycrys_tg",
+    "game": "Virtual Casino",
+    "viewers": "382"
+  },
+  {
+    "name": "prefoxfox",
+    "game": "World of Warcraft",
+    "viewers": "382"
+  },
+  {
+    "name": "hyliandescent",
+    "game": "Food & Drink",
+    "viewers": "381"
+  },
+  {
+    "name": "amaz",
     "game": "Just Chatting",
-    "viewers": "364"
+    "viewers": "380"
   },
   {
-    "name": "yurapivo",
+    "name": "farbenfuchs",
     "game": "Just Chatting",
-    "viewers": "363"
+    "viewers": "380"
   },
   {
-    "name": "mada",
-    "game": "Battlefield 6",
-    "viewers": "362"
+    "name": "lumituber",
+    "game": "Batman: Arkham Origins",
+    "viewers": "379"
   },
   {
-    "name": "arquel",
+    "name": "kamilius1",
     "game": "League of Legends",
-    "viewers": "362"
+    "viewers": "378"
   },
   {
-    "name": "jennyyl",
-    "game": "VALORANT",
-    "viewers": "362"
+    "name": "garbazan",
+    "game": "Grand Theft Auto V",
+    "viewers": "378"
   },
   {
     "name": "vkingplays",
     "game": "Hearthstone",
-    "viewers": "361"
+    "viewers": "378"
+  },
+  {
+    "name": "buggy",
+    "game": "Arena Breakout: Infinite",
+    "viewers": "375"
+  },
+  {
+    "name": "azrael",
+    "game": "Grand Theft Auto V",
+    "viewers": "375"
+  },
+  {
+    "name": "riepeko",
+    "game": "Escape from Tarkov",
+    "viewers": "374"
+  },
+  {
+    "name": "givinglifetop",
+    "game": "World of Warcraft",
+    "viewers": "373"
+  },
+  {
+    "name": "flip_switch",
+    "game": "Project Zomboid",
+    "viewers": "373"
+  },
+  {
+    "name": "srserpiente",
+    "game": "Just Chatting",
+    "viewers": "373"
+  },
+  {
+    "name": "wakayashi",
+    "game": "Black Desert",
+    "viewers": "372"
+  },
+  {
+    "name": "chreak",
+    "game": "League of Legends",
+    "viewers": "370"
+  },
+  {
+    "name": "piro0520",
+    "game": "PUBG: BATTLEGROUNDS",
+    "viewers": "369"
+  },
+  {
+    "name": "avatariaclub",
+    "game": "Just Chatting",
+    "viewers": "369"
   },
   {
     "name": "aiola",
     "game": "Aion 2",
-    "viewers": "361"
+    "viewers": "368"
   },
   {
-    "name": "skidohunter",
-    "game": "Escape from Tarkov",
-    "viewers": "360"
+    "name": "alepre98",
+    "game": "Just Chatting",
+    "viewers": "367"
+  },
+  {
+    "name": "amor_ed",
+    "game": "Dota 2",
+    "viewers": "367"
+  },
+  {
+    "name": "centholebest",
+    "game": "Just Chatting",
+    "viewers": "366"
+  },
+  {
+    "name": "luxiegames",
+    "game": "Just Chatting",
+    "viewers": "366"
+  },
+  {
+    "name": "meatyhook",
+    "game": "They Are Billions",
+    "viewers": "366"
+  },
+  {
+    "name": "arivumani2023",
+    "game": "",
+    "viewers": "366"
+  },
+  {
+    "name": "xacceptiion",
+    "game": "Games + Demos",
+    "viewers": "365"
+  },
+  {
+    "name": "mada",
+    "game": "Battlefield 6",
+    "viewers": "364"
+  },
+  {
+    "name": "girlk1d",
+    "game": "VALORANT",
+    "viewers": "363"
+  },
+  {
+    "name": "gagod",
+    "game": "Battlefield REDSEC",
+    "viewers": "363"
+  },
+  {
+    "name": "9qoq",
+    "game": "Delta Force",
+    "viewers": "363"
   },
   {
     "name": "hatfilms",
     "game": "Talk Shows & Podcasts",
+    "viewers": "362"
+  },
+  {
+    "name": "rodenasink",
+    "game": "Winter Burrow",
+    "viewers": "362"
+  },
+  {
+    "name": "jonk",
+    "game": "Escape from Tarkov",
+    "viewers": "361"
+  },
+  {
+    "name": "freyja",
+    "game": "ARC Raiders",
+    "viewers": "360"
+  },
+  {
+    "name": "shurkou",
+    "game": "Teamfight Tactics",
     "viewers": "359"
   },
   {
-    "name": "satoasmr",
-    "game": "ASMR",
-    "viewers": "358"
-  },
-  {
-    "name": "wildgnomos",
-    "game": "IRL",
+    "name": "kick_freak",
+    "game": "Heroes of Might and Magic III: The Restoration of Erathia",
     "viewers": "358"
   },
   {
@@ -4250,193 +4300,183 @@
     "viewers": "358"
   },
   {
-    "name": "dimass5",
-    "game": "Counter-Strike",
+    "name": "smashlunatic",
+    "game": "RV There Yet?",
     "viewers": "358"
   },
   {
-    "name": "spicyaka",
-    "game": "PUBG: BATTLEGROUNDS",
+    "name": "brizz94",
+    "game": "League of Legends",
     "viewers": "357"
   },
   {
-    "name": "stiflerstream",
-    "game": "Albion Online",
-    "viewers": "356"
-  },
-  {
-    "name": "srserpiente",
-    "game": "Just Chatting",
-    "viewers": "356"
+    "name": "babu_desu",
+    "game": "ASMR",
+    "viewers": "357"
   },
   {
     "name": "xandr_sh",
     "game": "Of Ash and Steel",
+    "viewers": "356"
+  },
+  {
+    "name": "skidohunter",
+    "game": "Escape from Tarkov",
+    "viewers": "356"
+  },
+  {
+    "name": "dimass5",
+    "game": "Counter-Strike",
+    "viewers": "356"
+  },
+  {
+    "name": "ortis",
+    "game": "ARC Raiders",
     "viewers": "355"
   },
   {
-    "name": "crtopioxd",
-    "game": "ARC Raiders",
-    "viewers": "354"
-  },
-  {
-    "name": "peacemakerl",
-    "game": "Counter-Strike",
-    "viewers": "354"
-  },
-  {
-    "name": "summerseachels",
-    "game": "Albion Online",
-    "viewers": "353"
-  },
-  {
-    "name": "smashlunatic",
-    "game": "RV There Yet?",
-    "viewers": "353"
-  },
-  {
-    "name": "heyitsyolo",
-    "game": "Crypto",
-    "viewers": "352"
-  },
-  {
-    "name": "bakedjake",
-    "game": "Arena Breakout: Infinite",
-    "viewers": "351"
-  },
-  {
-    "name": "manatylol",
-    "game": "League of Legends",
-    "viewers": "350"
-  },
-  {
-    "name": "krayn_live",
+    "name": "kurisu",
     "game": "Just Chatting",
-    "viewers": "350"
+    "viewers": "355"
   },
   {
-    "name": "foxrabbit",
-    "game": "ARK: Survival Ascended",
-    "viewers": "350"
+    "name": "maysielive",
+    "game": "Minecraft",
+    "viewers": "355"
   },
   {
-    "name": "chreak",
-    "game": "League of Legends",
-    "viewers": "350"
+    "name": "k2nnn8",
+    "game": "Rocket League",
+    "viewers": "355"
+  },
+  {
+    "name": "skevich_",
+    "game": "ARC Raiders",
+    "viewers": "353"
+  },
+  {
+    "name": "butters",
+    "game": "Destiny 2",
+    "viewers": "353"
+  },
+  {
+    "name": "paulinho52ot",
+    "game": "IRL",
+    "viewers": "352"
   },
   {
     "name": "emilycc",
     "game": "Just Chatting",
+    "viewers": "352"
+  },
+  {
+    "name": "ocie_casts",
+    "game": "Overwatch 2",
+    "viewers": "351"
+  },
+  {
+    "name": "einz",
+    "game": "IRL",
     "viewers": "350"
   },
   {
-    "name": "arthars",
-    "game": "Aion 2",
-    "viewers": "349"
-  },
-  {
-    "name": "riqqeloff",
-    "game": "Rust",
-    "viewers": "349"
-  },
-  {
-    "name": "merretje",
-    "game": "Minecraft",
-    "viewers": "348"
-  },
-  {
-    "name": "poul_maniac",
-    "game": "Just Chatting",
-    "viewers": "348"
-  },
-  {
-    "name": "albino",
-    "game": "I Wanna Be The Guy Remastered",
-    "viewers": "348"
-  },
-  {
-    "name": "qqdoya",
-    "game": "Where Winds Meet",
-    "viewers": "347"
-  },
-  {
-    "name": "barukodayo",
-    "game": "It Takes Two",
-    "viewers": "347"
-  },
-  {
-    "name": "roedie",
-    "game": "Minecraft",
-    "viewers": "346"
-  },
-  {
-    "name": "nanabrown_",
-    "game": "Just Chatting",
-    "viewers": "346"
-  },
-  {
-    "name": "arivumani2023",
-    "game": "",
-    "viewers": "346"
-  },
-  {
-    "name": "meitneri109",
-    "game": "STALCRAFT: X",
-    "viewers": "346"
-  },
-  {
-    "name": "prefoxfox",
-    "game": "World of Warcraft",
-    "viewers": "346"
-  },
-  {
-    "name": "m2_kento_heluan",
-    "game": "Grand Theft Auto V",
-    "viewers": "346"
-  },
-  {
-    "name": "girlk1d",
+    "name": "rassya12",
     "game": "VALORANT",
-    "viewers": "345"
+    "viewers": "350"
   },
   {
-    "name": "washidai_",
-    "game": "League of Legends",
-    "viewers": "345"
+    "name": "heyitsyolo",
+    "game": "Crypto",
+    "viewers": "350"
   },
   {
-    "name": "fatcat2001_",
-    "game": "Overwatch 2",
-    "viewers": "345"
+    "name": "dasnerth",
+    "game": "VALORANT",
+    "viewers": "350"
   },
   {
-    "name": "anthony_kongphan",
-    "game": "ARC Raiders",
-    "viewers": "345"
-  },
-  {
-    "name": "gskianto",
-    "game": "IRL",
-    "viewers": "344"
-  },
-  {
-    "name": "hiro_llol",
-    "game": "League of Legends",
-    "viewers": "344"
-  },
-  {
-    "name": "melapustelnik",
-    "game": "Just Chatting",
-    "viewers": "343"
-  },
-  {
-    "name": "viikonloppu",
-    "game": "Old School RuneScape",
-    "viewers": "343"
+    "name": "peacemakerl",
+    "game": "Counter-Strike",
+    "viewers": "350"
   },
   {
     "name": "crisheroes",
     "game": "Pokémon UNITE",
+    "viewers": "349"
+  },
+  {
+    "name": "eeviex",
+    "game": "ARC Raiders",
+    "viewers": "348"
+  },
+  {
+    "name": "kedos",
+    "game": "Minecraft",
+    "viewers": "347"
+  },
+  {
+    "name": "m2_kento_heluan",
+    "game": "Grand Theft Auto V",
+    "viewers": "347"
+  },
+  {
+    "name": "himechiivt",
+    "game": "Just Chatting",
+    "viewers": "346"
+  },
+  {
+    "name": "shenryyr",
+    "game": "Europa Universalis V",
+    "viewers": "346"
+  },
+  {
+    "name": "spicyaka",
+    "game": "PUBG: BATTLEGROUNDS",
+    "viewers": "346"
+  },
+  {
+    "name": "sergiofferra",
+    "game": "Just Chatting",
+    "viewers": "346"
+  },
+  {
+    "name": "arthars",
+    "game": "Aion 2",
+    "viewers": "345"
+  },
+  {
+    "name": "manatylol",
+    "game": "League of Legends",
+    "viewers": "344"
+  },
+  {
+    "name": "washidai_",
+    "game": "League of Legends",
+    "viewers": "344"
+  },
+  {
+    "name": "zuluxxman",
+    "game": "PUBG: BATTLEGROUNDS",
+    "viewers": "344"
+  },
+  {
+    "name": "niao16888",
+    "game": "Just Chatting",
+    "viewers": "343"
+  },
+  {
+    "name": "tikhonfair",
+    "game": "Arena Breakout: Infinite",
+    "viewers": "343"
+  },
+  {
+    "name": "wati",
+    "game": "League of Legends",
+    "viewers": "342"
+  },
+  {
+    "name": "inneshx",
+    "game": "Just Chatting",
     "viewers": "342"
   },
   {
@@ -4445,149 +4485,109 @@
     "viewers": "342"
   },
   {
-    "name": "ry6kagop",
-    "game": "Black Desert",
-    "viewers": "342"
-  },
-  {
-    "name": "trenlass",
-    "game": "World of Warships",
+    "name": "ialgosss",
+    "game": "Metin2",
     "viewers": "341"
   },
   {
-    "name": "adowner0",
-    "game": "Black Russia",
-    "viewers": "340"
-  },
-  {
-    "name": "mirageeputo_",
-    "game": "Le Mans Ultimate",
-    "viewers": "339"
-  },
-  {
-    "name": "wati",
+    "name": "arquel",
     "game": "League of Legends",
-    "viewers": "338"
+    "viewers": "341"
   },
   {
-    "name": "zuluxxman",
-    "game": "PUBG: BATTLEGROUNDS",
-    "viewers": "338"
-  },
-  {
-    "name": "avatariaclub",
-    "game": "Just Chatting",
-    "viewers": "338"
-  },
-  {
-    "name": "nitrao",
-    "game": "Overwatch 2",
-    "viewers": "337"
-  },
-  {
-    "name": "fruktoz04ka",
-    "game": "Dota 2",
-    "viewers": "337"
-  },
-  {
-    "name": "narang_421",
-    "game": "Aion 2",
-    "viewers": "336"
-  },
-  {
-    "name": "kamilius1",
-    "game": "League of Legends",
-    "viewers": "335"
-  },
-  {
-    "name": "kedos",
-    "game": "Minecraft",
-    "viewers": "335"
-  },
-  {
-    "name": "pixlriffs",
-    "game": "Minecraft",
-    "viewers": "335"
-  },
-  {
-    "name": "nomanzzz",
-    "game": "Just Chatting",
-    "viewers": "335"
-  },
-  {
-    "name": "levitatena",
-    "game": "League of Legends",
-    "viewers": "335"
-  },
-  {
-    "name": "ialgosss",
-    "game": "Metin2",
-    "viewers": "334"
-  },
-  {
-    "name": "himechiivt",
-    "game": "Just Chatting",
-    "viewers": "334"
-  },
-  {
-    "name": "lostkittn",
-    "game": "Just Chatting",
-    "viewers": "334"
-  },
-  {
-    "name": "shannonmais",
-    "game": "Just Chatting",
-    "viewers": "334"
-  },
-  {
-    "name": "aggo",
-    "game": "Just Chatting",
-    "viewers": "334"
+    "name": "barukodayo",
+    "game": "It Takes Two",
+    "viewers": "341"
   },
   {
     "name": "alliance_hakis",
     "game": "Apex Legends",
-    "viewers": "333"
+    "viewers": "340"
   },
   {
-    "name": "butters",
-    "game": "Destiny 2",
-    "viewers": "333"
-  },
-  {
-    "name": "wakayashi",
+    "name": "ry6kagop",
     "game": "Black Desert",
-    "viewers": "332"
+    "viewers": "340"
   },
   {
-    "name": "centholebest",
-    "game": "Just Chatting",
-    "viewers": "332"
-  },
-  {
-    "name": "feli",
-    "game": "Pokémon Black Version 2",
-    "viewers": "332"
-  },
-  {
-    "name": "fustler",
+    "name": "wildgnomos",
     "game": "IRL",
-    "viewers": "332"
+    "viewers": "339"
   },
   {
-    "name": "antonla11",
-    "game": "Albion Online",
-    "viewers": "332"
+    "name": "anthony_kongphan",
+    "game": "ARC Raiders",
+    "viewers": "338"
   },
   {
-    "name": "komemos",
-    "game": "Wuthering Waves",
-    "viewers": "332"
+    "name": "aggo",
+    "game": "Just Chatting",
+    "viewers": "338"
   },
   {
-    "name": "killerpigeon",
-    "game": "Age of Empires IV",
+    "name": "adowner0",
+    "game": "Black Russia",
+    "viewers": "337"
+  },
+  {
+    "name": "2outcasts",
+    "game": "Arena Breakout: Infinite",
+    "viewers": "336"
+  },
+  {
+    "name": "gskianto",
+    "game": "IRL",
+    "viewers": "336"
+  },
+  {
+    "name": "professeur_shaki",
+    "game": "WAKFU",
+    "viewers": "335"
+  },
+  {
+    "name": "crtopioxd",
+    "game": "ARC Raiders",
+    "viewers": "335"
+  },
+  {
+    "name": "slacked",
+    "game": "Call of Duty: Black Ops 7",
+    "viewers": "335"
+  },
+  {
+    "name": "slaughteronarrival",
+    "game": "Escape from Tarkov",
+    "viewers": "334"
+  },
+  {
+    "name": "lucas57tv",
+    "game": "VALORANT",
+    "viewers": "334"
+  },
+  {
+    "name": "johnolsen_",
+    "game": "Grand Theft Auto V",
+    "viewers": "334"
+  },
+  {
+    "name": "fatcat2001_",
+    "game": "Overwatch 2",
+    "viewers": "333"
+  },
+  {
+    "name": "delacroix22",
+    "game": "ARC Raiders",
+    "viewers": "333"
+  },
+  {
+    "name": "steelegabr",
+    "game": "Counter-Strike",
     "viewers": "331"
+  },
+  {
+    "name": "jhinxx",
+    "game": "Cowboy Life Simulator",
+    "viewers": "330"
   },
   {
     "name": "nagisekaied",
@@ -4600,108 +4600,148 @@
     "viewers": "330"
   },
   {
-    "name": "eeviex",
-    "game": "ARC Raiders",
+    "name": "zeusghostz",
+    "game": "Just Chatting",
     "viewers": "330"
-  },
-  {
-    "name": "2outcasts",
-    "game": "Arena Breakout: Infinite",
-    "viewers": "328"
-  },
-  {
-    "name": "vadimdmish",
-    "game": "Clash Royale",
-    "viewers": "328"
-  },
-  {
-    "name": "dagnolf96",
-    "game": "EA Sports FC 26",
-    "viewers": "326"
   },
   {
     "name": "nervarien",
     "game": "League of Legends",
-    "viewers": "326"
+    "viewers": "329"
   },
   {
-    "name": "delacroix22",
-    "game": "ARC Raiders",
-    "viewers": "325"
-  },
-  {
-    "name": "mainfinitytv",
+    "name": "shannonmais",
     "game": "Just Chatting",
-    "viewers": "324"
+    "viewers": "329"
   },
   {
-    "name": "sakalito",
-    "game": "World of Tanks",
-    "viewers": "324"
+    "name": "stiflerstream",
+    "game": "Albion Online",
+    "viewers": "328"
   },
   {
-    "name": "slacked",
-    "game": "Call of Duty: Black Ops 7",
-    "viewers": "324"
+    "name": "nanabrown_",
+    "game": "SILENT HILL ƒ",
+    "viewers": "327"
   },
   {
-    "name": "breel",
-    "game": "Counter-Strike",
-    "viewers": "324"
-  },
-  {
-    "name": "skifolk",
-    "game": "Where Winds Meet",
-    "viewers": "323"
-  },
-  {
-    "name": "freyja",
-    "game": "ARC Raiders",
-    "viewers": "323"
-  },
-  {
-    "name": "slaughteronarrival",
-    "game": "Escape from Tarkov",
-    "viewers": "323"
-  },
-  {
-    "name": "jrgorkem",
-    "game": "Rise Online",
-    "viewers": "323"
-  },
-  {
-    "name": "hipudding1223",
-    "game": "Melatonin",
-    "viewers": "323"
+    "name": "iitifox",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "327"
   },
   {
     "name": "rei_do_uno",
     "game": "Escape from Tarkov",
-    "viewers": "323"
+    "viewers": "327"
   },
   {
-    "name": "karssi",
-    "game": "Dark Souls: Remastered",
-    "viewers": "323"
+    "name": "fustler",
+    "game": "IRL",
+    "viewers": "326"
   },
   {
-    "name": "lbuffalo",
-    "game": "Rise Online",
-    "viewers": "322"
+    "name": "sakalito",
+    "game": "World of Tanks",
+    "viewers": "326"
   },
   {
-    "name": "ocie_casts",
-    "game": "Overwatch 2",
-    "viewers": "322"
+    "name": "levitatena",
+    "game": "League of Legends",
+    "viewers": "326"
+  },
+  {
+    "name": "viikonloppu",
+    "game": "Old School RuneScape",
+    "viewers": "326"
+  },
+  {
+    "name": "narang_421",
+    "game": "Aion 2",
+    "viewers": "326"
   },
   {
     "name": "idkbutimleila",
     "game": "Project Motor Racing",
+    "viewers": "325"
+  },
+  {
+    "name": "fruktoz04ka",
+    "game": "Dota 2",
+    "viewers": "324"
+  },
+  {
+    "name": "hipudding1223",
+    "game": "Melatonin",
+    "viewers": "324"
+  },
+  {
+    "name": "soloumido",
+    "game": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+    "viewers": "324"
+  },
+  {
+    "name": "d1rtyd3vil",
+    "game": "Solo Leveling: ARISE OVERDRIVE",
+    "viewers": "324"
+  },
+  {
+    "name": "killerpigeon",
+    "game": "Age of Empires IV",
+    "viewers": "323"
+  },
+  {
+    "name": "spajkk",
+    "game": "Counter-Strike",
+    "viewers": "323"
+  },
+  {
+    "name": "inntale",
+    "game": "Dungeons & Dragons",
+    "viewers": "323"
+  },
+  {
+    "name": "minpojke",
+    "game": "World of Warcraft",
+    "viewers": "322"
+  },
+  {
+    "name": "malena0202",
+    "game": "Minecraft",
+    "viewers": "322"
+  },
+  {
+    "name": "meitneri109",
+    "game": "STALCRAFT: X",
+    "viewers": "322"
+  },
+  {
+    "name": "yann",
+    "game": "Counter-Strike",
     "viewers": "321"
   },
   {
-    "name": "steelegabr",
+    "name": "jrgorkem",
+    "game": "Rise Online",
+    "viewers": "321"
+  },
+  {
+    "name": "synq",
+    "game": "Old School RuneScape",
+    "viewers": "321"
+  },
+  {
+    "name": "komemos",
+    "game": "Wuthering Waves",
+    "viewers": "321"
+  },
+  {
+    "name": "breel",
     "game": "Counter-Strike",
+    "viewers": "321"
+  },
+  {
+    "name": "mrlust",
+    "game": "Fortnite",
     "viewers": "321"
   },
   {
@@ -4710,69 +4750,54 @@
     "viewers": "320"
   },
   {
-    "name": "professeur_shaki",
-    "game": "WAKFU",
+    "name": "roumoney",
+    "game": "Grand Theft Auto V",
     "viewers": "320"
   },
   {
-    "name": "seyyn",
-    "game": "League of Legends",
+    "name": "dagnolf96",
+    "game": "EA Sports FC 26",
     "viewers": "320"
   },
   {
-    "name": "lontartv",
-    "game": "World of Warcraft",
+    "name": "elly",
+    "game": "Where Winds Meet",
     "viewers": "320"
   },
   {
-    "name": "wakiwaki612",
-    "game": "ARC Raiders",
-    "viewers": "320"
+    "name": "vadimdmish",
+    "game": "Clash Royale",
+    "viewers": "319"
   },
   {
-    "name": "iitifox",
-    "game": "FINAL FANTASY XIV ONLINE",
+    "name": "mendovozka",
+    "game": "Grand Theft Auto V",
     "viewers": "318"
   },
   {
-    "name": "rassya12",
-    "game": "VALORANT",
+    "name": "lbuffalo",
+    "game": "Rise Online",
     "viewers": "318"
   },
   {
-    "name": "lanje_live",
-    "game": "World of Warcraft",
+    "name": "foxrabbit",
+    "game": "ARK: Survival Ascended",
     "viewers": "318"
-  },
-  {
-    "name": "yuseafn",
-    "game": "VALORANT",
-    "viewers": "317"
-  },
-  {
-    "name": "loge_tv",
-    "game": "Star Citizen",
-    "viewers": "317"
-  },
-  {
-    "name": "joona",
-    "game": "VALORANT",
-    "viewers": "317"
-  },
-  {
-    "name": "mikeses",
-    "game": "IRL",
-    "viewers": "316"
   },
   {
     "name": "londoncontroller",
     "game": "Microsoft Flight Simulator 2024",
-    "viewers": "316"
+    "viewers": "318"
   },
   {
-    "name": "babu_desu",
-    "game": "ASMR",
-    "viewers": "316"
+    "name": "crystalst",
+    "game": "Grand Theft Auto V",
+    "viewers": "317"
+  },
+  {
+    "name": "the_happy_hog",
+    "game": "Just Chatting",
+    "viewers": "317"
   },
   {
     "name": "khizamedusa",
@@ -4780,128 +4805,158 @@
     "viewers": "315"
   },
   {
-    "name": "yann",
-    "game": "Counter-Strike",
-    "viewers": "314"
+    "name": "pixlriffs",
+    "game": "Minecraft",
+    "viewers": "315"
   },
   {
-    "name": "shenryyr",
-    "game": "Europa Universalis V",
-    "viewers": "314"
-  },
-  {
-    "name": "the_happy_hog",
+    "name": "nomanzzz",
     "game": "Just Chatting",
-    "viewers": "314"
+    "viewers": "315"
   },
   {
-    "name": "theorus_",
-    "game": "Just Chatting",
-    "viewers": "313"
+    "name": "loge_tv",
+    "game": "Star Citizen",
+    "viewers": "315"
+  },
+  {
+    "name": "karssi",
+    "game": "Dark Souls: Remastered",
+    "viewers": "315"
   },
   {
     "name": "imp3",
     "game": "League of Legends",
-    "viewers": "313"
+    "viewers": "315"
   },
   {
-    "name": "kuentinlol",
-    "game": "League of Legends",
-    "viewers": "312"
+    "name": "lanje_live",
+    "game": "World of Warcraft",
+    "viewers": "315"
   },
   {
-    "name": "crystalst",
-    "game": "Grand Theft Auto V",
-    "viewers": "312"
-  },
-  {
-    "name": "fuzer",
-    "game": "Escape from Tarkov",
-    "viewers": "311"
-  },
-  {
-    "name": "staton",
-    "game": "Pokémon FireRed/LeafGreen",
-    "viewers": "311"
-  },
-  {
-    "name": "retrolongplay",
-    "game": "Retro",
-    "viewers": "311"
-  },
-  {
-    "name": "nwbigboss",
-    "game": "FINAL FANTASY XIV ONLINE",
-    "viewers": "311"
-  },
-  {
-    "name": "lentbb",
-    "game": "Counter-Strike",
-    "viewers": "310"
-  },
-  {
-    "name": "daku",
-    "game": "Where Winds Meet",
-    "viewers": "310"
-  },
-  {
-    "name": "sergiofferra",
+    "name": "qqdoya",
     "game": "Just Chatting",
-    "viewers": "310"
+    "viewers": "314"
   },
   {
-    "name": "detoo",
-    "game": "ARC Raiders",
-    "viewers": "310"
-  },
-  {
-    "name": "elis",
-    "game": "Where Winds Meet",
-    "viewers": "310"
-  },
-  {
-    "name": "xargon0731",
-    "game": "Delta Force",
-    "viewers": "309"
-  },
-  {
-    "name": "eslcs",
-    "game": "Counter-Strike",
-    "viewers": "309"
-  },
-  {
-    "name": "farbenfuchs",
-    "game": "Just Chatting",
-    "viewers": "309"
+    "name": "basssultanhengzt45",
+    "game": "Slots",
+    "viewers": "314"
   },
   {
     "name": "brizereins",
     "game": "DayZ",
-    "viewers": "309"
+    "viewers": "314"
   },
   {
     "name": "lowyyy95",
     "game": "Grand Theft Auto V",
+    "viewers": "314"
+  },
+  {
+    "name": "joona",
+    "game": "VALORANT",
+    "viewers": "314"
+  },
+  {
+    "name": "eslcs",
+    "game": "Counter-Strike",
+    "viewers": "313"
+  },
+  {
+    "name": "trenlass",
+    "game": "World of Warships",
+    "viewers": "313"
+  },
+  {
+    "name": "casson",
+    "game": "Phasmophobia",
+    "viewers": "313"
+  },
+  {
+    "name": "szzalony",
+    "game": "VALORANT",
+    "viewers": "313"
+  },
+  {
+    "name": "nwbigboss",
+    "game": "FINAL FANTASY XIV ONLINE",
+    "viewers": "313"
+  },
+  {
+    "name": "lentbb",
+    "game": "Counter-Strike",
+    "viewers": "312"
+  },
+  {
+    "name": "mainfinitytv",
+    "game": "Just Chatting",
+    "viewers": "312"
+  },
+  {
+    "name": "mikeses",
+    "game": "IRL",
+    "viewers": "312"
+  },
+  {
+    "name": "kenseitv",
+    "game": "They Are Billions",
+    "viewers": "312"
+  },
+  {
+    "name": "artilh3iro",
+    "game": "Tibia",
+    "viewers": "312"
+  },
+  {
+    "name": "yellowhat",
+    "game": "Magic: The Gathering",
+    "viewers": "311"
+  },
+  {
+    "name": "youka666",
+    "game": "Counter-Strike",
+    "viewers": "311"
+  },
+  {
+    "name": "xargon0731",
+    "game": "Delta Force",
+    "viewers": "310"
+  },
+  {
+    "name": "raskology",
+    "game": "Fortnite",
     "viewers": "309"
   },
   {
-    "name": "marinelord",
-    "game": "Age of Empires IV",
-    "viewers": "308"
+    "name": "shoes",
+    "game": "Escape from Tarkov",
+    "viewers": "309"
   },
   {
-    "name": "malena0202",
-    "game": "Minecraft",
-    "viewers": "308"
-  },
-  {
-    "name": "tomeru1",
+    "name": "linny",
     "game": "Just Chatting",
-    "viewers": "308"
+    "viewers": "309"
   },
   {
-    "name": "riskin",
-    "game": "ARC Raiders",
+    "name": "blexinfinity",
+    "game": "Just Chatting",
+    "viewers": "309"
+  },
+  {
+    "name": "nukadave",
+    "game": "Phasmophobia",
+    "viewers": "309"
+  },
+  {
+    "name": "tobytwofaced",
+    "game": "Escape from Tarkov",
+    "viewers": "309"
+  },
+  {
+    "name": "its_bitz",
+    "game": "Kingdom Come: Deliverance II",
     "viewers": "308"
   },
   {
@@ -4910,93 +4965,38 @@
     "viewers": "307"
   },
   {
-    "name": "basssultanhengzt45",
-    "game": "Slots",
+    "name": "seyyn",
+    "game": "League of Legends",
     "viewers": "307"
   },
   {
-    "name": "linheng0310",
-    "game": "Hearthstone",
+    "name": "daku",
+    "game": "Where Winds Meet",
     "viewers": "307"
   },
   {
-    "name": "mendovozka",
-    "game": "Grand Theft Auto V",
+    "name": "skifolk",
+    "game": "Where Winds Meet",
     "viewers": "306"
   },
   {
-    "name": "d1rtyd3vil",
-    "game": "Solo Leveling: ARISE OVERDRIVE",
+    "name": "yugioh_official",
+    "game": "Yu-Gi-Oh! Master Duel",
+    "viewers": "306"
+  },
+  {
+    "name": "detoo",
+    "game": "ARC Raiders",
     "viewers": "306"
   },
   {
     "name": "lydia__am",
     "game": "Project Motor Racing",
-    "viewers": "304"
+    "viewers": "305"
   },
   {
-    "name": "linny",
+    "name": "theorus_",
     "game": "Just Chatting",
-    "viewers": "304"
-  },
-  {
-    "name": "lufator",
-    "game": "Lost Ark",
-    "viewers": "304"
-  },
-  {
-    "name": "binas",
-    "game": "I'm Only Sleeping",
-    "viewers": "302"
-  },
-  {
-    "name": "hypnoshark",
-    "game": "Spyro 2: Ripto's Rage!",
-    "viewers": "300"
-  },
-  {
-    "name": "artilh3iro",
-    "game": "Tibia",
-    "viewers": "300"
-  },
-  {
-    "name": "paranoidpixi3_za",
-    "game": "ARC Raiders",
-    "viewers": "300"
-  },
-  {
-    "name": "raskology",
-    "game": "Fortnite",
-    "viewers": "299"
-  },
-  {
-    "name": "gunguno",
-    "game": "Just Chatting",
-    "viewers": "299"
-  },
-  {
-    "name": "its_bitz",
-    "game": "Kingdom Come: Deliverance II",
-    "viewers": "299"
-  },
-  {
-    "name": "shoes",
-    "game": "Escape from Tarkov",
-    "viewers": "297"
-  },
-  {
-    "name": "flont66",
-    "game": "Just Chatting",
-    "viewers": "297"
-  },
-  {
-    "name": "inntale",
-    "game": "Dungeons & Dragons",
-    "viewers": "297"
-  },
-  {
-    "name": "zaroide",
-    "game": "Overwatch 2",
-    "viewers": "297"
+    "viewers": "305"
   }
 ]
